@@ -5,7 +5,7 @@ AI 생성 음악을 실제 음악과 구분하고, 학습에서 보지 못한 �
 이 저장소는 Echoes TTA의 AI 생성 음악과 대응되는 FMA 실제 음악을 정제한 뒤, 동일 원곡이 Train/Validation/Test에 섞이지 않도록 `original_audio` 단위로 분할합니다. Handcrafted feature, Log-Mel CNN, frozen MERT 표현을 동일한 평가 원칙 아래 비교합니다.
 
 > 분석 완료일: 2026-09-13
-> 상세 결과: [최종 분석 보고서](docs/FINAL_REPORT.md) · [변경사항](CHANGELOG.md)
+> 상세 결과: [최종 분석 보고서](docs/FINAL_REPORT.md) · [데이터 전처리 및 구조](docs/DATA_PREPROCESSING.md) · [변경사항](CHANGELOG.md)
 
 ## 핵심 결과
 
@@ -90,6 +90,8 @@ flowchart LR
 
 동일한 원곡에서 여러 생성기의 음악이 만들어지는 구조이므로 파일 단위 random split은 누수를 일으킬 수 있습니다. 모든 실험은 `original_audio` group split을 유지하고, scaler·차원축소·모델은 Train에서만 학습하며, threshold와 layer 선택은 Validation에서만 수행했습니다.
 
+전처리 규칙, 각 manifest의 컬럼 의미, segment 위치 결정, padding, 266-D feature 구성, Log-Mel/MERT tensor shape는 [데이터 전처리 및 데이터 구조 상세](docs/DATA_PREPROCESSING.md)에 정리했습니다.
+
 ## 노트북 실행 순서
 
 | 구간 | 노트북 | 역할 |
@@ -117,7 +119,9 @@ flowchart LR
 │   ├── generator_attribution/
 │   ├── generator_fingerprint_visualization/
 │   └── generator_genre_feature_analysis/
-└── docs/FINAL_REPORT.md          # 방법·결과·한계 상세 보고서
+└── docs/
+    ├── DATA_PREPROCESSING.md     # 전처리·schema·tensor shape·QC
+    └── FINAL_REPORT.md           # 방법·결과·한계 상세 보고서
 ```
 
 ## 실행 환경

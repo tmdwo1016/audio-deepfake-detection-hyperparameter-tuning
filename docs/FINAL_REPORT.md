@@ -13,6 +13,8 @@
 
 ## 2. 데이터와 전처리
 
+> 각 입력 파일의 schema, dtype, 결측의 의미, segmentation 공식, padding 현황과 feature tensor shape는 [데이터 전처리 및 데이터 구조 상세](DATA_PREPROCESSING.md)를 참고하십시오.
+
 ### 2.1 데이터 소스
 
 - FAKE: Echoes의 Text-to-Audio(TTA) 음악
@@ -39,6 +41,18 @@ Track label은 REAL 296, FAKE 3,162이며, segment label은 REAL 888, FAKE 9,189
 하나의 원곡에서 여러 생성기의 FAKE 음악과 여러 생성 결과가 파생됩니다. 파일 단위로 무작위 분할하면 같은 source family가 Train과 Test에 동시에 포함될 수 있습니다. 이를 막기 위해 모든 REAL/FAKE track과 segment는 `original_audio` 단위로 묶어 동일 split에 배치했습니다.
 
 모든 scaler와 모델은 Train에서만 적합했습니다. EER threshold, MERT layer 및 early stopping 선택은 Validation에서 수행하고 Test는 최종 평가에만 사용했습니다.
+
+### 2.4 모델 입력 형태
+
+모든 오디오는 24 kHz mono로 변환하고 10초, 즉 240,000-sample float32 waveform으로 맞췄습니다. 실제 decode 길이가 짧으면 뒤를 0으로 padding합니다.
+
+| Representation | Segment 입력/저장 shape | 구성 |
+|---|---|---|
+| Handcrafted | `(266,)` | MFCC 계열 240 + spectral/RMS/ZCR 26 |
+| Log-Mel | `(128, 1001)` | 128 mel bins, FFT 1024, hop 240 |
+| MERT | `(13, 768)` | 입력 표현 + 12 layers, time mean pooling |
+
+전체 cache shape는 각각 Handcrafted `(10077, 266)`, Log-Mel `(10077, 128, 1001)`, MERT `(10077, 13, 768)`입니다.
 
 ## 3. 표현과 모델
 

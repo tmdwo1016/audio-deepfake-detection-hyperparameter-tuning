@@ -8,6 +8,8 @@
 - 방법론, 전체 결과, 해석, 제한사항, 후속 연구를 담은 `docs/FINAL_REPORT.md` 추가
 - 모든 완료 노트북의 마지막 마크다운을 실제 실행 결과 기준으로 갱신
 - GitHub에서 바로 확인할 수 있도록 결과 그림과 상대 경로 연결
+- 원본 manifest부터 waveform, handcrafted, Log-Mel, MERT까지의 schema와 tensor shape를 설명하는 `docs/DATA_PREPROCESSING.md` 추가
+- Group split, duration 정규화, segment 위치 공식, padding 현황, 결측값 의미, strict-balanced 구성과 단계별 QC 상세화
 
 ### 데이터 및 전처리
 
