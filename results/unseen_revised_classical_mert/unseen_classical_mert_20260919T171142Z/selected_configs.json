@@ -1,0 +1,180 @@
+{
+  "run_id": "unseen_classical_mert_20260919T171142Z",
+  "manifest_sha256": "9023dcb21bef5d7163c63ea93258195e53c9fde3ecb7fee5920bf6ff94bbc2b3",
+  "protocol_sha256": "95f1546ce8e3fcedb66e5ef52488c9255e414965514b5163e1a62b9052e4941e",
+  "frozen_mert_revision": "12af15fef9d0ac838c3f475bfbbf26d2060dd4f5",
+  "selection": "filtered Validation Track EER min, Track ROC-AUC max, candidate order",
+  "candidate_counts_per_holdout": {
+    "LogisticRegression": 5,
+    "RBF-SVM": 16,
+    "Frozen MERT + LR": 65
+  },
+  "models": {
+    "musicgen": {
+      "LogisticRegression": {
+        "thresholds": {
+          "segment": 0.5696016663398128,
+          "track": 0.5596993678619072
+        },
+        "checkpoint": "/Users/seungjae/Desktop/SNU/기계학습 & 딥러닝/project/checkpoints/unseen_revised_classical_mert/unseen_classical_mert_20260919T171142Z/musicgen_lr_best.joblib",
+        "checkpoint_sha256": "fc94ca043203703babf80b0e2f1cc515939c6b4cf874a1deebb0d91766c781b8",
+        "candidate": {
+          "run_id": "unseen_classical_mert_20260919T171142Z",
+          "holdout_generator": "musicgen",
+          "model": "LogisticRegression",
+          "candidate_order": 0,
+          "C": 0.01,
+          "gamma": null,
+          "layer": null,
+          "train_segments": 6352,
+          "val_segments": 1409,
+          "val_segment_auc": 0.9206592154908522,
+          "val_segment_eer": 0.1628817541111981,
+          "track_roc_auc": 0.9672004132231404,
+          "track_eer": 0.09090909090909091,
+          "val_track_macro_f1": 0.7965142944503898,
+          "fit_seconds": 0.21956291690003127,
+          "val_inference_seconds": 0.001382665941491723,
+          "warnings": "[]"
+        }
+      },
+      "RBF-SVM": {
+        "thresholds": {
+          "segment": 0.5203660059515663,
+          "track": 0.6250723343997941
+        },
+        "checkpoint": "/Users/seungjae/Desktop/SNU/기계학습 & 딥러닝/project/checkpoints/unseen_revised_classical_mert/unseen_classical_mert_20260919T171142Z/musicgen_svm_best.joblib",
+        "checkpoint_sha256": "92772a76cf6dd5ff029bf5f70be66814b4ef7e40e577f9ca387b9a3c6bb6a832",
+        "candidate": {
+          "run_id": "unseen_classical_mert_20260919T171142Z",
+          "holdout_generator": "musicgen",
+          "model": "RBF-SVM",
+          "candidate_order": 9,
+          "C": 10.0,
+          "gamma": 0.001,
+          "layer": null,
+          "train_segments": 6352,
+          "val_segments": 1409,
+          "val_segment_auc": 0.9387769630526092,
+          "val_segment_eer": 0.13234142521534842,
+          "track_roc_auc": 0.9742768595041322,
+          "track_eer": 0.05909090909090908,
+          "val_track_macro_f1": 0.8524498827882725,
+          "fit_seconds": 0.5378628330072388,
+          "val_inference_seconds": 0.16945895901881158,
+          "warnings": "[]"
+        }
+      },
+      "Frozen MERT + LR": {
+        "thresholds": {
+          "segment": 0.6375213637114566,
+          "track": 0.6284271941861069
+        },
+        "checkpoint": "/Users/seungjae/Desktop/SNU/기계학습 & 딥러닝/project/checkpoints/unseen_revised_classical_mert/unseen_classical_mert_20260919T171142Z/musicgen_mert_best.joblib",
+        "checkpoint_sha256": "f46bb0dc05c294925ec65c65549daf6182560d92b693f2e35109e7d6640aa443",
+        "candidate": {
+          "run_id": "unseen_classical_mert_20260919T171142Z",
+          "holdout_generator": "musicgen",
+          "model": "Frozen MERT + LR",
+          "candidate_order": 45,
+          "C": 0.01,
+          "gamma": null,
+          "layer": 9,
+          "train_segments": 6352,
+          "val_segments": 1409,
+          "val_segment_auc": 0.9713639923115256,
+          "val_segment_eer": 0.08927173061863747,
+          "track_roc_auc": 0.9824380165289255,
+          "track_eer": 0.04772727272727273,
+          "val_track_macro_f1": 0.8791668023489314,
+          "fit_seconds": 0.746814249898307,
+          "val_inference_seconds": 0.008309708093293011,
+          "warnings": "[]"
+        }
+      }
+    },
+    "udio": {
+      "LogisticRegression": {
+        "thresholds": {
+          "segment": 0.5611253091684324,
+          "track": 0.5882207589681193
+        },
+        "checkpoint": "/Users/seungjae/Desktop/SNU/기계학습 & 딥러닝/project/checkpoints/unseen_revised_classical_mert/unseen_classical_mert_20260919T171142Z/udio_lr_best.joblib",
+        "checkpoint_sha256": "59967cc3899461a550988e6e82192629e02ff0451fa3ec59dcbb26ae8cb882a1",
+        "candidate": {
+          "run_id": "unseen_classical_mert_20260919T171142Z",
+          "holdout_generator": "udio",
+          "model": "LogisticRegression",
+          "candidate_order": 0,
+          "C": 0.01,
+          "gamma": null,
+          "layer": null,
+          "train_segments": 6355,
+          "val_segments": 1394,
+          "val_segment_auc": 0.9154180473514864,
+          "val_segment_eer": 0.16798732171156894,
+          "track_roc_auc": 0.959508881922675,
+          "track_eer": 0.10804597701149421,
+          "val_track_macro_f1": 0.7685990338164251,
+          "fit_seconds": 0.4125870829448104,
+          "val_inference_seconds": 0.011452959035523236,
+          "warnings": "[]"
+        }
+      },
+      "RBF-SVM": {
+        "thresholds": {
+          "segment": 0.8908155511908181,
+          "track": 1.005569525739033
+        },
+        "checkpoint": "/Users/seungjae/Desktop/SNU/기계학습 & 딥러닝/project/checkpoints/unseen_revised_classical_mert/unseen_classical_mert_20260919T171142Z/udio_svm_best.joblib",
+        "checkpoint_sha256": "f50fe65a92a87b5633e883bb6aef1256fc224d82d837e349be46df6a9c6cb900",
+        "candidate": {
+          "run_id": "unseen_classical_mert_20260919T171142Z",
+          "holdout_generator": "udio",
+          "model": "RBF-SVM",
+          "candidate_order": 13,
+          "C": 100.0,
+          "gamma": 0.001,
+          "layer": null,
+          "train_segments": 6355,
+          "val_segments": 1394,
+          "val_segment_auc": 0.9352578879124045,
+          "val_segment_eer": 0.1299524564183835,
+          "track_roc_auc": 0.9707419017763845,
+          "track_eer": 0.05747126436781613,
+          "val_track_macro_f1": 0.8562178387650086,
+          "fit_seconds": 0.8637082090135664,
+          "val_inference_seconds": 0.20090895891189575,
+          "warnings": "[]"
+        }
+      },
+      "Frozen MERT + LR": {
+        "thresholds": {
+          "segment": 0.590803291322255,
+          "track": 0.5807422796774432
+        },
+        "checkpoint": "/Users/seungjae/Desktop/SNU/기계학습 & 딥러닝/project/checkpoints/unseen_revised_classical_mert/unseen_classical_mert_20260919T171142Z/udio_mert_best.joblib",
+        "checkpoint_sha256": "2488beae09e0c0e2c765a4c696722a5d7ea44ef5434d7d3bd52990006dea9ccd",
+        "candidate": {
+          "run_id": "unseen_classical_mert_20260919T171142Z",
+          "holdout_generator": "udio",
+          "model": "Frozen MERT + LR",
+          "candidate_order": 40,
+          "C": 0.01,
+          "gamma": null,
+          "layer": 8,
+          "train_segments": 6355,
+          "val_segments": 1394,
+          "val_segment_auc": 0.9671397012918408,
+          "val_segment_eer": 0.07527733755942945,
+          "track_roc_auc": 0.9742424242424242,
+          "track_eer": 0.045454545454545456,
+          "val_track_macro_f1": 0.8833156169722739,
+          "fit_seconds": 0.6394057089928538,
+          "val_inference_seconds": 0.006236084038391709,
+          "warnings": "[]"
+        }
+      }
+    }
+  }
+}

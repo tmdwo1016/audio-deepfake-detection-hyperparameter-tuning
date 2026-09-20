@@ -1,0 +1,50 @@
+{
+  "run_id": "cnn_unseen_fixed_20260919T173228Z",
+  "protocol": "fixed_hyperparameter_transfer",
+  "protocol_sha256": "098fa65192f65fddbf7d65757eb5c6b5c2b1149f79178c27746b4e328ee54a5e",
+  "seed": 42,
+  "device": "mps",
+  "holdouts": [
+    "musicgen",
+    "udio"
+  ],
+  "fixed_config": {
+    "lr": 0.0003,
+    "dropout": 0.3,
+    "batch_size": 16,
+    "weight_decay": 0.001,
+    "max_epochs": 30,
+    "patience": 4,
+    "optimizer": "AdamW",
+    "architecture": "historical_4_conv_blocks"
+  },
+  "mel_settings": {
+    "sr": 24000,
+    "segment_sec": 10,
+    "n_fft": 1024,
+    "hop_length": 240,
+    "n_mels": 128,
+    "fmax": 12000,
+    "center": true,
+    "power": 2.0,
+    "top_db": 80,
+    "ref": "max",
+    "fixed_scale": "(dB+40)/40"
+  },
+  "main_checkpoint": "/Users/seungjae/Desktop/SNU/기계학습 & 딥러닝/project/checkpoints/optimized/cnn_best.pt",
+  "main_checkpoint_sha256": "3268924f7eb57020387c1cfdd305a795378c8d71738e11cf91dafc0118f7c420",
+  "main_best_config_json": "/Users/seungjae/Desktop/SNU/기계학습 & 딥러닝/project/results/model_tuning/cnn_best_config.json",
+  "main_best_config_sha256": "25b28d31d48453c1cafa872f4815b41cf317de60052c310944c75eb4fd9a4003",
+  "manifest_sha256": "9023dcb21bef5d7163c63ea93258195e53c9fde3ecb7fee5920bf6ff94bbc2b3",
+  "cache_index_sha256": "062ef9382b6ed538acbc768d06aee64956567b4a4c7b4cd097e046eae10b0277",
+  "versions": {
+    "python": "3.13.9",
+    "torch": "2.14.0",
+    "numpy": "2.3.5",
+    "pandas": "2.3.3",
+    "scikit_learn": "1.7.2"
+  },
+  "selection_rule": "filtered Validation Track EER asc, AUC desc, epoch asc",
+  "test_cohort_rule": "all original Test REAL plus target-generator FAKE",
+  "prior_exposure": "Main hyperparameters used target-generator Validation; historical target Test results were already public."
+}

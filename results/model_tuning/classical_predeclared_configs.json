@@ -1,0 +1,105 @@
+{
+  "run_id": "classical_20260919T110356Z",
+  "baseline": {
+    "LogisticRegression": {
+      "C": 1.0,
+      "solver": "lbfgs",
+      "penalty": "l2",
+      "class_weight": "balanced",
+      "max_iter": 3000
+    },
+    "RBF-SVM": {
+      "kernel": "rbf",
+      "C": 1.0,
+      "gamma": "scale",
+      "class_weight": "balanced",
+      "probability": false
+    }
+  },
+  "candidates": {
+    "LogisticRegression": [
+      {
+        "C": 0.01
+      },
+      {
+        "C": 0.1
+      },
+      {
+        "C": 1.0
+      },
+      {
+        "C": 10.0
+      },
+      {
+        "C": 100.0
+      }
+    ],
+    "RBF-SVM": [
+      {
+        "C": 0.1,
+        "gamma": "scale"
+      },
+      {
+        "C": 0.1,
+        "gamma": 0.001
+      },
+      {
+        "C": 0.1,
+        "gamma": 0.01
+      },
+      {
+        "C": 0.1,
+        "gamma": 0.1
+      },
+      {
+        "C": 1.0,
+        "gamma": "scale"
+      },
+      {
+        "C": 1.0,
+        "gamma": 0.001
+      },
+      {
+        "C": 1.0,
+        "gamma": 0.01
+      },
+      {
+        "C": 1.0,
+        "gamma": 0.1
+      },
+      {
+        "C": 10.0,
+        "gamma": "scale"
+      },
+      {
+        "C": 10.0,
+        "gamma": 0.001
+      },
+      {
+        "C": 10.0,
+        "gamma": 0.01
+      },
+      {
+        "C": 10.0,
+        "gamma": 0.1
+      },
+      {
+        "C": 100.0,
+        "gamma": "scale"
+      },
+      {
+        "C": 100.0,
+        "gamma": 0.001
+      },
+      {
+        "C": 100.0,
+        "gamma": 0.01
+      },
+      {
+        "C": 100.0,
+        "gamma": 0.1
+      }
+    ]
+  },
+  "selection": "Validation Track EER min, Track ROC-AUC max, candidate_order min"
+}

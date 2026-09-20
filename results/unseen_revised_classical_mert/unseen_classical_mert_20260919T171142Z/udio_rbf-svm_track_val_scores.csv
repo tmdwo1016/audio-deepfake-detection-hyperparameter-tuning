@@ -1,0 +1,480 @@
+﻿run_id,holdout_generator,model,split,level,threshold,track_id,original_audio_id,label,score,n_segments,prediction
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_00002,2 (Wasn't There) - Isle of Pine,0,0.30907212268110246,3,0
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_00013,Agora - Malaventura,0,0.6382127989384415,3,0
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_00027,Beyond Luxury - Mors Ontologica,0,-1.2474751776118445,3,0
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_00043,CopperNickle - UncleBibby,0,0.9729505542903629,3,0
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_00047,Daylight Savings - My brother Daniel,0,0.22736378568544927,3,0
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_00059,Empty Pockets - Pete Prodoehl,0,-0.09323630479243546,3,0
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_00065,Evil Cannot Create - Caleb Lemond,0,-0.31516036061973246,3,0
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_00067,Fear - Los Fancy Free,0,-0.8913434762797724,3,0
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_00068,Fifth Ramble - From the album Keith [RSVP007] - My brother Daniel,0,2.9133725713777867,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_00080,Gila Monster Flop/Music History Lesson:The Sonics - The Crypts!,0,-0.4154067555726952,3,0
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_00095,I Fell - Mod Fun,0,-1.4351479570679573,3,0
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_00099,If You're Ther - Nicola Ratti,0,-0.32207859572467856,3,0
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_00114,Kumorizoranohajimarutokoro - Hosomi,0,-1.7389261968488434,3,0
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_00128,Lights Up - Pipe Choir,0,-0.5784565599588931,3,0
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_00133,Loved Ones - Rowan Box,0,-0.586848079302014,3,0
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_00136,March of the GPA Mechanics - [t]ghost,0,0.33377198757847043,3,0
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_00142,Morning Bell - Nihilore,0,-0.33530310927244794,3,0
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_00147,My Body Is A Weapon (Compromise Edit) - Silence is full of birds,0,-1.6890114641800367,3,0
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_00151,New Life (take 1) - Bird Names,0,-1.8623545902468184,3,0
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_00153,Night Drive - Decktonic,0,-1.2878386940845143,3,0
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_00156,Norweigian Wood II - Bird Names,0,-1.049312644211271,3,0
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_00160,Nuo Maisemat - Paavoharju,0,1.005569525739033,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_00179,Redlight - Room For A Ghost,0,-1.1386830511532222,3,0
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_00185,Roller Star - Monroeville Music Center,0,-1.91405760678695,3,0
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_00187,"Roundtrip - Oh Yeah, the Future",0,-1.965831618714203,3,0
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_00190,SD (Ill Mix) - H-LR,0,-0.22663501183185908,3,0
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_00192,Scramby Eggs - Andy G. Cohen,0,-0.5356742248835804,3,0
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_00200,Shipwrecked Crew - Pete Prodoehl,0,0.29580329861207916,3,0
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_00205,Soleares&beats - Malaventura,0,0.23773079298212693,3,0
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_00211,Stockholm Syndrome / People Should Be More Aware - Bird Names,0,-2.1596235432634803,3,0
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_00215,Sturgeon's Law - Nihilore,0,0.20086754975019003,3,0
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_00242,The Stairway - WarpToken,0,1.2942732590540353,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_00243,The girl just faded - Los Llamarada,0,-1.1064354135515924,3,0
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_00245,Three Bird - My brother Daniel,0,0.6991701311953286,3,0
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_00246,Time Is Love - Silence is full of birds,0,-1.6142937002490323,3,0
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_00248,Timen Passing By - Jason Shaw,0,0.7977880127196997,3,0
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_00255,Understand That This Is A Dream - From the album Modulating Coil [RSVP008] - Forrest James,0,-0.34936774501824425,3,0
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_00261,Voxel - Andy G. Cohen,0,-0.06956487245832517,3,0
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_00267,Westside Chillers - Little Glass Men,0,0.6162300204762691,3,0
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_00273,Windows of the Skull - Sarin,0,-0.21679750730586167,3,0
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_00286,mystery team 2090 - Jesse Futerman,0,-0.2014654710603878,3,0
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_00290,some dextromethorphan - Jeva,0,-1.378496892337365,3,0
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_00292,В Наших Сердцах - Чокнутый Пропеллер,0,-0.7226948927379403,3,0
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_00295,Новый Нью-Йорк 2 - Чокнутый Пропеллер,0,-0.8883154565538467,3,0
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_00299,2 (Wasn't There) - Isle of Pine,1,1.1314797484999672,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_00306,Agora - Malaventura,1,3.3623207775600803,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_00323,Beyond Luxury - Mors Ontologica,1,2.3515449298745796,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_00338,CopperNickle - UncleBibby,1,2.2268681100811913,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_00343,Daylight Savings - My brother Daniel,1,1.6738656582229765,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_00355,Empty Pockets - Pete Prodoehl,1,2.13873396300016,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_00361,Evil Cannot Create - Caleb Lemond,1,2.0467921615293263,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_00363,Fear - Los Fancy Free,1,1.9820759646124948,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_00364,Fifth Ramble - From the album Keith [RSVP007] - My brother Daniel,1,2.572434229845705,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_00376,Gila Monster Flop/Music History Lesson:The Sonics - The Crypts!,1,0.66273674149068,3,0
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_00387,If You're Ther - Nicola Ratti,1,3.587241222076464,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_00397,I Fell - Mod Fun,1,3.4043361043236495,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_00413,Kumorizoranohajimarutokoro - Hosomi,1,3.1288228551039285,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_00425,Lights Up - Pipe Choir,1,1.2434834873743807,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_00431,Loved Ones - Rowan Box,1,2.5779189466055956,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_00435,March of the GPA Mechanics - [t]ghost,1,2.023974800100068,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_00442,Morning Bell - Nihilore,1,1.7473319885399121,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_00447,mystery team 2090 - Jesse Futerman,1,2.4572241460741178,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_00448,My Body Is A Weapon (Compromise Edit) - Silence is full of birds,1,2.1715411304321877,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_00452,New Life (take 1) - Bird Names,1,3.8123771874080874,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_00454,Night Drive - Decktonic,1,2.752669571661956,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_00457,Norweigian Wood II - Bird Names,1,1.5114632468993288,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_00461,Nuo Maisemat - Paavoharju,1,2.1313105698579524,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_00482,Redlight - Room For A Ghost,1,1.0967871508559581,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_00488,Roller Star - Monroeville Music Center,1,3.3269723954890282,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_00490,"Roundtrip - Oh Yeah, the Future",1,2.610602394785798,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_00494,Scramby Eggs - Andy G. Cohen,1,1.3100041347455376,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_00495,SD (Ill Mix) - H-LR,1,1.4484669423487422,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_00503,Shipwrecked Crew - Pete Prodoehl,1,2.1636134344627624,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_00509,Soleares&beats - Malaventura,1,1.3293816235158382,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_00511,some dextromethorphan - Jeva,1,3.5005841810072034,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_00516,Stockholm Syndrome / People Should Be More Aware - Bird Names,1,2.161915239655911,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_00520,Sturgeon's Law - Nihilore,1,2.9488276120706747,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_00539,The girl just faded - Los Llamarada,1,2.3942720903740873,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_00548,The Stairway - WarpToken,1,2.363260533199909,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_00549,Three Bird - My brother Daniel,1,2.4854599995833353,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_00550,Timen Passing By - Jason Shaw,1,1.9427971194592246,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_00551,Time Is Love - Silence is full of birds,1,1.735992059990009,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_00560,Understand That This Is A Dream - From the album Modulating Coil [RSVP008] - Forrest James,1,2.426449363924687,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_00565,Voxel - Andy G. Cohen,1,1.99221058431481,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_00567,Westside Chillers - Little Glass Men,1,1.8927864255333953,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_00586,В Наших Сердцах - Чокнутый Пропеллер,1,1.1318707996715989,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_00589,Новый Нью-Йорк 2 - Чокнутый Пропеллер,1,2.0537272520673864,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_00595,Daylight Savings - My brother Daniel,1,3.811684861594024,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_00596,Three Bird - My brother Daniel,1,3.4649346034700996,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_00609,Timen Passing By - Jason Shaw,1,3.439325026189488,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_00610,Night Drive - Decktonic,1,2.099588573780695,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_00615,Sturgeon's Law - Nihilore,1,2.1172633224070436,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_00617,mystery team 2090 - Jesse Futerman,1,2.9098876336762403,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_00625,Loved Ones - Rowan Box,1,1.5714986350274758,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_00639,CopperNickle - UncleBibby,1,2.8603078118633842,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_00651,Nuo Maisemat - Paavoharju,1,2.6664796043466574,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_00662,SD (Ill Mix) - H-LR,1,2.372774532333486,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_00666,Kumorizoranohajimarutokoro - Hosomi,1,1.8282721732804894,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_00673,some dextromethorphan - Jeva,1,2.3842104315412236,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_00676,Fifth Ramble - From the album Keith [RSVP007] - My brother Daniel,1,2.996557089455997,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_00681,Westside Chillers - Little Glass Men,1,2.3134557460796237,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_00692,If You're Ther - Nicola Ratti,1,3.2619480380036507,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_00693,Understand That This Is A Dream - From the album Modulating Coil [RSVP008] - Forrest James,1,1.3587639357310124,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_00700,The Stairway - WarpToken,1,3.377004610436051,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_00704,Soleares&beats - Malaventura,1,2.7703407616914912,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_00728,Evil Cannot Create - Caleb Lemond,1,3.037809432806188,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_00732,Norweigian Wood II - Bird Names,1,2.7194753850519184,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_00738,Roller Star - Monroeville Music Center,1,5.661588626125564,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_00743,Time Is Love - Silence is full of birds,1,3.2324221651374825,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_00744,Stockholm Syndrome / People Should Be More Aware - Bird Names,1,1.7073823730031854,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_00748,"Roundtrip - Oh Yeah, the Future",1,2.7219354460289424,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_00749,New Life (take 1) - Bird Names,1,3.1364336751562667,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_00751,My Body Is A Weapon (Compromise Edit) - Silence is full of birds,1,3.414445669729026,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_00760,Agora - Malaventura,1,2.710608138300048,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_00768,Empty Pockets - Pete Prodoehl,1,2.3682670394578387,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_00770,Windows of the Skull - Sarin,1,2.236436944915864,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_00773,Gila Monster Flop/Music History Lesson:The Sonics - The Crypts!,1,3.3913709350230743,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_00781,Voxel - Andy G. Cohen,1,3.175098291809585,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_00788,Scramby Eggs - Andy G. Cohen,1,3.9103837693935533,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_00802,I Fell - Mod Fun,1,3.7065529858437487,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_00803,Новый Нью-Йорк 2 - Чокнутый Пропеллер,1,2.7510806939803647,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_00807,March of the GPA Mechanics - [t]ghost,1,2.1032207153474123,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_00812,2 (Wasn't There) - Isle of Pine,1,3.5663583326747825,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_00813,The girl just faded - Los Llamarada,1,1.1423294363664265,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_00819,В Наших Сердцах - Чокнутый Пропеллер,1,2.483536757730006,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_00820,Lights Up - Pipe Choir,1,3.521574348857623,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_00822,Beyond Luxury - Mors Ontologica,1,3.6169317024528067,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_00843,Fear - Los Fancy Free,1,3.2001430160124684,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_00874,Redlight - Room For A Ghost,1,1.9272879917835979,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_00875,Shipwrecked Crew - Pete Prodoehl,1,2.480467551379261,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_00880,Morning Bell - Nihilore,1,2.260434458408888,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_00898,CopperNickle - UncleBibby,1,1.7998233089640037,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_00899,CopperNickle - UncleBibby,1,1.4773161717725978,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_00922,mystery team 2090 - Jesse Futerman,1,1.9183859214107166,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_00923,mystery team 2090 - Jesse Futerman,1,1.326732702535243,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_00924,Night Drive - Decktonic,1,2.3316275655027163,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_00925,Night Drive - Decktonic,1,2.3140188974686073,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_00930,Nuo Maisemat - Paavoharju,1,1.7573450600263847,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_00931,Nuo Maisemat - Paavoharju,1,2.8535693229531582,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_00958,SD (Ill Mix) - H-LR,1,2.404686856185858,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_00959,SD (Ill Mix) - H-LR,1,2.4019488510818845,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_00994,Evil Cannot Create - Caleb Lemond,1,1.8875362231081516,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_00995,Evil Cannot Create - Caleb Lemond,1,2.35055475087445,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_01030,New Life (take 1) - Bird Names,1,2.022733591621893,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_01031,New Life (take 1) - Bird Names,1,1.9288895197263933,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_01032,Norweigian Wood II - Bird Names,1,1.2675881939395612,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_01033,Norweigian Wood II - Bird Names,1,2.9382372749136407,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_01040,Roller Star - Monroeville Music Center,1,1.8582779093553858,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_01041,Roller Star - Monroeville Music Center,1,2.3666244366321387,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_01042,"Roundtrip - Oh Yeah, the Future",1,2.989145686592837,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_01043,"Roundtrip - Oh Yeah, the Future",1,1.5592840541858264,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_01048,Soleares&beats - Malaventura,1,2.3227069769492763,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_01049,Soleares&beats - Malaventura,1,1.5109885636022682,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_01054,Stockholm Syndrome / People Should Be More Aware - Bird Names,1,1.4992411400618912,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_01055,Stockholm Syndrome / People Should Be More Aware - Bird Names,1,1.7654000802780754,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_01068,Time Is Love - Silence is full of birds,1,2.3681756683493984,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_01069,Time Is Love - Silence is full of birds,1,2.2150308986892093,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_01082,2 (Wasn't There) - Isle of Pine,1,1.9966258872459275,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_01083,2 (Wasn't There) - Isle of Pine,1,1.8223641088053324,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_01092,Empty Pockets - Pete Prodoehl,1,2.097851485824224,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_01093,Empty Pockets - Pete Prodoehl,1,2.665672161533392,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_01098,Gila Monster Flop/Music History Lesson:The Sonics - The Crypts!,1,1.645974492855304,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_01099,Gila Monster Flop/Music History Lesson:The Sonics - The Crypts!,1,1.5944225292620369,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_01104,I Fell - Mod Fun,1,2.2305712013404766,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_01105,I Fell - Mod Fun,1,1.7515728052673094,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_01120,March of the GPA Mechanics - [t]ghost,1,1.7890957969212973,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_01121,March of the GPA Mechanics - [t]ghost,1,1.4159311807656394,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_01140,Scramby Eggs - Andy G. Cohen,1,1.4673818491367143,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_01141,Scramby Eggs - Andy G. Cohen,1,1.7076987527407053,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_01158,The girl just faded - Los Llamarada,1,1.7395373306927173,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_01159,The girl just faded - Los Llamarada,1,1.2446748173791884,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_01164,Voxel - Andy G. Cohen,1,0.3596711338765835,3,0
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_01165,Voxel - Andy G. Cohen,1,1.0840850613622763,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_01172,Windows of the Skull - Sarin,1,2.611991794147518,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_01173,Windows of the Skull - Sarin,1,2.4762259324611615,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_01178,Новый Нью-Йорк 2 - Чокнутый Пропеллер,1,1.4961530430427967,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_01179,Новый Нью-Йорк 2 - Чокнутый Пропеллер,1,0.678025055200567,3,0
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_01199,CopperNickle - UncleBibby,1,2.349325551145879,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_01202,Daylight Savings - My brother Daniel,1,1.79902586397153,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_01211,Fifth Ramble - From the album Keith [RSVP007] - My brother Daniel,1,2.477618240576994,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_01219,If You're Ther - Nicola Ratti,1,3.4732448551933444,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_01227,Kumorizoranohajimarutokoro - Hosomi,1,2.3881819717951625,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_01236,Loved Ones - Rowan Box,1,2.1641645724452894,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_01237,Morning Bell - Nihilore,1,1.5473530289444282,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_01238,mystery team 2090 - Jesse Futerman,1,1.358648993416258,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_01239,Night Drive - Decktonic,1,3.0501025042752232,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_01243,Nuo Maisemat - Paavoharju,1,2.852533665211823,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_01260,SD (Ill Mix) - H-LR,1,2.4646630847569795,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_01265,some dextromethorphan - Jeva,1,2.609114197920207,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_01268,Sturgeon's Law - Nihilore,1,2.4242082261784943,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_01280,The Stairway - WarpToken,1,3.2045012821380148,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_01281,Three Bird - My brother Daniel,1,2.783761618662608,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_01282,Timen Passing By - Jason Shaw,1,3.2815651772422694,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_01288,Understand That This Is A Dream - From the album Modulating Coil [RSVP008] - Forrest James,1,2.8427341368011185,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_01291,Westside Chillers - Little Glass Men,1,2.2131025128255324,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_01295,Agora - Malaventura,1,1.8169140469785396,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_01304,Evil Cannot Create - Caleb Lemond,1,2.1360695819075906,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_01324,My Body Is A Weapon (Compromise Edit) - Silence is full of birds,1,3.416701409682394,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_01325,My Body Is A Weapon (Compromise Edit) - Silence is full of birds,1,3.9699389961254425,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_01329,New Life (take 1) - Bird Names,1,2.0884766543413935,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_01330,New Life (take 1) - Bird Names,1,2.7503472717548463,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_01331,Norweigian Wood II - Bird Names,1,1.3040344282934673,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_01340,Roller Star - Monroeville Music Center,1,2.746067212673941,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_01341,"Roundtrip - Oh Yeah, the Future",1,2.715421747370199,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_01347,Soleares&beats - Malaventura,1,2.3981246308808033,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_01351,Stockholm Syndrome / People Should Be More Aware - Bird Names,1,3.1328138264199747,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_01352,Stockholm Syndrome / People Should Be More Aware - Bird Names,1,2.1540628246800577,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_01362,Time Is Love - Silence is full of birds,1,2.022447873023024,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_01372,2 (Wasn't There) - Isle of Pine,1,1.7989305606942885,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_01382,Beyond Luxury - Mors Ontologica,1,2.053805201054954,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_01394,Empty Pockets - Pete Prodoehl,1,1.7064526613136046,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_01397,Fear - Los Fancy Free,1,2.2243902743380746,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_01402,Gila Monster Flop/Music History Lesson:The Sonics - The Crypts!,1,3.0016974599040616,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_01415,I Fell - Mod Fun,1,2.6046987125116647,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_01425,Lights Up - Pipe Choir,1,3.1125494105003426,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_01429,March of the GPA Mechanics - [t]ghost,1,2.8517641020890445,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_01442,Redlight - Room For A Ghost,1,2.4362531197545363,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_01447,Scramby Eggs - Andy G. Cohen,1,2.557954656613606,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_01451,Shipwrecked Crew - Pete Prodoehl,1,2.3987944122620406,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_01461,The girl just faded - Los Llamarada,1,0.8075127373819488,3,0
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_01467,Voxel - Andy G. Cohen,1,2.6916879498019477,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_01475,Windows of the Skull - Sarin,1,1.859311852054442,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_01488,Night Drive - Decktonic,1,1.5225331070044612,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_01507,Nuo Maisemat - Paavoharju,1,0.750893158804148,3,0
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_01512,CopperNickle - UncleBibby,1,0.09291122850175904,3,0
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_01513,Daylight Savings - My brother Daniel,1,0.6382721716417253,3,0
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_01514,mystery team 2090 - Jesse Futerman,1,1.3524599114723304,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_01525,SD (Ill Mix) - H-LR,1,0.7878277016944266,3,0
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_01530,Stockholm Syndrome / People Should Be More Aware - Bird Names,1,1.401274178535336,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_01532,Time Is Love - Silence is full of birds,1,0.044358452451882226,3,0
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_01534,Roller Star - Monroeville Music Center,1,2.9799087313372667,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_01537,Soleares&beats - Malaventura,1,0.9546356784506377,3,0
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_01543,Evil Cannot Create - Caleb Lemond,1,0.7580115050966402,3,0
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_01549,"Roundtrip - Oh Yeah, the Future",1,2.1823137055193658,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_01564,Norweigian Wood II - Bird Names,1,1.4031576004918185,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_01565,New Life (take 1) - Bird Names,1,1.560721843527752,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_01566,New Life (take 1) - Bird Names,1,1.0306913687084192,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_01593,Gila Monster Flop/Music History Lesson:The Sonics - The Crypts!,1,2.070323662391522,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_01607,March of the GPA Mechanics - [t]ghost,1,-0.11978667824993046,3,0
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_01608,Windows of the Skull - Sarin,1,0.8955201640723122,3,0
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_01610,Empty Pockets - Pete Prodoehl,1,-0.1359368731017286,3,0
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_01612,Scramby Eggs - Andy G. Cohen,1,0.6223381715322338,3,0
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_01613,Voxel - Andy G. Cohen,1,0.08915973291157941,3,0
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_01615,The girl just faded - Los Llamarada,1,1.282962581866187,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_01620,2 (Wasn't There) - Isle of Pine,1,0.8647541076020276,3,0
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_01622,I Fell - Mod Fun,1,0.7308612528910631,3,0
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_01624,Новый Нью-Йорк 2 - Чокнутый Пропеллер,1,1.0682217708529964,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_01636,CopperNickle - UncleBibby,1,2.293136096384925,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_01638,Daylight Savings - My brother Daniel,1,2.145405926247297,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_01649,mystery team 2090 - Jesse Futerman,1,2.203927592340585,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_01650,Night Drive - Decktonic,1,1.5668269967852246,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_01653,Nuo Maisemat - Paavoharju,1,2.994588639538263,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_01667,SD (Ill Mix) - H-LR,1,3.324716187508971,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_01685,Evil Cannot Create - Caleb Lemond,1,2.148617858655348,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_01704,New Life (take 1) - Bird Names,1,1.6030982056447785,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_01705,Norweigian Wood II - Bird Names,1,1.6131930270873804,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_01709,Roller Star - Monroeville Music Center,1,2.5013880802708006,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_01710,"Roundtrip - Oh Yeah, the Future",1,2.2013871257335658,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_01713,Soleares&beats - Malaventura,1,2.0807092706606194,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_01716,Stockholm Syndrome / People Should Be More Aware - Bird Names,1,2.743905045030385,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_01723,Time Is Love - Silence is full of birds,1,2.2895525084546535,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_01730,2 (Wasn't There) - Isle of Pine,1,2.267552587884084,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_01735,Empty Pockets - Pete Prodoehl,1,2.391456871113117,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_01738,Gila Monster Flop/Music History Lesson:The Sonics - The Crypts!,1,1.7066633287921669,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_01741,I Fell - Mod Fun,1,2.14981891011992,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_01749,March of the GPA Mechanics - [t]ghost,1,2.867644166123716,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_01759,Scramby Eggs - Andy G. Cohen,1,1.6782906260858566,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_01768,The girl just faded - Los Llamarada,1,2.043852696580628,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_01771,Voxel - Andy G. Cohen,1,2.2304645506103906,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_01775,Windows of the Skull - Sarin,1,2.4402745851620087,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_01778,Новый Нью-Йорк 2 - Чокнутый Пропеллер,1,1.8089580910338177,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_01798,CopperNickle - UncleBibby,1,2.5529092190002043,2,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_01801,Daylight Savings - My brother Daniel,1,3.2964471952667895,2,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_01810,Fifth Ramble - From the album Keith [RSVP007] - My brother Daniel,1,2.0987865873722322,2,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_01818,If You're Ther - Nicola Ratti,1,0.2931834950051144,2,0
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_01826,Kumorizoranohajimarutokoro - Hosomi,1,2.882677232986742,2,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_01835,Loved Ones - Rowan Box,1,3.424385260624895,2,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_01836,Morning Bell - Nihilore,1,2.7537936977209228,2,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_01837,mystery team 2090 - Jesse Futerman,1,1.7478772092502461,2,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_01838,Night Drive - Decktonic,1,2.032765290702071,2,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_01842,Nuo Maisemat - Paavoharju,1,2.6666132404265284,2,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_01859,SD (Ill Mix) - H-LR,1,2.3868196263312056,2,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_01864,some dextromethorphan - Jeva,1,2.616186020091594,2,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_01867,Sturgeon's Law - Nihilore,1,2.2429359140589904,2,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_01879,The Stairway - WarpToken,1,3.3121632549232167,2,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_01880,Three Bird - My brother Daniel,1,2.4405177778089495,2,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_01881,Timen Passing By - Jason Shaw,1,2.5459424823555974,2,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_01887,Understand That This Is A Dream - From the album Modulating Coil [RSVP008] - Forrest James,1,2.6357909409399434,2,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_01890,Westside Chillers - Little Glass Men,1,1.5962013502884091,2,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_01895,Agora - Malaventura,1,2.567766933682255,2,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_01904,Evil Cannot Create - Caleb Lemond,1,3.159294178288267,2,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_01923,My Body Is A Weapon (Compromise Edit) - Silence is full of birds,1,2.8280547849073336,2,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_01926,New Life (take 1) - Bird Names,1,2.751948096750496,2,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_01927,Norweigian Wood II - Bird Names,1,2.8309665743783796,2,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_01935,Roller Star - Monroeville Music Center,1,2.795828608605113,2,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_01936,"Roundtrip - Oh Yeah, the Future",1,3.021052743577056,2,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_01941,Soleares&beats - Malaventura,1,3.660719658782774,2,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_01945,Stockholm Syndrome / People Should Be More Aware - Bird Names,1,1.2969602152724784,2,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_01955,Time Is Love - Silence is full of birds,1,3.1212390165672774,2,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_01964,2 (Wasn't There) - Isle of Pine,1,2.009683055361835,2,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_01974,Beyond Luxury - Mors Ontologica,1,2.6616641536638173,2,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_01986,Empty Pockets - Pete Prodoehl,1,1.7869619831683599,2,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_01989,Fear - Los Fancy Free,1,3.3794110717512016,2,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_01994,Gila Monster Flop/Music History Lesson:The Sonics - The Crypts!,1,1.9104662962257541,1,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_02007,I Fell - Mod Fun,1,2.6079197325764554,2,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_02017,Lights Up - Pipe Choir,1,1.9242222122252204,2,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_02021,March of the GPA Mechanics - [t]ghost,1,2.83922664099675,2,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_02034,Redlight - Room For A Ghost,1,1.654868717631951,2,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_02039,Scramby Eggs - Andy G. Cohen,1,2.2865686698845495,2,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_02043,Shipwrecked Crew - Pete Prodoehl,1,1.6236043648717025,2,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_02053,The girl just faded - Los Llamarada,1,1.3476824309631987,2,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_02059,Voxel - Andy G. Cohen,1,3.0180231242645044,2,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_02067,Windows of the Skull - Sarin,1,1.9279891437353085,2,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_02087,CopperNickle - UncleBibby,1,2.530879579265806,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_02088,CopperNickle - UncleBibby,1,1.4340131560206977,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_02091,Daylight Savings - My brother Daniel,1,1.8700261928508553,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_02092,Daylight Savings - My brother Daniel,1,1.7203463430604984,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_02113,mystery team 2090 - Jesse Futerman,1,2.2704998891951678,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_02114,mystery team 2090 - Jesse Futerman,1,2.090936027565295,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_02115,Night Drive - Decktonic,1,1.8542457236123109,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_02116,Night Drive - Decktonic,1,2.045398299889318,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_02121,Nuo Maisemat - Paavoharju,1,2.2370617332243525,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_02122,Nuo Maisemat - Paavoharju,1,3.7922775569614626,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_02149,SD (Ill Mix) - H-LR,1,1.6911941961781312,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_02150,SD (Ill Mix) - H-LR,1,1.4505284915439818,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_02185,Evil Cannot Create - Caleb Lemond,1,2.461727014243951,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_02186,Evil Cannot Create - Caleb Lemond,1,2.0549840223657867,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_02221,New Life (take 1) - Bird Names,1,0.8113166928246276,3,0
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_02222,New Life (take 1) - Bird Names,1,2.7894848931585123,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_02223,Norweigian Wood II - Bird Names,1,1.7569723701659132,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_02224,Norweigian Wood II - Bird Names,1,1.829483181560823,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_02231,Roller Star - Monroeville Music Center,1,1.954529794682111,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_02232,Roller Star - Monroeville Music Center,1,2.336501319360532,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_02233,"Roundtrip - Oh Yeah, the Future",1,2.7140416774764216,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_02234,"Roundtrip - Oh Yeah, the Future",1,2.0886299834363338,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_02239,Soleares&beats - Malaventura,1,1.6393396844202066,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_02240,Soleares&beats - Malaventura,1,1.5576225991309036,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_02245,Stockholm Syndrome / People Should Be More Aware - Bird Names,1,2.107743979567187,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_02246,Stockholm Syndrome / People Should Be More Aware - Bird Names,1,2.322196367343738,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_02259,Time Is Love - Silence is full of birds,1,3.173981096645209,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_02260,Time Is Love - Silence is full of birds,1,2.849333946698939,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_02273,2 (Wasn't There) - Isle of Pine,1,1.8433115650897,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_02274,2 (Wasn't There) - Isle of Pine,1,2.9305587451738604,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_02283,Empty Pockets - Pete Prodoehl,1,1.8996237846235007,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_02284,Empty Pockets - Pete Prodoehl,1,2.366216609604898,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_02289,Gila Monster Flop/Music History Lesson:The Sonics - The Crypts!,1,1.7187819275167227,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_02290,Gila Monster Flop/Music History Lesson:The Sonics - The Crypts!,1,1.4715504099187333,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_02295,I Fell - Mod Fun,1,2.5391978952602634,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_02296,I Fell - Mod Fun,1,1.7056984010395562,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_02311,March of the GPA Mechanics - [t]ghost,1,1.7831884002584815,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_02312,March of the GPA Mechanics - [t]ghost,1,2.48866889074521,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_02331,Scramby Eggs - Andy G. Cohen,1,1.7986020678791628,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_02332,Scramby Eggs - Andy G. Cohen,1,1.5307157762347707,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_02349,The girl just faded - Los Llamarada,1,2.5287784842536993,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_02350,The girl just faded - Los Llamarada,1,2.328507150791745,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_02355,Voxel - Andy G. Cohen,1,2.563164374232889,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_02356,Voxel - Andy G. Cohen,1,1.2027771224382795,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_02363,Windows of the Skull - Sarin,1,2.5337440088138696,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_02364,Windows of the Skull - Sarin,1,3.117984881620327,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_02369,Новый Нью-Йорк 2 - Чокнутый Пропеллер,1,2.3189285582624173,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_02370,Новый Нью-Йорк 2 - Чокнутый Пропеллер,1,2.177645949522354,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_02678,CopperNickle - UncleBibby,1,1.6494137458547031,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_02680,Daylight Savings - My brother Daniel,1,1.6706312047416259,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_02689,mystery team 2090 - Jesse Futerman,1,1.072495866549909,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_02690,Night Drive - Decktonic,1,1.2953293331304931,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_02717,Agora - Malaventura,1,2.3723757092649236,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_02725,Evil Cannot Create - Caleb Lemond,1,1.578720110058948,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_02743,My Body Is A Weapon (Compromise Edit) - Silence is full of birds,1,2.138238810624696,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_02745,New Life (take 1) - Bird Names,1,1.9576626794771075,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_02746,Norweigian Wood II - Bird Names,1,2.076003425214919,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_02754,Roller Star - Monroeville Music Center,1,1.894573484941694,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_02758,Soleares&beats - Malaventura,1,1.7184853783254743,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_02762,Stockholm Syndrome / People Should Be More Aware - Bird Names,1,2.353205317021763,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_02772,Time Is Love - Silence is full of birds,1,1.8801429841249035,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_02780,2 (Wasn't There) - Isle of Pine,1,2.652206650262374,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_02790,Beyond Luxury - Mors Ontologica,1,3.1607343879718517,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_02801,Empty Pockets - Pete Prodoehl,1,2.4286099785689683,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_02806,Gila Monster Flop/Music History Lesson:The Sonics - The Crypts!,1,2.3359734311796347,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_02821,Lights Up - Pipe Choir,1,2.0896078651393517,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_02825,March of the GPA Mechanics - [t]ghost,1,2.0794974481083903,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_02834,Redlight - Room For A Ghost,1,2.397013577544584,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_02838,Scramby Eggs - Andy G. Cohen,1,1.4757630463932487,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_02841,Shipwrecked Crew - Pete Prodoehl,1,3.345300405416983,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_02847,В Наших Сердцах - Чокнутый Пропеллер,1,1.666425711414749,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_02850,The girl just faded - Los Llamarada,1,2.407143262011015,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_02854,Voxel - Andy G. Cohen,1,2.0032171976855384,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_02862,В Наших Сердцах - Чокнутый Пропеллер,1,2.441747910051467,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_02864,В Наших Сердцах - Чокнутый Пропеллер,1,1.9602209383414977,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_02867,2 (Wasn't There) - Isle of Pine,1,1.6825957576973838,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_02868,2 (Wasn't There) - Isle of Pine,1,2.093558610775721,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_02899,CopperNickle - UncleBibby,1,1.6857074651587822,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_02900,CopperNickle - UncleBibby,1,2.0898969662719855,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_02905,Daylight Savings - My brother Daniel,1,1.3014012888147997,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_02906,Daylight Savings - My brother Daniel,1,1.354086228606756,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_02915,Empty Pockets - Pete Prodoehl,1,2.597856866917612,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_02916,Empty Pockets - Pete Prodoehl,1,2.291792346493761,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_02919,Evil Cannot Create - Caleb Lemond,1,1.883363424768792,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_02920,Evil Cannot Create - Caleb Lemond,1,1.4226216408428847,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_02933,Gila Monster Flop/Music History Lesson:The Sonics - The Crypts!,1,1.2274081099175431,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_02934,Gila Monster Flop/Music History Lesson:The Sonics - The Crypts!,1,0.5477624510163561,3,0
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_02945,I Fell - Mod Fun,1,1.2369145491275666,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_02946,I Fell - Mod Fun,1,1.2291044632985422,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_02983,March of the GPA Mechanics - [t]ghost,1,1.7385778640786895,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_02984,March of the GPA Mechanics - [t]ghost,1,1.7361826546735317,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_02999,New Life (take 1) - Bird Names,1,1.7093249540400013,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_03000,New Life (take 1) - Bird Names,1,1.6009874425926884,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_03001,Night Drive - Decktonic,1,1.578086714699457,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_03002,Night Drive - Decktonic,1,3.0091857713873327,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_03007,Norweigian Wood II - Bird Names,1,1.4620265858584922,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_03008,Norweigian Wood II - Bird Names,1,1.9877535145837328,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_03011,Nuo Maisemat - Paavoharju,1,1.765458759092337,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_03012,Nuo Maisemat - Paavoharju,1,2.072339854011346,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_03047,Roller Star - Monroeville Music Center,1,1.2534520792037231,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_03048,Roller Star - Monroeville Music Center,1,1.799011256573203,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_03049,"Roundtrip - Oh Yeah, the Future",1,1.9547346396194965,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_03050,"Roundtrip - Oh Yeah, the Future",1,1.8292149906877526,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_03053,SD (Ill Mix) - H-LR,1,1.5021519076906962,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_03054,SD (Ill Mix) - H-LR,1,2.584406033714111,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_03055,Scramby Eggs - Andy G. Cohen,1,1.6429076181980173,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_03056,Scramby Eggs - Andy G. Cohen,1,0.6710552789046383,3,0
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_03069,Soleares&beats - Malaventura,1,2.1228435803544854,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_03070,Soleares&beats - Malaventura,1,1.5935958958610639,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_03077,Stockholm Syndrome / People Should Be More Aware - Bird Names,1,2.6100563585684706,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_03078,Stockholm Syndrome / People Should Be More Aware - Bird Names,1,0.8242180176629709,3,0
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_03109,The girl just faded - Los Llamarada,1,1.0583818646707226,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_03110,The girl just faded - Los Llamarada,1,1.3081717185588053,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_03113,Time Is Love - Silence is full of birds,1,1.4717975195497,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_03114,Time Is Love - Silence is full of birds,1,1.0064118738369612,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_03125,Voxel - Andy G. Cohen,1,1.0599045875736557,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_03126,Voxel - Andy G. Cohen,1,1.848744135281278,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_03137,Windows of the Skull - Sarin,1,2.367193827376599,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_03138,Windows of the Skull - Sarin,1,1.2208935334440574,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_03155,mystery team 2090 - Jesse Futerman,1,2.1112580737381825,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_03156,mystery team 2090 - Jesse Futerman,1,1.3300059951903014,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_03163,Новый Нью-Йорк 2 - Чокнутый Пропеллер,1,0.3289073630106076,3,0
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_03164,Новый Нью-Йорк 2 - Чокнутый Пропеллер,1,1.6241001678644376,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_03168,2 (Wasn't There) - Isle of Pine,1,1.3885897244783205,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_03175,Agora - Malaventura,1,1.5941786640504176,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_03192,Beyond Luxury - Mors Ontologica,1,1.8503312405824233,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_03207,CopperNickle - UncleBibby,1,1.7291136039784458,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_03212,Daylight Savings - My brother Daniel,1,1.6250821131386155,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_03224,Empty Pockets - Pete Prodoehl,1,1.8203113873614474,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_03230,Evil Cannot Create - Caleb Lemond,1,3.0543223378394786,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_03232,Fear - Los Fancy Free,1,2.984832577693138,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_03233,Fifth Ramble - From the album Keith [RSVP007] - My brother Daniel,1,2.544576257847652,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_03245,Gila Monster Flop/Music History Lesson:The Sonics - The Crypts!,1,0.9736425946117931,3,0
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_03256,If You're Ther - Nicola Ratti,1,1.9028276158460258,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_03266,I Fell - Mod Fun,1,2.0951853242567973,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_03282,Kumorizoranohajimarutokoro - Hosomi,1,2.399180929623142,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_03294,Lights Up - Pipe Choir,1,2.80010001103428,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_03300,Loved Ones - Rowan Box,1,1.6651393578508438,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_03304,March of the GPA Mechanics - [t]ghost,1,1.909980145077779,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_03311,Morning Bell - Nihilore,1,2.6882956644034786,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_03316,mystery team 2090 - Jesse Futerman,1,2.0090208756127317,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_03317,My Body Is A Weapon (Compromise Edit) - Silence is full of birds,1,1.991248192158749,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_03321,New Life (take 1) - Bird Names,1,2.717600240664014,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_03323,Night Drive - Decktonic,1,1.536278903160902,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_03326,Norweigian Wood II - Bird Names,1,1.3174268870546177,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_03330,Nuo Maisemat - Paavoharju,1,1.6478966491094802,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_03351,Redlight - Room For A Ghost,1,3.748813636795406,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_03357,Roller Star - Monroeville Music Center,1,2.7717457064491895,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_03359,"Roundtrip - Oh Yeah, the Future",1,2.6871066068986065,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_03363,Scramby Eggs - Andy G. Cohen,1,2.353387134116827,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_03364,SD (Ill Mix) - H-LR,1,3.2040767363209834,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_03372,Shipwrecked Crew - Pete Prodoehl,1,1.823558212586531,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_03378,Soleares&beats - Malaventura,1,1.7897798770884743,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_03380,some dextromethorphan - Jeva,1,2.042469238723122,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_03385,Stockholm Syndrome / People Should Be More Aware - Bird Names,1,3.29544115141257,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_03389,Sturgeon's Law - Nihilore,1,1.1458449161731041,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_03408,The girl just faded - Los Llamarada,1,2.3357524679116963,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_03417,The Stairway - WarpToken,1,2.2421449801215028,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_03418,Three Bird - My brother Daniel,1,1.0390619564509278,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_03419,Timen Passing By - Jason Shaw,1,2.201673713700456,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_03420,Time Is Love - Silence is full of birds,1,2.7118820925740397,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_03429,Understand That This Is A Dream - From the album Modulating Coil [RSVP008] - Forrest James,1,2.150971316890587,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_03434,Voxel - Andy G. Cohen,1,2.2879879206876272,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_03436,Westside Chillers - Little Glass Men,1,2.43095845668688,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_03454,Новый Нью-Йорк 2 - Чокнутый Пропеллер,1,1.2502772180471768,3,1
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,val,track,1.005569525739033,sample_03456,Windows of the Skull - Sarin,1,1.923563510359075,3,1

@@ -61,6 +61,7 @@ def output_path(base_dir: Path, track_id: int) -> Path:
     return base_dir / folder / filename
 
 
+# 필요한 FMA 원본만 원격 압축 파일에서 찾아 로컬 REAL 자료로 만든다.
 def main():
     parser = argparse.ArgumentParser()
     parser.add_argument(
@@ -84,8 +85,7 @@ def main():
 
     if not mapping_path.exists():
         raise FileNotFoundError(
-            f"{mapping_path} 가 없습니다.\n"
-            "먼저 fma_real_mapping.csv를 생성하세요."
+            f"{mapping_path} 가 없습니다.\n" "먼저 fma_real_mapping.csv를 생성하세요."
         )
 
     mapping = pd.read_csv(mapping_path)
@@ -93,9 +93,7 @@ def main():
     required = {"track_id", "original_audio", "genre"}
     missing = required - set(mapping.columns)
     if missing:
-        raise ValueError(
-            f"mapping CSV에 필요한 컬럼이 없습니다: {sorted(missing)}"
-        )
+        raise ValueError(f"mapping CSV에 필요한 컬럼이 없습니다: {sorted(missing)}")
 
     work = mapping.copy()
     work["track_id"] = work["track_id"].astype(int)
@@ -131,6 +129,7 @@ def main():
             elapsed_sec = None
 
             try:
+                # 이미 완성된 파일은 다시 쓰지 않아 중단 후 안전하게 재개한다.
                 if dst.exists() and dst.stat().st_size > 0 and not args.overwrite:
                     info = z.getinfo(member)
                     file_size = info.file_size
@@ -190,20 +189,23 @@ def main():
                 status = f"{type(e).__name__}: {e}"
                 print(f"  status : FAILED - {status}")
 
-            results.append({
-                "track_id": tid,
-                "original_audio": row.original_audio,
-                "genre": row.genre,
-                "zip_member": member,
-                "local_path": str(dst.relative_to(project_root)),
-                "file_size": file_size,
-                "compressed_size": compressed_size,
-                "elapsed_sec": elapsed_sec,
-                "ok": ok,
-                "status": status,
-            })
+            results.append(
+                {
+                    "track_id": tid,
+                    "original_audio": row.original_audio,
+                    "genre": row.genre,
+                    "zip_member": member,
+                    "local_path": str(dst.relative_to(project_root)),
+                    "file_size": file_size,
+                    "compressed_size": compressed_size,
+                    "elapsed_sec": elapsed_sec,
+                    "ok": ok,
+                    "status": status,
+                }
+            )
 
             # Save after every track so interrupted runs are still auditable.
+            # 추출 결과를 표로 저장해 원본 매칭과 실패 원인을 검증한다.
             pd.DataFrame(results).to_csv(
                 report_path,
                 index=False,
@@ -221,15 +223,8 @@ def main():
     print("Failed    :", failed)
 
     if success:
-        total_bytes = int(
-            report.loc[report["ok"], "file_size"]
-            .fillna(0)
-            .sum()
-        )
-        print(
-            "Total size:",
-            f"{total_bytes / (1024 ** 2):.2f} MB"
-        )
+        total_bytes = int(report.loc[report["ok"], "file_size"].fillna(0).sum())
+        print("Total size:", f"{total_bytes / (1024 ** 2):.2f} MB")
 
     print("Report    :", report_path)
 
@@ -238,9 +233,9 @@ def main():
     if len(failures):
         print("\n===== FAILURES =====")
         print(
-            failures[
-                ["track_id", "original_audio", "status", "zip_member"]
-            ].to_string(index=False)
+            failures[["track_id", "original_audio", "status", "zip_member"]].to_string(
+                index=False
+            )
         )
         sys.exit(2)
 

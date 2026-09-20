@@ -1,0 +1,9 @@
+﻿run_id,holdout_generator,split,label,original_audio,tracks,segments
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,train,REAL,207,207,621
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,train,FAKE,206,1980,5731
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,val,REAL,44,44,132
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,val,FAKE,44,440,1277
+unseen_fixed_classical_mert_20260919T173138Z,udio,train,REAL,207,207,621
+unseen_fixed_classical_mert_20260919T173138Z,udio,train,FAKE,207,1981,5734
+unseen_fixed_classical_mert_20260919T173138Z,udio,val,REAL,44,44,132
+unseen_fixed_classical_mert_20260919T173138Z,udio,val,FAKE,44,435,1262

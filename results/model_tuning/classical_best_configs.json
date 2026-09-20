@@ -1,0 +1,34 @@
+{
+  "run_id": "classical_20260919T110356Z",
+  "split_manifest_sha256": "9023dcb21bef5d7163c63ea93258195e53c9fde3ecb7fee5920bf6ff94bbc2b3",
+  "models": {
+    "LogisticRegression": {
+      "params": {
+        "C": 0.01,
+        "solver": "lbfgs",
+        "penalty": "l2",
+        "class_weight": "balanced",
+        "max_iter": 3000
+      },
+      "checkpoint": "/Users/seungjae/Desktop/SNU/기계학습 & 딥러닝/project/checkpoints/optimized/logistic_best.joblib",
+      "checkpoint_sha256": "cbfe44d6bcdf323482de2298846d96fc5959837b006321521786770b0a435440",
+      "candidate_order": 0,
+      "train_segments": 6967,
+      "val_segments": 1538
+    },
+    "RBF-SVM": {
+      "params": {
+        "kernel": "rbf",
+        "C": 10.0,
+        "gamma": 0.001,
+        "class_weight": "balanced",
+        "probability": false
+      },
+      "checkpoint": "/Users/seungjae/Desktop/SNU/기계학습 & 딥러닝/project/checkpoints/optimized/svm_best.joblib",
+      "checkpoint_sha256": "6ca27b6bfa5b5197f8a08fede590ebc2c08f518d6312c8922ad420fb2d03e628",
+      "candidate_order": 9,
+      "train_segments": 6967,
+      "val_segments": 1538
+    }
+  }
+}

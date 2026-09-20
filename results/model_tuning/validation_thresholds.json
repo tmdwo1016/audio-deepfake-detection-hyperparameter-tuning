@@ -1,0 +1,43 @@
+{
+  "final_run_id": "final_binary_20260919T164939Z",
+  "component_runs": {
+    "classical": "classical_20260919T110356Z",
+    "cnn": "cnn_revised_20260919T110440Z",
+    "mert": "mert_binary_20260919T110741Z"
+  },
+  "split_manifest_sha256": "9023dcb21bef5d7163c63ea93258195e53c9fde3ecb7fee5920bf6ff94bbc2b3",
+  "models": {
+    "LogisticRegression|baseline": {
+      "segment": 0.6663391213946953,
+      "track": 0.6343298786547279
+    },
+    "LogisticRegression|optimized": {
+      "segment": 0.5676900245181252,
+      "track": 0.5634561570614823
+    },
+    "RBF-SVM|baseline": {
+      "segment": 0.5196503294173163,
+      "track": 0.5926040940819256
+    },
+    "RBF-SVM|optimized": {
+      "segment": 0.5847561880627183,
+      "track": 0.6615054850320587
+    },
+    "Log-Mel CNN|baseline": {
+      "segment": 0.21793727576732635,
+      "track": 0.36034177119533223
+    },
+    "Frozen MERT + LR|baseline": {
+      "segment": 0.9867906471248474,
+      "track": 0.8847584771875533
+    },
+    "Log-Mel CNN|optimized": {
+      "segment": 0.142173171043396,
+      "track": 0.2410693895071745
+    },
+    "Frozen MERT + LR|optimized": {
+      "segment": 0.5685665621681771,
+      "track": 0.5887511404871456
+    }
+  }
+}

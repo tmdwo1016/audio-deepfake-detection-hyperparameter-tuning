@@ -1,0 +1,12 @@
+musicgen/musicgen_baseline epoch 01: loss=0.1086, Val Track EER=0.4318, AUC=0.6680, best=True, stale=0
+musicgen/musicgen_baseline epoch 02: loss=0.0963, Val Track EER=0.1591, AUC=0.8831, best=True, stale=0
+musicgen/musicgen_baseline epoch 03: loss=0.0888, Val Track EER=0.2273, AUC=0.8207, best=False, stale=1
+musicgen/musicgen_baseline epoch 04: loss=0.0768, Val Track EER=0.2045, AUC=0.8728, best=False, stale=2
+musicgen/musicgen_baseline epoch 05: loss=0.0721, Val Track EER=0.2045, AUC=0.8590, best=False, stale=3
+musicgen/musicgen_baseline epoch 06: loss=0.0706, Val Track EER=0.1500, AUC=0.9204, best=True, stale=0
+musicgen/musicgen_baseline epoch 07: loss=0.0684, Val Track EER=0.1364, AUC=0.9474, best=True, stale=0
+musicgen/musicgen_baseline epoch 08: loss=0.0626, Val Track EER=0.1591, AUC=0.9350, best=False, stale=1
+musicgen/musicgen_baseline epoch 09: loss=0.0626, Val Track EER=0.1591, AUC=0.9146, best=False, stale=2
+musicgen/musicgen_baseline epoch 10: loss=0.0572, Val Track EER=0.1114, AUC=0.9710, best=True, stale=0
+musicgen/musicgen_baseline epoch 11: loss=0.0564, Val Track EER=0.1136, AUC=0.9555, best=False, stale=1
+Interrupted during epoch 12 by user-requested protocol change.

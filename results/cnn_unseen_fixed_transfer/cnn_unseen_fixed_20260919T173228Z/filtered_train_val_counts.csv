@@ -1,0 +1,5 @@
+holdout_generator,split,n_segments,n_tracks,n_original_audio,n_real_segments,n_fake_segments,n_real_tracks,n_fake_tracks,target_fake_rows
+musicgen,train,6352,2187,207,621,5731,207,1980,0
+musicgen,val,1409,484,44,132,1277,44,440,0
+udio,train,6355,2188,207,621,5734,207,1981,0
+udio,val,1394,479,44,132,1262,44,435,0

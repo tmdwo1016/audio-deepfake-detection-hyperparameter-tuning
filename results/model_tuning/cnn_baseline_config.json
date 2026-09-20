@@ -1,0 +1,37 @@
+{
+  "run_id": "cnn_revised_20260919T110440Z",
+  "manifest_sha256": "9023dcb21bef5d7163c63ea93258195e53c9fde3ecb7fee5920bf6ff94bbc2b3",
+  "cache_index_sha256": "062ef9382b6ed538acbc768d06aee64956567b4a4c7b4cd097e046eae10b0277",
+  "mel_settings": {
+    "sr": 24000,
+    "segment_sec": 10,
+    "n_fft": 1024,
+    "hop_length": 240,
+    "n_mels": 128,
+    "fmax": 12000,
+    "center": true,
+    "power": 2.0,
+    "top_db": 80,
+    "ref": "max",
+    "fixed_scale": "(dB+40)/40"
+  },
+  "versions": {
+    "numpy": "2.3.5",
+    "pandas": "2.3.3",
+    "torch": "2.14.0",
+    "scikit-learn": "1.7.2",
+    "librosa": "1.0.0"
+  },
+  "device": "mps",
+  "seed": 42,
+  "baseline": {
+    "lr": 0.001,
+    "dropout": 0.3,
+    "weight_decay": 0.0001,
+    "batch_size": 32,
+    "max_epochs": 20,
+    "patience": 4,
+    "optimizer": "AdamW",
+    "architecture": "historical_4_conv_blocks"
+  }
+}

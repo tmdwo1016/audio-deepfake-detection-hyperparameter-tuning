@@ -1,0 +1,3 @@
+﻿run_id,holdout_generator,primary_real_tracks,primary_fake_tracks,primary_fake_original_audio,primary_segments,paired_real_tracks,paired_fake_tracks
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,45,45,45,270,45,45
+unseen_fixed_classical_mert_20260919T173138Z,udio,45,48,24,279,24,48

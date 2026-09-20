@@ -90,6 +90,7 @@ def build_url(track_file: str) -> str:
     return BASE_URL + quote(clean, safe="/:@?&=+$,;~-_.!()'")
 
 
+# 원본 파일은 다운로드 성공 여부와 크기를 확인한 뒤 다음 단계로 넘긴다.
 def download_file(
     session: requests.Session,
     url: str,
@@ -128,6 +129,7 @@ def download_file(
     return False, "unknown_error"
 
 
+# 30초 이하 곡은 전체를, 긴 곡은 중앙 30초를 REAL 비교 구간으로 만든다.
 def create_fma_clip(src: Path, dst: Path, duration_sec: int) -> tuple[bool, str, int]:
     """
     Reproduce the FMA clip creation rule:
@@ -152,10 +154,14 @@ def create_fma_clip(src: Path, dst: Path, duration_sec: int) -> tuple[bool, str,
     cmd = [
         "ffmpeg",
         "-y",
-        "-i", str(src),
-        "-ss", str(start),
-        "-t", "30",
-        "-acodec", "copy",
+        "-i",
+        str(src),
+        "-ss",
+        str(start),
+        "-t",
+        "30",
+        "-acodec",
+        "copy",
         str(dst),
     ]
 
@@ -229,7 +235,9 @@ def main():
     required_cols = {"track_id", "original_audio", "genre"}
     missing_cols = required_cols - set(mapping.columns)
     if missing_cols:
-        raise ValueError(f"mapping CSV에 필요한 컬럼이 없습니다: {sorted(missing_cols)}")
+        raise ValueError(
+            f"mapping CSV에 필요한 컬럼이 없습니다: {sorted(missing_cols)}"
+        )
 
     work = mapping.copy()
     work["track_id"] = work["track_id"].astype(int)
@@ -242,9 +250,7 @@ def main():
         raise ValueError(f"raw_tracks.csv에 없는 track_id: {missing_raw[:20]}")
 
     session = requests.Session()
-    session.headers.update({
-        "User-Agent": "Mozilla/5.0 FMA-Research-Downloader/1.0"
-    })
+    session.headers.update({"User-Agent": "Mozilla/5.0 FMA-Research-Downloader/1.0"})
 
     results = []
 
@@ -290,27 +296,31 @@ def main():
         if not args.skip_clips:
             print(f"  clip    : {clip_status}")
 
-        results.append({
-            "track_id": tid,
-            "original_audio": row.original_audio,
-            "genre": row.genre,
-            "track_file": track_file,
-            "track_duration": duration_text,
-            "duration_sec": duration_sec,
-            "download_url": url,
-            "full_path": str(full_path.relative_to(project_root)),
-            "download_ok": ok_download,
-            "download_status": download_status,
-            "clip_path": (
-                str(clip_path.relative_to(project_root))
-                if not args.skip_clips else ""
-            ),
-            "clip_start_sec": clip_start_sec,
-            "clip_ok": clip_ok if not args.skip_clips else None,
-            "clip_status": clip_status,
-        })
+        results.append(
+            {
+                "track_id": tid,
+                "original_audio": row.original_audio,
+                "genre": row.genre,
+                "track_file": track_file,
+                "track_duration": duration_text,
+                "duration_sec": duration_sec,
+                "download_url": url,
+                "full_path": str(full_path.relative_to(project_root)),
+                "download_ok": ok_download,
+                "download_status": download_status,
+                "clip_path": (
+                    str(clip_path.relative_to(project_root))
+                    if not args.skip_clips
+                    else ""
+                ),
+                "clip_start_sec": clip_start_sec,
+                "clip_ok": clip_ok if not args.skip_clips else None,
+                "clip_status": clip_status,
+            }
+        )
 
         # Keep a continuously updated report, useful if interrupted.
+        # 각 파일의 성공·실패를 남겨 누락된 REAL 자료를 추적할 수 있게 한다.
         pd.DataFrame(results).to_csv(
             report_path,
             index=False,
@@ -340,15 +350,13 @@ def main():
         )
 
     if not args.skip_clips:
-        clip_failures = report[
-            report["download_ok"] & ~report["clip_ok"].fillna(False)
-        ]
+        clip_failures = report[report["download_ok"] & ~report["clip_ok"].fillna(False)]
         if len(clip_failures):
             print("\n===== CLIP FAILURES =====")
             print(
-                clip_failures[
-                    ["track_id", "original_audio", "clip_status"]
-                ].to_string(index=False)
+                clip_failures[["track_id", "original_audio", "clip_status"]].to_string(
+                    index=False
+                )
             )
 
     # Non-zero exit when something failed.

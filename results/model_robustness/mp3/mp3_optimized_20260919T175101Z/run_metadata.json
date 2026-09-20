@@ -1,0 +1,93 @@
+{
+  "source_final_run_id": "final_binary_20260919T164939Z",
+  "component_runs": {
+    "classical": "classical_20260919T110356Z",
+    "cnn": "cnn_revised_20260919T110440Z",
+    "mert": "mert_binary_20260919T110741Z"
+  },
+  "split_manifest_sha256": "9023dcb21bef5d7163c63ea93258195e53c9fde3ecb7fee5920bf6ff94bbc2b3",
+  "transcode_report_sha256": "31f55f5158c1f3463327bfa56fb80f111de4ebb14e842352c7c41dc92662f490",
+  "protocol_sha256": "95f1546ce8e3fcedb66e5ef52488c9255e414965514b5163e1a62b9052e4941e",
+  "conditions": [
+    "clean",
+    "mp3_128",
+    "mp3_64"
+  ],
+  "bitrate_kbps": {
+    "mp3_128": 128,
+    "mp3_64": 64
+  },
+  "decode": "full track from beginning, 24kHz mono, original segment start_sec",
+  "thresholds": "frozen clean Validation segment/track values from final 23 run",
+  "robustness_run_id": "mp3_optimized_20260919T175101Z",
+  "test_segments": 1572,
+  "test_tracks": 539,
+  "class_counts_segment": {
+    "0": 135,
+    "1": 1437
+  },
+  "model_checkpoints": {
+    "LogisticRegression": "cbfe44d6bcdf323482de2298846d96fc5959837b006321521786770b0a435440",
+    "RBF-SVM": "6ca27b6bfa5b5197f8a08fede590ebc2c08f518d6312c8922ad420fb2d03e628",
+    "Log-Mel CNN": "3268924f7eb57020387c1cfdd305a795378c8d71738e11cf91dafc0118f7c420",
+    "Frozen MERT + LR": "93459ef73dd021270d74566776d7fbf865d93ef5af9fb43e77b44b6afe0e9164"
+  },
+  "mert_extraction": {
+    "clean": {
+      "model_load_seconds": 0.7459858329966664,
+      "embedding_extraction_seconds": 1073.9409203330288,
+      "device": "cpu",
+      "cache_path": "/Users/seungjae/Desktop/SNU/기계학습 & 딥러닝/project/data/processed/model_robustness/mp3/mert/mert95m_clean_validframe_12af15fef9d0.npy",
+      "cache_sha256": "239240dfd841ddb6cc2ae58a02c2409866b53e43bbc5e5e425cf2d1d93aac104",
+      "cache_metadata_path": "/Users/seungjae/Desktop/SNU/기계학습 & 딥러닝/project/data/processed/model_robustness/mp3/mert/mert95m_clean_validframe_12af15fef9d0_meta.json",
+      "cache_metadata_sha256": "eb77423f7170ddbcc3dbe7b9e5b7ddd43dcf2b1efcc34fd4782263ee3a0d2439",
+      "cache_provenance": {
+        "condition": "clean",
+        "manifest_sha256": "9023dcb21bef5d7163c63ea93258195e53c9fde3ecb7fee5920bf6ff94bbc2b3",
+        "transcode_report_sha256": "31f55f5158c1f3463327bfa56fb80f111de4ebb14e842352c7c41dc92662f490",
+        "model_revision": "12af15fef9d0ac838c3f475bfbbf26d2060dd4f5",
+        "decode": "full track from start, 24kHz mono, original segment start_sec",
+        "padding": "none for frozen MERT; valid hidden frames mean"
+      }
+    },
+    "mp3_128": {
+      "model_load_seconds": 0.5368431670358405,
+      "embedding_extraction_seconds": 1077.4794127090136,
+      "device": "cpu",
+      "cache_path": "/Users/seungjae/Desktop/SNU/기계학습 & 딥러닝/project/data/processed/model_robustness/mp3/mert/mert95m_mp3_128_validframe_12af15fef9d0.npy",
+      "cache_sha256": "62058d95beea4ada18121e4921e15fcce928d17256d4ff798639bc126092cd53",
+      "cache_metadata_path": "/Users/seungjae/Desktop/SNU/기계학습 & 딥러닝/project/data/processed/model_robustness/mp3/mert/mert95m_mp3_128_validframe_12af15fef9d0_meta.json",
+      "cache_metadata_sha256": "a1f5557050655e96ee0a23460edf278a601b23b517ceb77c017130170b0ed0f6",
+      "cache_provenance": {
+        "condition": "mp3_128",
+        "manifest_sha256": "9023dcb21bef5d7163c63ea93258195e53c9fde3ecb7fee5920bf6ff94bbc2b3",
+        "transcode_report_sha256": "31f55f5158c1f3463327bfa56fb80f111de4ebb14e842352c7c41dc92662f490",
+        "model_revision": "12af15fef9d0ac838c3f475bfbbf26d2060dd4f5",
+        "decode": "full MP3 from start, 24kHz mono, original segment start_sec",
+        "padding": "none for frozen MERT; valid hidden frames mean"
+      }
+    },
+    "mp3_64": {
+      "model_load_seconds": 0.5368431670358405,
+      "embedding_extraction_seconds": 1025.7284775420558,
+      "device": "cpu",
+      "cache_path": "/Users/seungjae/Desktop/SNU/기계학습 & 딥러닝/project/data/processed/model_robustness/mp3/mert/mert95m_mp3_64_validframe_12af15fef9d0.npy",
+      "cache_sha256": "3fdcb5c16c96437a65fe4cd5165c7e541ca7b91263354254c8258deb4eca553c",
+      "cache_metadata_path": "/Users/seungjae/Desktop/SNU/기계학습 & 딥러닝/project/data/processed/model_robustness/mp3/mert/mert95m_mp3_64_validframe_12af15fef9d0_meta.json",
+      "cache_metadata_sha256": "3c0d3b260b9a94cac88ade54ee93892144c0c1e11bfacdf9a033a7c00f0980fe",
+      "cache_provenance": {
+        "condition": "mp3_64",
+        "manifest_sha256": "9023dcb21bef5d7163c63ea93258195e53c9fde3ecb7fee5920bf6ff94bbc2b3",
+        "transcode_report_sha256": "31f55f5158c1f3463327bfa56fb80f111de4ebb14e842352c7c41dc92662f490",
+        "model_revision": "12af15fef9d0ac838c3f475bfbbf26d2060dd4f5",
+        "decode": "full MP3 from start, 24kHz mono, original segment start_sec",
+        "padding": "none for frozen MERT; valid hidden frames mean"
+      }
+    }
+  },
+  "cnn_device": "mps",
+  "python": "3.13.9",
+  "numpy": "2.3.5",
+  "pandas": "2.3.3",
+  "torch": "2.14.0"
+}

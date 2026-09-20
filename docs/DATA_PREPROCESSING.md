@@ -351,5 +351,5 @@ Generator별 source coverage와 한 source당 생성 track 수의 차이를 제�
 - 저장소의 CSV/JSON/PNG 결과는 최종 수치와 분석 근거를 보존합니다.
 - 데이터 재구축은 `01`부터 `08`까지 순서대로 실행합니다.
 - 모델 실험은 group split과 segment manifest를 수정하지 않은 상태에서 실행해야 비교가 유효합니다.
-- MERT는 `17_mert_frozen_baseline_v2.ipynb`의 고정 Transformers/model revision을 사용합니다.
+- MERT는 [17번 MERT 실행 기록](../archive_notebooks/17_mert_frozen_baseline_v2.ipynb)의 고정 Transformers/model revision을 사용합니다.
 - MP3 비교는 random seek가 아닌 최종 full-decode 결과를 기준으로 합니다.

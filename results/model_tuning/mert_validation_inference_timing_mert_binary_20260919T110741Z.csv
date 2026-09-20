@@ -1,0 +1,3 @@
+﻿run_id,model,configuration,split,level,n,device,layer,C,threshold,repeats,median_scaler_lr_inference_sec,mean_scaler_lr_inference_sec
+mert_binary_20260919T110741Z,FrozenMERT+LR,baseline,val,segment,1538,cpu,12,1.0,0.9867906471248474,10,0.004701729048974812,0.005047087685670704
+mert_binary_20260919T110741Z,FrozenMERT+LR,optimized,val,segment,1538,cpu,4,0.01,0.5685665621681771,10,0.002932061906903982,0.0032424208009615542

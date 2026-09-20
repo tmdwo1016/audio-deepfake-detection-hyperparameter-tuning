@@ -1,0 +1,32 @@
+{
+  "run_id": "mert_binary_20260919T110741Z",
+  "model": "m-a-p/MERT-v1-95M",
+  "revision": "12af15fef9d0ac838c3f475bfbbf26d2060dd4f5",
+  "baseline": {
+    "layer": 12,
+    "C": 1.0,
+    "checkpoint": "/Users/seungjae/Desktop/SNU/기계학습 & 딥러닝/project/checkpoints/optimized/mert_baseline.joblib"
+  },
+  "optimized": {
+    "layer": 4,
+    "C": 0.01,
+    "checkpoint": "/Users/seungjae/Desktop/SNU/기계학습 & 딥러닝/project/checkpoints/optimized/mert_best.joblib"
+  },
+  "selection": "Validation Track EER min, Track ROC-AUC max, candidate_order",
+  "candidate_count": 65,
+  "manifest_sha256": "9023dcb21bef5d7163c63ea93258195e53c9fde3ecb7fee5920bf6ff94bbc2b3",
+  "cache_metadata": "/Users/seungjae/Desktop/SNU/기계학습 & 딥러닝/project/data/processed/mert/mert95m_binary_train_val_validframe_12af15fef9d0_meta.json",
+  "device": "cpu",
+  "model_load_sec": 0.3073124170769006,
+  "embedding_extract_sec_this_run": 4000.927049290971,
+  "tuning_sec": 27.693034249939956,
+  "versions": {
+    "python": "3.13.9",
+    "numpy": "2.3.5",
+    "pandas": "2.3.3",
+    "sklearn": "1.7.2",
+    "torch": "2.14.0",
+    "transformers": "4.47.1",
+    "librosa": "1.0.0"
+  }
+}

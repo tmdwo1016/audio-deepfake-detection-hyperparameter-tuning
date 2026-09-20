@@ -1,0 +1,124 @@
+{
+  "run_id": "unseen_fixed_classical_mert_20260919T173138Z",
+  "variant": "fixed_hyperparameter_transfer",
+  "protocol_sha256": "098fa65192f65fddbf7d65757eb5c6b5c2b1149f79178c27746b4e328ee54a5e",
+  "manifest_sha256": "9023dcb21bef5d7163c63ea93258195e53c9fde3ecb7fee5920bf6ff94bbc2b3",
+  "fixed_selections_sha256": "c4c73cffd7d2134bfb6feca5ba34950f726df554ecdbec77126b49c110da6a56",
+  "source_config_sha256": {
+    "classical": "02e886b4a3f4006dd4c2b5d8d374b83c0155fa7602719082b0af927bd22e07a8",
+    "mert": "10f9c55eb1e012971ff82082d859256252f2c0fad2ff8c8f6fa2ed40dd9be5c4"
+  },
+  "source_checkpoint_sha256": {
+    "LogisticRegression": "cbfe44d6bcdf323482de2298846d96fc5959837b006321521786770b0a435440",
+    "RBF-SVM": "6ca27b6bfa5b5197f8a08fede590ebc2c08f518d6312c8922ad420fb2d03e628",
+    "Frozen MERT + LR": "93459ef73dd021270d74566776d7fbf865d93ef5af9fb43e77b44b6afe0e9164"
+  },
+  "source_runs": {
+    "classical": "classical_20260919T110356Z",
+    "mert": "mert_binary_20260919T110741Z"
+  },
+  "checkpoint_sha256": {
+    "musicgen": {
+      "LogisticRegression": "af2326ba5fcc101a22a9f44cdbfb666d9cbef8fa6f35f78169b020d1c73fd71b",
+      "RBF-SVM": "f164be8a7d2071322f02cbd34c4f6398ab3739c5655ade9b1b6a01db8a092e80",
+      "Frozen MERT + LR": "16e4090e92643d84106a352f373e3209251d7a315e2b138517c8167219acf09d"
+    },
+    "udio": {
+      "LogisticRegression": "f2e29f30611a9a52c25809ad5b9fcaa076b95d855147d35876abd0ed5a9b00f1",
+      "RBF-SVM": "c47bf13f8b89fb67de17b77ec442367b5214f75225585f656e393821548cc8d2",
+      "Frozen MERT + LR": "507abed5820936c37cdb8122de08bcd145aedab21eb97039166b7d2d339cd398"
+    }
+  },
+  "test_cohorts": [
+    {
+      "run_id": "unseen_fixed_classical_mert_20260919T173138Z",
+      "holdout_generator": "musicgen",
+      "primary_real_tracks": 45,
+      "primary_fake_tracks": 45,
+      "primary_fake_original_audio": 45,
+      "primary_segments": 270,
+      "paired_real_tracks": 45,
+      "paired_fake_tracks": 45
+    },
+    {
+      "run_id": "unseen_fixed_classical_mert_20260919T173138Z",
+      "holdout_generator": "udio",
+      "primary_real_tracks": 45,
+      "primary_fake_tracks": 48,
+      "primary_fake_original_audio": 24,
+      "primary_segments": 279,
+      "paired_real_tracks": 24,
+      "paired_fake_tracks": 48
+    }
+  ],
+  "mert_train_val_cache": {
+    "model": "m-a-p/MERT-v1-95M",
+    "revision": "12af15fef9d0ac838c3f475bfbbf26d2060dd4f5",
+    "processor_sampling_rate": 24000,
+    "segment_sec": 10.0,
+    "input": "24kHz mono, original 10s boundary, no zero padding",
+    "pooling": "single-segment valid hidden frames mean",
+    "levels": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "hidden_size": 768,
+    "manifest_sha256": "9023dcb21bef5d7163c63ea93258195e53c9fde3ecb7fee5920bf6ff94bbc2b3",
+    "splits": [
+      "train",
+      "val"
+    ],
+    "segment_ids_sha256": "03e0c45bc24f65140ace04358528b9792e29fe3fcc2566fa59eb8782a94379b9"
+  },
+  "mert_test_cache": {
+    "model": "m-a-p/MERT-v1-95M",
+    "revision": "12af15fef9d0ac838c3f475bfbbf26d2060dd4f5",
+    "processor_sampling_rate": 24000,
+    "segment_sec": 10.0,
+    "input": "24kHz mono, original 10s boundary, no zero padding",
+    "pooling": "single-segment valid hidden frames mean",
+    "levels": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "hidden_size": 768,
+    "manifest_sha256": "9023dcb21bef5d7163c63ea93258195e53c9fde3ecb7fee5920bf6ff94bbc2b3",
+    "splits": [
+      "test"
+    ],
+    "segment_ids_sha256": "e3064b161f399b04ccae85225781c1f49b97d8da6a5326eb4725d55eb65afc1d"
+  },
+  "feature_columns_sha256": "1af96b3b74fcc511900d78840ca6800f6b488d399f5b5001294936e8c6ae21b1",
+  "hyperparameters_reselected_on_filtered_val": false,
+  "thresholds_selected_on_filtered_val": true,
+  "historical_exposure": "Main best hyperparameters were selected with MusicGen/Udio in Validation; the original Test and target generators were examined in prior work. This is fixed-hyperparameter transfer, not fully unseen selection.",
+  "versions": {
+    "python": "3.13.9",
+    "numpy": "2.3.5",
+    "pandas": "2.3.3",
+    "scikit_learn": "1.7.2"
+  },
+  "elapsed_seconds": 4.237966084037907
+}

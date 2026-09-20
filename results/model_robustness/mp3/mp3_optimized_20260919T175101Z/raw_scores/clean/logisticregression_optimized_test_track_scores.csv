@@ -1,0 +1,540 @@
+﻿robustness_run_id,condition,run_id,model,variant,split,level,track_id,original_audio_id,label,score,n_segments,prediction,threshold
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_00003,2Much (Andy Spinelli & Alex Sánchez House Edit) - Tentacles,0,0.4126543632718867,3,0,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_00004,3 am West End - statusq,0,0.2043367067033272,3,0,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_00005,5 (Lexington) - Isle of Pine,0,0.0834818849833998,3,0,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_00021,Attention - Pete Prodoehl,0,0.868707613593747,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_00028,Bizzy - The Tleilaxu Music Machine,0,0.0944169956340529,3,0,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_00045,Dance Harder - Three Chain Links,0,0.3045614050964692,3,0,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_00049,Different Day - First,0,0.6866776849663881,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_00056,El Burrito - Malaventura,0,0.291878540880392,3,0,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_00061,End titles - Itsensäsyöjät,0,0.5471513852644607,3,0,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_00079,Fuckaboing - RoccoW,0,0.7069216647665441,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_00087,"Head of Ancante, Talking Tree - Ak'chamel, The Giver of Illness",0,0.0768579132606105,3,0,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_00089,"Hungry - Oh Yeah, the Future",0,0.1638760409106382,3,0,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_00090,I - Inflammator,0,0.2080181260602255,3,0,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_00115,L'arbre - Salmo,0,0.1229738766552219,3,0,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_00116,LIQUID SKULLS - voyageurs,0,0.0154080517905439,3,0,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_00121,Leaving Here - Mod Fun,0,0.4783790090093767,3,0,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_00122,Let You're Body Move - D SMILEZ,0,0.3854914219112555,3,0,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_00123,Let's Start Out Slow - RoccoW,0,0.5407447637511715,3,0,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_00132,Love Dream - The Zombie Dandies,0,0.0727024881298134,3,0,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_00139,Moja Krypta - AmortE,0,0.7090195892435217,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_00144,Motocross Mania - Monroeville Music Center,0,0.2911488216717147,3,0,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_00146,Music For an Underground Circu - Ergo Phizmiz,0,0.1669406576042807,3,0,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_00154,Night Owl - Broke For Free,0,0.0979480565725366,3,0,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_00171,Pista Afuera - Epstein,0,0.3167844342560862,3,0,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_00174,Production - Bird Names,0,0.1275650250435824,3,0,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_00176,Puertas de Fuego - Guerra de Cerdos,0,0.0969170981288298,3,0,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_00178,Realize Me - Jim Rooster,0,0.8325189756664807,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_00180,Resistentialism - Nihilore,0,0.3679715771833196,3,0,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_00195,Set Fire to Creation - Nihilore,0,0.637128026266547,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_00196,Sfogare Il Dissenso - Deiezione HC,0,0.0521140182366907,3,0,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_00198,She Works / Tepid Waters - Bird Names,0,0.0329357318618796,3,0,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_00206,Something Dirty - Ergo Phizmiz,0,0.3904759626448942,3,0,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_00207,Sonzis FM - Pipe Choir,0,0.3647616959864155,3,0,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_00216,Stuttgart - Portrayal,0,0.2337047798696335,3,0,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_00217,Support Me in This Moment That I'm About To Lose Heart - Nihilore,0,0.2064680927253267,3,0,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_00223,Terve Teille - Чокнутый Пропеллер,0,0.1600633430339506,3,0,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_00224,The Adventures Of Roderick Random - Maps And Diagrams,0,0.1845169832069768,3,0,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_00236,"The Pursuit of Unintentional Humor - Oh Yeah, the Future",0,0.0319868143226487,3,0,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_00241,The Secret Garden - Barbarix,0,0.1552769581257731,3,0,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_00252,Troubles I've seen - Malaventura,0,0.3931640573324608,3,0,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_00253,Ugh! Humans Can Join - Mystery Mammal,0,0.5070401219488513,3,0,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_00257,Untitled - Fatal Injection,0,0.1057752121593205,3,0,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_00270,Where Is Everything - The Moi Non Plus,0,0.246313861672398,3,0,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_00271,Who Loves You Dear - Mink Lungs,0,0.2088200209239951,3,0,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_00279,Yurtology - Michett,0,0.1139039368879939,3,0,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_00298,2Much (Andy Spinelli & Alex Sánchez House Edit) - Tentacles,1,0.8009608386060226,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_00300,3 am West End - statusq,1,0.9741792727868368,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_00302,5 (Lexington) - Isle of Pine,1,0.8482390293800172,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_00314,Attention - Pete Prodoehl,1,0.7059848990749749,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_00324,Bizzy - The Tleilaxu Music Machine,1,0.7357592861191664,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_00340,Dance Harder - Three Chain Links,1,0.8971310711043463,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_00345,Different Day - First,1,0.4229208011561721,3,0,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_00353,El Burrito - Malaventura,1,0.9784147153102604,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_00358,End titles - Itsensäsyöjät,1,0.801377540540769,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_00375,Fuckaboing - RoccoW,1,0.62154554624108,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_00384,"Head of Ancante, Talking Tree - Ak'chamel, The Giver of Illness",1,0.6827374592035408,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_00386,"Hungry - Oh Yeah, the Future",1,0.9284366947903342,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_00398,I - Inflammator,1,0.8065073896008115,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_00418,Leaving Here - Mod Fun,1,0.9150768109897132,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_00419,Let's Start Out Slow - RoccoW,1,0.933986383704246,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_00421,Let You're Body Move - D SMILEZ,1,0.6373323551055033,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_00426,LIQUID SKULLS - voyageurs,1,0.9338149164771816,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_00432,Love Dream - The Zombie Dandies,1,0.8792301997294966,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_00433,L'arbre - Salmo,1,0.2203299077400762,3,0,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_00439,Moja Krypta - AmortE,1,0.9469470954591394,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_00444,Motocross Mania - Monroeville Music Center,1,0.938579928134168,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_00446,Music For an Underground Circu - Ergo Phizmiz,1,0.7777491820279169,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_00455,Night Owl - Broke For Free,1,0.99257084150966,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_00473,Pista Afuera - Epstein,1,0.9344380747703336,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_00476,Production - Bird Names,1,0.931288652107832,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_00478,Puertas de Fuego - Guerra de Cerdos,1,0.6969585650888467,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_00481,Realize Me - Jim Rooster,1,0.9295724635750892,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_00483,Resistentialism - Nihilore,1,0.9967844946462248,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_00498,Set Fire to Creation - Nihilore,1,0.9759038826485136,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_00499,Sfogare Il Dissenso - Deiezione HC,1,0.8689039502389996,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_00502,She Works / Tepid Waters - Bird Names,1,0.772092537340408,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_00510,Something Dirty - Ergo Phizmiz,1,0.9466116487279118,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_00512,Sonzis FM - Pipe Choir,1,0.8689721207387336,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_00521,Stuttgart - Portrayal,1,0.9333016759948638,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_00522,Support Me in This Moment That I'm About To Lose Heart - Nihilore,1,0.9340743007358429,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_00527,Terve Teille - Чокнутый Пропеллер,1,0.9630118763273868,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_00528,The Adventures Of Roderick Random - Maps And Diagrams,1,0.6573559458431508,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_00542,"The Pursuit of Unintentional Humor - Oh Yeah, the Future",1,0.7826195779186426,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_00547,The Secret Garden - Barbarix,1,0.8030800094371933,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_00556,Troubles I've seen - Malaventura,1,0.6689595856825198,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_00558,Ugh! Humans Can Join - Mystery Mammal,1,0.844895554822103,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_00562,Untitled - Fatal Injection,1,0.9807561952264398,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_00574,Where Is Everything - The Moi Non Plus,1,0.9931515038108646,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_00575,Who Loves You Dear - Mink Lungs,1,0.8831542037657961,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_00583,Yurtology - Michett,1,0.9971906485890484,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_00600,Pista Afuera - Epstein,1,0.9899721883963076,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_00601,Let You're Body Move - D SMILEZ,1,0.9196291685337776,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_00606,The Secret Garden - Barbarix,1,0.955877180347629,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_00608,Resistentialism - Nihilore,1,0.8865876314748372,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_00611,Fuckaboing - RoccoW,1,0.9549709456748512,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_00612,Ugh! Humans Can Join - Mystery Mammal,1,0.9545758098688428,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_00620,Realize Me - Jim Rooster,1,0.984619050355126,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_00627,Support Me in This Moment That I'm About To Lose Heart - Nihilore,1,0.8961984959443359,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_00637,Dance Harder - Three Chain Links,1,0.9834365526096326,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_00638,Yurtology - Michett,1,0.9751113358736468,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_00644,The Adventures Of Roderick Random - Maps And Diagrams,1,0.9995701543139848,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_00654,Night Owl - Broke For Free,1,0.9362125518985748,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_00672,2Much (Andy Spinelli & Alex Sánchez House Edit) - Tentacles,1,0.9916646415781004,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_00675,Let's Start Out Slow - RoccoW,1,0.4274492216437062,3,0,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_00686,Bizzy - The Tleilaxu Music Machine,1,0.999266601143686,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_00687,3 am West End - statusq,1,0.9845747490155892,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_00690,Set Fire to Creation - Nihilore,1,0.9760986913687426,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_00697,End titles - Itsensäsyöjät,1,0.8390034146855005,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_00705,Something Dirty - Ergo Phizmiz,1,0.9530865828934488,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_00709,"Hungry - Oh Yeah, the Future",1,0.9368698173061712,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_00712,Music For an Underground Circu - Ergo Phizmiz,1,0.9299250227838112,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_00715,Motocross Mania - Monroeville Music Center,1,0.9446339617929312,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_00723,Troubles I've seen - Malaventura,1,0.985434934343751,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_00730,Different Day - First,1,0.845451299683217,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_00746,She Works / Tepid Waters - Bird Names,1,0.9939574972955388,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_00752,Production - Bird Names,1,0.993665344842708,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_00758,"The Pursuit of Unintentional Humor - Oh Yeah, the Future",1,0.9381793129215912,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_00763,El Burrito - Malaventura,1,0.9944489480357672,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_00766,Where Is Everything - The Moi Non Plus,1,0.970431410053378,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_00767,Terve Teille - Чокнутый Пропеллер,1,0.956426746790346,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_00780,Stuttgart - Portrayal,1,0.953540383107458,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_00787,Love Dream - The Zombie Dandies,1,0.9809226810185274,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_00794,"Head of Ancante, Talking Tree - Ak'chamel, The Giver of Illness",1,0.9723453214751144,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_00797,Who Loves You Dear - Mink Lungs,1,0.9963852509002354,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_00798,LIQUID SKULLS - voyageurs,1,0.9343893494949832,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_00804,I - Inflammator,1,0.9914729857639868,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_00805,Sfogare Il Dissenso - Deiezione HC,1,0.9817253384533596,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_00809,Attention - Pete Prodoehl,1,0.9957141013433628,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_00823,L'arbre - Salmo,1,0.9891876135889224,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_00854,Leaving Here - Mod Fun,1,0.9826896636341595,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_00860,Puertas de Fuego - Guerra de Cerdos,1,0.9455811653217102,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_00861,Sonzis FM - Pipe Choir,1,0.8681232828882329,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_00863,5 (Lexington) - Isle of Pine,1,0.9853254336213833,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_00867,Moja Krypta - AmortE,1,0.9826999647556852,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_00873,Untitled - Fatal Injection,1,0.8188347891855713,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_00900,Dance Harder - Three Chain Links,1,0.8300009304921266,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_00901,Dance Harder - Three Chain Links,1,0.7001411056128616,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_00910,Fuckaboing - RoccoW,1,0.9483928926562554,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_00911,Fuckaboing - RoccoW,1,0.5709647672317971,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_00926,Night Owl - Broke For Free,1,0.8217218053214879,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_00927,Night Owl - Broke For Free,1,0.8960401932626891,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_00946,Pista Afuera - Epstein,1,0.8843714654012484,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_00947,Pista Afuera - Epstein,1,0.9928709874199608,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_00950,Realize Me - Jim Rooster,1,0.8894235827220284,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_00951,Realize Me - Jim Rooster,1,0.9490567869024846,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_00952,Resistentialism - Nihilore,1,0.9475322428414584,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_00953,Resistentialism - Nihilore,1,0.9407385856790906,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_00974,Ugh! Humans Can Join - Mystery Mammal,1,0.730328774425319,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_00975,Ugh! Humans Can Join - Mystery Mammal,1,0.7679521657057453,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_00992,Different Day - First,1,0.8728621116364962,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_00993,Different Day - First,1,0.7968139502624086,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_01002,"Hungry - Oh Yeah, the Future",1,0.6575943727606661,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_01003,"Hungry - Oh Yeah, the Future",1,0.9218538487997012,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_01024,Motocross Mania - Monroeville Music Center,1,0.8470356777450841,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_01025,Motocross Mania - Monroeville Music Center,1,0.8530457620980659,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_01026,Music For an Underground Circu - Ergo Phizmiz,1,0.662173342010159,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_01027,Music For an Underground Circu - Ergo Phizmiz,1,0.7869187360984856,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_01046,She Works / Tepid Waters - Bird Names,1,0.8816168879675286,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_01047,She Works / Tepid Waters - Bird Names,1,0.4862837999704021,3,0,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_01050,Something Dirty - Ergo Phizmiz,1,0.863264632347978,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_01051,Something Dirty - Ergo Phizmiz,1,0.7762415535471288,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_01070,Troubles I've seen - Malaventura,1,0.80405605871936,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_01071,Troubles I've seen - Malaventura,1,0.8293685853817426,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_01084,Attention - Pete Prodoehl,1,0.82872681552454,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_01085,Attention - Pete Prodoehl,1,0.9274398406793876,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_01100,"Head of Ancante, Talking Tree - Ak'chamel, The Giver of Illness",1,0.8737168109316062,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_01101,"Head of Ancante, Talking Tree - Ak'chamel, The Giver of Illness",1,0.7820260469067176,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_01108,I - Inflammator,1,0.5742192641396288,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_01109,I - Inflammator,1,0.8060059475606375,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_01114,LIQUID SKULLS - voyageurs,1,0.748743552735705,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_01115,LIQUID SKULLS - voyageurs,1,0.7954382488616448,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_01118,Love Dream - The Zombie Dandies,1,0.5535547557516537,3,0,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_01119,Love Dream - The Zombie Dandies,1,0.7148514101856565,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_01144,Sfogare Il Dissenso - Deiezione HC,1,0.701993328549992,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_01145,Sfogare Il Dissenso - Deiezione HC,1,0.704157240900555,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_01152,Stuttgart - Portrayal,1,0.8645490149426892,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_01153,Stuttgart - Portrayal,1,0.7057402765554762,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_01154,Terve Teille - Чокнутый Пропеллер,1,0.7245569247452286,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_01155,Terve Teille - Чокнутый Пропеллер,1,0.7607591112073675,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_01168,Where Is Everything - The Moi Non Plus,1,0.9002591177480018,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_01169,Where Is Everything - The Moi Non Plus,1,0.6745491272584782,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_01170,Who Loves You Dear - Mink Lungs,1,0.7679261386267813,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_01171,Who Loves You Dear - Mink Lungs,1,0.8517521169765244,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_01181,2Much (Andy Spinelli & Alex Sánchez House Edit) - Tentacles,1,0.9716723488773032,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_01182,3 am West End - statusq,1,0.8643641190317698,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_01194,Bizzy - The Tleilaxu Music Machine,1,0.7993785358243479,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_01200,Dance Harder - Three Chain Links,1,0.8910216998341012,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_01209,End titles - Itsensäsyöjät,1,0.9082683856362171,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_01216,Fuckaboing - RoccoW,1,0.9076025530533476,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_01230,Let's Start Out Slow - RoccoW,1,0.7961382597436656,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_01231,Let You're Body Move - D SMILEZ,1,0.8685576061265025,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_01240,Night Owl - Broke For Free,1,0.8661326184409824,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_01251,Pista Afuera - Epstein,1,0.5616456920481593,3,0,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_01254,Realize Me - Jim Rooster,1,0.8882342728917935,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_01255,Resistentialism - Nihilore,1,0.8165552043581427,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_01262,Set Fire to Creation - Nihilore,1,0.8298500006548891,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_01269,Support Me in This Moment That I'm About To Lose Heart - Nihilore,1,0.7545668128288595,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_01273,The Adventures Of Roderick Random - Maps And Diagrams,1,0.9783984331154296,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_01279,The Secret Garden - Barbarix,1,0.8657105214506,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_01286,Ugh! Humans Can Join - Mystery Mammal,1,0.885826002680744,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_01294,Yurtology - Michett,1,0.98595334505554,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_01302,Different Day - First,1,0.7902074773325967,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_01303,El Burrito - Malaventura,1,0.7895380569311317,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_01308,"Hungry - Oh Yeah, the Future",1,0.802667199190848,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_01322,Motocross Mania - Monroeville Music Center,1,0.811827025293644,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_01323,Music For an Underground Circu - Ergo Phizmiz,1,0.8460640807184446,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_01337,Production - Bird Names,1,0.7430568964423454,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_01343,She Works / Tepid Waters - Bird Names,1,0.9444885153874406,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_01344,She Works / Tepid Waters - Bird Names,1,0.8393443526553327,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_01348,Something Dirty - Ergo Phizmiz,1,0.7782981171644036,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_01357,"The Pursuit of Unintentional Humor - Oh Yeah, the Future",1,0.8935590788103379,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_01363,Troubles I've seen - Malaventura,1,0.6795411109633281,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_01364,Troubles I've seen - Malaventura,1,0.6936508760600583,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_01374,5 (Lexington) - Isle of Pine,1,0.9500025198279176,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_01377,Attention - Pete Prodoehl,1,0.8150778124916173,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_01407,"Head of Ancante, Talking Tree - Ak'chamel, The Giver of Illness",1,0.8492394183641444,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_01416,I - Inflammator,1,0.9034401152579528,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_01422,L'arbre - Salmo,1,0.9276196733684502,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_01423,Leaving Here - Mod Fun,1,0.7897210169199691,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_01426,LIQUID SKULLS - voyageurs,1,0.7629913799226377,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_01428,Love Dream - The Zombie Dandies,1,0.578355097189522,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_01432,Moja Krypta - AmortE,1,0.9089313820953272,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_01440,Puertas de Fuego - Guerra de Cerdos,1,0.812036866106273,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_01449,Sfogare Il Dissenso - Deiezione HC,1,0.9453183422487224,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_01453,Sonzis FM - Pipe Choir,1,0.8354867476529534,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_01456,Stuttgart - Portrayal,1,0.7714202048513766,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_01458,Terve Teille - Чокнутый Пропеллер,1,0.7443167247925996,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_01465,Untitled - Fatal Injection,1,0.8980528622172709,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_01472,Where Is Everything - The Moi Non Plus,1,0.6497747071454033,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_01473,Who Loves You Dear - Mink Lungs,1,0.6265320054478644,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_01481,Night Owl - Broke For Free,1,0.717810403657217,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_01484,Fuckaboing - RoccoW,1,0.3973375379130859,3,0,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_01492,Resistentialism - Nihilore,1,0.6216406094845917,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_01495,Dance Harder - Three Chain Links,1,0.8021542367088608,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_01499,Realize Me - Jim Rooster,1,0.3950846268836547,3,0,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_01511,Pista Afuera - Epstein,1,0.7404436235352584,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_01516,Ugh! Humans Can Join - Mystery Mammal,1,0.5671354762466561,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_01531,Troubles I've seen - Malaventura,1,0.8145379853855026,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_01535,Motocross Mania - Monroeville Music Center,1,0.6008970093792413,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_01539,Different Day - First,1,0.5581757837239393,3,0,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_01546,"Hungry - Oh Yeah, the Future",1,0.4780310643311396,3,0,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_01550,She Works / Tepid Waters - Bird Names,1,0.7082275918211646,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_01553,Something Dirty - Ergo Phizmiz,1,0.7640698930822909,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_01559,Music For an Underground Circu - Ergo Phizmiz,1,0.9016811522723714,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_01581,Where Is Everything - The Moi Non Plus,1,0.5962337662988092,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_01586,Stuttgart - Portrayal,1,0.5658682257798784,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_01587,I - Inflammator,1,0.9087052376981548,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_01597,Sfogare Il Dissenso - Deiezione HC,1,0.5257705509443132,3,0,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_01604,Who Loves You Dear - Mink Lungs,1,0.5156526858433218,3,0,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_01609,Attention - Pete Prodoehl,1,0.7682087260115398,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_01614,Love Dream - The Zombie Dandies,1,0.1520062888061458,3,0,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_01623,"Head of Ancante, Talking Tree - Ak'chamel, The Giver of Illness",1,0.670603280619129,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_01625,Terve Teille - Чокнутый Пропеллер,1,0.6704463848389839,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_01626,LIQUID SKULLS - voyageurs,1,0.6284105793064181,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_01637,Dance Harder - Three Chain Links,1,0.6630973563299066,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_01643,Fuckaboing - RoccoW,1,0.7580138095024002,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_01651,Night Owl - Broke For Free,1,0.7945910430535937,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_01661,Pista Afuera - Epstein,1,0.5502578053700783,3,0,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_01663,Realize Me - Jim Rooster,1,0.8742682205776177,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_01664,Resistentialism - Nihilore,1,0.9699323287314752,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_01675,Ugh! Humans Can Join - Mystery Mammal,1,0.8861229635017168,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_01684,Different Day - First,1,0.6140123876096465,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_01689,"Hungry - Oh Yeah, the Future",1,0.8792507539104709,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_01700,Motocross Mania - Monroeville Music Center,1,0.9408388297875332,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_01701,Music For an Underground Circu - Ergo Phizmiz,1,0.2570842114762866,3,0,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_01702,Music For an Underground Circu - Ergo Phizmiz,1,0.93851007680702,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_01712,She Works / Tepid Waters - Bird Names,1,0.8711709043045065,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_01714,Something Dirty - Ergo Phizmiz,1,0.8515154302474882,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_01724,Troubles I've seen - Malaventura,1,0.9666192038774728,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_01731,Attention - Pete Prodoehl,1,0.9340132279486472,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_01739,"Head of Ancante, Talking Tree - Ak'chamel, The Giver of Illness",1,0.977971511808712,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_01743,I - Inflammator,1,0.9144318479669268,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_01746,LIQUID SKULLS - voyageurs,1,0.9134204498330576,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_01748,Love Dream - The Zombie Dandies,1,0.9571260318972282,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_01761,Sfogare Il Dissenso - Deiezione HC,1,0.9561328510489572,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_01765,Stuttgart - Portrayal,1,0.7758400900887495,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_01766,Terve Teille - Чокнутый Пропеллер,1,0.7399719485851141,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_01773,Where Is Everything - The Moi Non Plus,1,0.6745441492250602,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_01774,Who Loves You Dear - Mink Lungs,1,0.9351472945253744,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_01780,2Much (Andy Spinelli & Alex Sánchez House Edit) - Tentacles,1,0.9499947152785484,2,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_01781,3 am West End - statusq,1,0.9203423613729268,2,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_01793,Bizzy - The Tleilaxu Music Machine,1,0.8039746572985632,2,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_01799,Dance Harder - Three Chain Links,1,0.9555685394817772,2,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_01808,End titles - Itsensäsyöjät,1,0.9672477008700744,2,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_01815,Fuckaboing - RoccoW,1,0.908243290683026,2,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_01829,Let's Start Out Slow - RoccoW,1,0.9560041090095835,2,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_01830,Let You're Body Move - D SMILEZ,1,0.974334601841378,2,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_01839,Night Owl - Broke For Free,1,0.9463142304811736,2,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_01850,Pista Afuera - Epstein,1,0.9223263482162464,2,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_01853,Realize Me - Jim Rooster,1,0.8962312728974355,2,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_01854,Resistentialism - Nihilore,1,0.8385491491825394,2,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_01861,Set Fire to Creation - Nihilore,1,0.9842401569946708,2,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_01868,Support Me in This Moment That I'm About To Lose Heart - Nihilore,1,0.9107234754233112,2,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_01872,The Adventures Of Roderick Random - Maps And Diagrams,1,0.8902304905648855,2,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_01878,The Secret Garden - Barbarix,1,0.7832674501577139,2,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_01885,Ugh! Humans Can Join - Mystery Mammal,1,0.994631677072225,2,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_01893,Yurtology - Michett,1,0.9161367550767416,2,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_01902,Different Day - First,1,0.994208956261216,2,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_01903,El Burrito - Malaventura,1,0.9661896394551844,2,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_01908,"Hungry - Oh Yeah, the Future",1,0.7803238735153533,2,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_01921,Motocross Mania - Monroeville Music Center,1,0.952359452423034,2,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_01922,Music For an Underground Circu - Ergo Phizmiz,1,0.9718720268650304,2,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_01933,Production - Bird Names,1,0.9090739065852004,2,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_01938,She Works / Tepid Waters - Bird Names,1,0.9711632325515592,2,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_01942,Something Dirty - Ergo Phizmiz,1,0.7544184080744677,2,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_01950,"The Pursuit of Unintentional Humor - Oh Yeah, the Future",1,0.9516219354296888,2,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_01956,Troubles I've seen - Malaventura,1,0.9675890612792866,2,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_01966,5 (Lexington) - Isle of Pine,1,0.8713941308811213,2,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_01969,Attention - Pete Prodoehl,1,0.7693249676414284,2,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_01999,"Head of Ancante, Talking Tree - Ak'chamel, The Giver of Illness",1,0.9054374394015376,2,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_02008,I - Inflammator,1,0.8916620130843018,2,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_02014,L'arbre - Salmo,1,0.9443713266272368,2,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_02015,Leaving Here - Mod Fun,1,0.9729584473897326,2,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_02018,LIQUID SKULLS - voyageurs,1,0.9271320902563324,2,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_02020,Love Dream - The Zombie Dandies,1,0.9973337284405452,2,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_02024,Moja Krypta - AmortE,1,0.9841874779908548,2,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_02032,Puertas de Fuego - Guerra de Cerdos,1,0.959307385826689,2,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_02041,Sfogare Il Dissenso - Deiezione HC,1,0.9903109487870316,2,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_02045,Sonzis FM - Pipe Choir,1,0.9933158042575624,2,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_02048,Stuttgart - Portrayal,1,0.9910317946419698,2,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_02050,Terve Teille - Чокнутый Пропеллер,1,0.9997342392237007,2,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_02057,Untitled - Fatal Injection,1,0.9676788665077732,2,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_02064,Where Is Everything - The Moi Non Plus,1,0.9723809825302046,2,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_02065,Who Loves You Dear - Mink Lungs,1,0.3398317145663316,2,0,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_02089,Dance Harder - Three Chain Links,1,0.580102286527763,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_02090,Dance Harder - Three Chain Links,1,0.7305993368335839,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_02101,Fuckaboing - RoccoW,1,0.5922242729801613,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_02102,Fuckaboing - RoccoW,1,0.5634366247076962,3,0,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_02117,Night Owl - Broke For Free,1,0.872659419085139,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_02118,Night Owl - Broke For Free,1,0.6553608037660503,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_02137,Pista Afuera - Epstein,1,0.7270047268131781,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_02138,Pista Afuera - Epstein,1,0.660794848026224,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_02141,Realize Me - Jim Rooster,1,0.8007992819590618,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_02142,Realize Me - Jim Rooster,1,0.5970570843327622,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_02143,Resistentialism - Nihilore,1,0.943787746841926,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_02144,Resistentialism - Nihilore,1,0.938897455493651,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_02165,Ugh! Humans Can Join - Mystery Mammal,1,0.5122165896163312,3,0,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_02166,Ugh! Humans Can Join - Mystery Mammal,1,0.9757115500800726,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_02183,Different Day - First,1,0.9734517271543992,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_02184,Different Day - First,1,0.8661707017517112,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_02193,"Hungry - Oh Yeah, the Future",1,0.9091022980978952,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_02194,"Hungry - Oh Yeah, the Future",1,0.8615000854645629,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_02215,Motocross Mania - Monroeville Music Center,1,0.9483752828987724,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_02216,Motocross Mania - Monroeville Music Center,1,0.9379611335803284,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_02217,Music For an Underground Circu - Ergo Phizmiz,1,0.8606926811899802,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_02218,Music For an Underground Circu - Ergo Phizmiz,1,0.6245836981110858,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_02237,She Works / Tepid Waters - Bird Names,1,0.6536624400441778,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_02238,She Works / Tepid Waters - Bird Names,1,0.8268371563239217,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_02241,Something Dirty - Ergo Phizmiz,1,0.7054238420856206,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_02242,Something Dirty - Ergo Phizmiz,1,0.8272782235983372,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_02261,Troubles I've seen - Malaventura,1,0.9088795094672362,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_02262,Troubles I've seen - Malaventura,1,0.9690719548692516,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_02275,Attention - Pete Prodoehl,1,0.704144780818734,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_02276,Attention - Pete Prodoehl,1,0.784098298697046,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_02291,"Head of Ancante, Talking Tree - Ak'chamel, The Giver of Illness",1,0.9144931565153714,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_02292,"Head of Ancante, Talking Tree - Ak'chamel, The Giver of Illness",1,0.9128949527258318,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_02299,I - Inflammator,1,0.527148108302833,3,0,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_02300,I - Inflammator,1,0.6671303571814784,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_02305,LIQUID SKULLS - voyageurs,1,0.857508118380244,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_02306,LIQUID SKULLS - voyageurs,1,0.9490970736893992,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_02309,Love Dream - The Zombie Dandies,1,0.6752007038951899,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_02310,Love Dream - The Zombie Dandies,1,0.8849426891300896,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_02335,Sfogare Il Dissenso - Deiezione HC,1,0.6609415962826936,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_02336,Sfogare Il Dissenso - Deiezione HC,1,0.6073150682632232,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_02343,Stuttgart - Portrayal,1,0.6198894299447179,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_02344,Stuttgart - Portrayal,1,0.9341737814023836,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_02345,Terve Teille - Чокнутый Пропеллер,1,0.9097385011958522,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_02346,Terve Teille - Чокнутый Пропеллер,1,0.8538424453282559,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_02359,Where Is Everything - The Moi Non Plus,1,0.8896428866348688,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_02360,Where Is Everything - The Moi Non Plus,1,0.9207666583071686,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_02361,Who Loves You Dear - Mink Lungs,1,0.7923786906770891,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_02362,Who Loves You Dear - Mink Lungs,1,0.8940401789718845,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_02389,Dance Harder - Three Chain Links,1,0.8637608783896701,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_02390,Dance Harder - Three Chain Links,1,0.7652516207062788,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_02401,Fuckaboing - RoccoW,1,0.9863535477938892,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_02402,Fuckaboing - RoccoW,1,0.5198605947608672,3,0,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_02417,Night Owl - Broke For Free,1,0.8059415766752407,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_02418,Night Owl - Broke For Free,1,0.7272006712603029,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_02437,Pista Afuera - Epstein,1,0.7687539686884065,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_02438,Pista Afuera - Epstein,1,0.7567896333987786,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_02441,Realize Me - Jim Rooster,1,0.3955539584055685,3,0,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_02442,Realize Me - Jim Rooster,1,0.5210639674172234,3,0,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_02443,Resistentialism - Nihilore,1,0.9869848333202538,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_02444,Resistentialism - Nihilore,1,0.3993140004710267,3,0,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_02465,Ugh! Humans Can Join - Mystery Mammal,1,0.9535750987594112,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_02466,Ugh! Humans Can Join - Mystery Mammal,1,0.6237321393531435,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_02483,Different Day - First,1,0.7527906844338882,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_02484,Different Day - First,1,0.6867416390993726,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_02493,"Hungry - Oh Yeah, the Future",1,0.6302854991656608,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_02494,"Hungry - Oh Yeah, the Future",1,0.0489118261974292,3,0,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_02515,Motocross Mania - Monroeville Music Center,1,0.9432166513220928,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_02516,Motocross Mania - Monroeville Music Center,1,0.5138237152972425,3,0,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_02517,Music For an Underground Circu - Ergo Phizmiz,1,0.8211524309382353,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_02518,Music For an Underground Circu - Ergo Phizmiz,1,0.7972558349683094,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_02537,She Works / Tepid Waters - Bird Names,1,0.5796600052545688,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_02538,She Works / Tepid Waters - Bird Names,1,0.0556362730348195,3,0,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_02541,Something Dirty - Ergo Phizmiz,1,0.5711216807347006,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_02542,Something Dirty - Ergo Phizmiz,1,0.8010901889001888,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_02561,Troubles I've seen - Malaventura,1,0.9668143162079644,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_02562,Troubles I've seen - Malaventura,1,0.446769431798436,3,0,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_02575,Attention - Pete Prodoehl,1,0.9554039656144834,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_02576,Attention - Pete Prodoehl,1,0.6966793411173114,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_02591,"Head of Ancante, Talking Tree - Ak'chamel, The Giver of Illness",1,0.944726084125383,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_02592,"Head of Ancante, Talking Tree - Ak'chamel, The Giver of Illness",1,0.3880887631697958,3,0,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_02599,I - Inflammator,1,0.577401925764005,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_02600,I - Inflammator,1,0.7179698701312427,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_02605,LIQUID SKULLS - voyageurs,1,0.9191822132383144,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_02606,LIQUID SKULLS - voyageurs,1,0.6687157828834405,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_02609,Love Dream - The Zombie Dandies,1,0.8978301802484592,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_02610,Love Dream - The Zombie Dandies,1,0.512280820615003,3,0,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_02635,Sfogare Il Dissenso - Deiezione HC,1,0.905675400724946,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_02636,Sfogare Il Dissenso - Deiezione HC,1,0.8890788813950086,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_02643,Stuttgart - Portrayal,1,0.662365956248746,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_02644,Stuttgart - Portrayal,1,0.8652661789974839,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_02645,Terve Teille - Чокнутый Пропеллер,1,0.4092307980908162,3,0,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_02646,Terve Teille - Чокнутый Пропеллер,1,0.3969816327574512,3,0,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_02659,Where Is Everything - The Moi Non Plus,1,0.610199966730779,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_02660,Where Is Everything - The Moi Non Plus,1,0.9606698062286242,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_02661,Who Loves You Dear - Mink Lungs,1,0.3724605344978546,3,0,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_02662,Who Loves You Dear - Mink Lungs,1,0.5836280532062231,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_02679,Dance Harder - Three Chain Links,1,0.9067868557438936,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_02683,Fuckaboing - RoccoW,1,0.745602728305745,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_02691,Night Owl - Broke For Free,1,0.5708942231207601,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_02700,Pista Afuera - Epstein,1,0.6942439181210358,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_02702,Realize Me - Jim Rooster,1,0.6784930244348718,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_02703,Resistentialism - Nihilore,1,0.8062435775259175,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_02714,Ugh! Humans Can Join - Mystery Mammal,1,0.890903753163692,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_02724,El Burrito - Malaventura,1,0.4198416932344573,3,0,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_02741,Motocross Mania - Monroeville Music Center,1,0.8948851204382112,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_02742,Music For an Underground Circu - Ergo Phizmiz,1,0.7876763582295144,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_02752,Production - Bird Names,1,0.9025577883313702,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_02756,She Works / Tepid Waters - Bird Names,1,0.9863333836171484,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_02759,Something Dirty - Ergo Phizmiz,1,0.7114360286895062,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_02767,"The Pursuit of Unintentional Humor - Oh Yeah, the Future",1,0.8851505928423077,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_02773,Troubles I've seen - Malaventura,1,0.5475734450062868,3,0,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_02782,5 (Lexington) - Isle of Pine,1,0.9855296283829714,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_02785,Attention - Pete Prodoehl,1,0.9673452346424442,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_02808,"Head of Ancante, Talking Tree - Ak'chamel, The Giver of Illness",1,0.958740732869678,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_02822,LIQUID SKULLS - voyageurs,1,0.8180684636392995,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_02824,Love Dream - The Zombie Dandies,1,0.5904925694794497,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_02832,Puertas de Fuego - Guerra de Cerdos,1,0.7703266999095688,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_02839,Sfogare Il Dissenso - Deiezione HC,1,0.9799466619555224,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_02843,Sonzis FM - Pipe Choir,1,0.9078782840621644,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_02846,Stuttgart - Portrayal,1,0.8950900890992354,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_02852,Untitled - Fatal Injection,1,0.8899563976355903,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_02857,Who Loves You Dear - Mink Lungs,1,0.7621384857186909,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_02877,Attention - Pete Prodoehl,1,0.8467769541652864,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_02878,Attention - Pete Prodoehl,1,0.7710574764800485,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_02903,Dance Harder - Three Chain Links,1,0.7594688237571713,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_02904,Dance Harder - Three Chain Links,1,0.6247705518699965,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_02907,Different Day - First,1,0.741905700023676,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_02908,Different Day - First,1,0.670622517950796,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_02931,Fuckaboing - RoccoW,1,0.5833220975840949,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_02932,Fuckaboing - RoccoW,1,0.5701730869441987,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_02939,"Head of Ancante, Talking Tree - Ak'chamel, The Giver of Illness",1,0.7314042791312433,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_02940,"Head of Ancante, Talking Tree - Ak'chamel, The Giver of Illness",1,0.6280073706706728,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_02941,"Hungry - Oh Yeah, the Future",1,0.7469979432399971,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_02942,"Hungry - Oh Yeah, the Future",1,0.63218630601519,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_02947,I - Inflammator,1,0.498915408382216,3,0,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_02948,I - Inflammator,1,0.5157917814519685,3,0,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_02971,LIQUID SKULLS - voyageurs,1,0.7137577631320297,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_02972,LIQUID SKULLS - voyageurs,1,0.6855343166829976,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_02977,Love Dream - The Zombie Dandies,1,0.6130323177824267,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_02978,Love Dream - The Zombie Dandies,1,0.5285283356198688,3,0,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_02991,Motocross Mania - Monroeville Music Center,1,0.5971698455953146,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_02992,Motocross Mania - Monroeville Music Center,1,0.4939442803257999,3,0,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_02995,Music For an Underground Circu - Ergo Phizmiz,1,0.964467616504352,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_02996,Music For an Underground Circu - Ergo Phizmiz,1,0.7950046168254232,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_03003,Night Owl - Broke For Free,1,0.6883999291270942,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_03004,Night Owl - Broke For Free,1,0.6190005405657736,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_03031,Pista Afuera - Epstein,1,0.7275148751123067,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_03032,Pista Afuera - Epstein,1,0.4499394108398087,3,0,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_03035,Realize Me - Jim Rooster,1,0.9414034049135936,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_03036,Realize Me - Jim Rooster,1,0.9487809165618716,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_03037,Resistentialism - Nihilore,1,0.8581823897087376,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_03038,Resistentialism - Nihilore,1,0.6835994768348211,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_03061,Sfogare Il Dissenso - Deiezione HC,1,0.5580741449655543,3,0,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_03062,Sfogare Il Dissenso - Deiezione HC,1,0.4690632386261534,3,0,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_03065,She Works / Tepid Waters - Bird Names,1,0.7691226748719474,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_03066,She Works / Tepid Waters - Bird Names,1,0.6494920867102654,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_03071,Something Dirty - Ergo Phizmiz,1,0.4694482749845203,3,0,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_03072,Something Dirty - Ergo Phizmiz,1,0.5047693413811757,3,0,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_03083,Stuttgart - Portrayal,1,0.5737663721370022,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_03084,Stuttgart - Portrayal,1,0.6843736540435091,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_03089,Terve Teille - Чокнутый Пропеллер,1,0.2914279913408764,3,0,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_03090,Terve Teille - Чокнутый Пропеллер,1,0.4878378974912125,3,0,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_03119,Troubles I've seen - Malaventura,1,0.6075043513084742,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_03120,Troubles I've seen - Malaventura,1,0.6842740666557505,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_03121,Ugh! Humans Can Join - Mystery Mammal,1,0.9768645576055404,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_03122,Ugh! Humans Can Join - Mystery Mammal,1,0.9427553732011038,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_03133,Where Is Everything - The Moi Non Plus,1,0.3243499293991679,3,0,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_03134,Where Is Everything - The Moi Non Plus,1,0.3406127212374893,3,0,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_03135,Who Loves You Dear - Mink Lungs,1,0.4146477715168643,3,0,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_03136,Who Loves You Dear - Mink Lungs,1,0.5897550657923262,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_03167,2Much (Andy Spinelli & Alex Sánchez House Edit) - Tentacles,1,0.8605712198531533,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_03169,3 am West End - statusq,1,0.9266113234622834,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_03171,5 (Lexington) - Isle of Pine,1,0.9527718740506628,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_03183,Attention - Pete Prodoehl,1,0.9725455187562128,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_03193,Bizzy - The Tleilaxu Music Machine,1,0.921286074685618,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_03209,Dance Harder - Three Chain Links,1,0.9577233227530252,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_03214,Different Day - First,1,0.615618392722728,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_03222,El Burrito - Malaventura,1,0.6483189767393951,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_03227,End titles - Itsensäsyöjät,1,0.8392951498267919,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_03244,Fuckaboing - RoccoW,1,0.9910146403876842,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_03253,"Head of Ancante, Talking Tree - Ak'chamel, The Giver of Illness",1,0.900174944086829,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_03255,"Hungry - Oh Yeah, the Future",1,0.9941629713317932,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_03267,I - Inflammator,1,0.9699236380159566,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_03287,Leaving Here - Mod Fun,1,0.7790268576610417,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_03288,Let's Start Out Slow - RoccoW,1,0.8909940133631861,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_03290,Let You're Body Move - D SMILEZ,1,0.8983406061437305,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_03295,LIQUID SKULLS - voyageurs,1,0.8841607281954046,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_03301,Love Dream - The Zombie Dandies,1,0.6023041062144451,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_03302,L'arbre - Salmo,1,0.8656021520019568,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_03308,Moja Krypta - AmortE,1,0.9183704724235924,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_03313,Motocross Mania - Monroeville Music Center,1,0.8137789349179906,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_03315,Music For an Underground Circu - Ergo Phizmiz,1,0.8732109748566521,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_03324,Night Owl - Broke For Free,1,0.8878465406837247,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_03342,Pista Afuera - Epstein,1,0.9853719563032152,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_03345,Production - Bird Names,1,0.8427822574402949,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_03347,Puertas de Fuego - Guerra de Cerdos,1,0.967935339360262,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_03350,Realize Me - Jim Rooster,1,0.9423216294719108,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_03352,Resistentialism - Nihilore,1,0.86860649298693,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_03367,Set Fire to Creation - Nihilore,1,0.6282354601530936,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_03368,Sfogare Il Dissenso - Deiezione HC,1,0.9565733754208976,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_03371,She Works / Tepid Waters - Bird Names,1,0.4537307562433326,3,0,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_03379,Something Dirty - Ergo Phizmiz,1,0.9104202874407832,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_03381,Sonzis FM - Pipe Choir,1,0.7421137114260726,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_03390,Stuttgart - Portrayal,1,0.8693239675919754,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_03391,Support Me in This Moment That I'm About To Lose Heart - Nihilore,1,0.859570310835573,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_03396,Terve Teille - Чокнутый Пропеллер,1,0.629756224821907,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_03397,The Adventures Of Roderick Random - Maps And Diagrams,1,0.7447755603469499,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_03411,"The Pursuit of Unintentional Humor - Oh Yeah, the Future",1,0.9440890076507744,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_03416,The Secret Garden - Barbarix,1,0.847943580725099,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_03425,Troubles I've seen - Malaventura,1,0.9328413463280176,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_03427,Ugh! Humans Can Join - Mystery Mammal,1,0.7965909788277177,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_03431,Untitled - Fatal Injection,1,0.8576823546692732,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_03443,Where Is Everything - The Moi Non Plus,1,0.8331810171574127,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_03444,Who Loves You Dear - Mink Lungs,1,0.7113070849195421,3,1,0.5634561570614823
+mp3_optimized_20260919T175101Z,clean,classical_20260919T110356Z,LogisticRegression,optimized,test,track,sample_03451,Yurtology - Michett,1,0.9048132213644954,3,1,0.5634561570614823

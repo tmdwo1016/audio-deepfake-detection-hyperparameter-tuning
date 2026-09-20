@@ -1,0 +1,7 @@
+﻿run_id,holdout_generator,model,inference_seconds,n_test_segments,device,excluded_mert_encoder_seconds
+unseen_classical_mert_20260919T171142Z,musicgen,LogisticRegression,0.0018427500035613775,270,CPU,True
+unseen_classical_mert_20260919T171142Z,musicgen,RBF-SVM,0.04471820895560086,270,CPU,True
+unseen_classical_mert_20260919T171142Z,musicgen,Frozen MERT + LR,0.001889082952402532,270,CPU,True
+unseen_classical_mert_20260919T171142Z,udio,LogisticRegression,0.003049583057872951,279,CPU,True
+unseen_classical_mert_20260919T171142Z,udio,RBF-SVM,0.0745732500217855,279,CPU,True
+unseen_classical_mert_20260919T171142Z,udio,Frozen MERT + LR,0.002307542017661035,279,CPU,True

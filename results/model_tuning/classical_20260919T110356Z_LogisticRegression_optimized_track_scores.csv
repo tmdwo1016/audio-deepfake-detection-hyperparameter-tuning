@@ -1,0 +1,528 @@
+﻿track_id,original_audio_id,label,score,n_segments,prediction,run_id,model,variant,split,threshold
+sample_00002,2 (Wasn't There) - Isle of Pine,0,0.16106654453831512,3,0,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_00013,Agora - Malaventura,0,0.5749586781814661,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_00027,Beyond Luxury - Mors Ontologica,0,0.1284216201060463,3,0,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_00043,CopperNickle - UncleBibby,0,0.3710121997434012,3,0,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_00047,Daylight Savings - My brother Daniel,0,0.5634561570614823,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_00059,Empty Pockets - Pete Prodoehl,0,0.2725689274553814,3,0,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_00065,Evil Cannot Create - Caleb Lemond,0,0.14804477782771971,3,0,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_00067,Fear - Los Fancy Free,0,0.2177162019572116,3,0,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_00068,Fifth Ramble - From the album Keith [RSVP007] - My brother Daniel,0,0.8904717336404134,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_00080,Gila Monster Flop/Music History Lesson:The Sonics - The Crypts!,0,0.43325394879132045,3,0,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_00095,I Fell - Mod Fun,0,0.14918178855792,3,0,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_00099,If You're Ther - Nicola Ratti,0,0.21797413458929737,3,0,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_00114,Kumorizoranohajimarutokoro - Hosomi,0,0.022386387081310386,3,0,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_00128,Lights Up - Pipe Choir,0,0.07813731966757768,3,0,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_00133,Loved Ones - Rowan Box,0,0.5348631299878284,3,0,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_00136,March of the GPA Mechanics - [t]ghost,0,0.3368511384135074,3,0,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_00142,Morning Bell - Nihilore,0,0.06828087943867846,3,0,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_00147,My Body Is A Weapon (Compromise Edit) - Silence is full of birds,0,0.0382129288280604,3,0,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_00151,New Life (take 1) - Bird Names,0,0.040323436002208134,3,0,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_00153,Night Drive - Decktonic,0,0.0022219210626375353,3,0,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_00156,Norweigian Wood II - Bird Names,0,0.09191597895158359,3,0,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_00160,Nuo Maisemat - Paavoharju,0,0.5047377372562455,3,0,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_00179,Redlight - Room For A Ghost,0,0.0572848567061806,3,0,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_00185,Roller Star - Monroeville Music Center,0,0.039100770179849226,3,0,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_00187,"Roundtrip - Oh Yeah, the Future",0,0.06734173603920589,3,0,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_00190,SD (Ill Mix) - H-LR,0,0.3802999757121654,3,0,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_00192,Scramby Eggs - Andy G. Cohen,0,0.26038342413950394,3,0,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_00200,Shipwrecked Crew - Pete Prodoehl,0,0.4301282661713812,3,0,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_00205,Soleares&beats - Malaventura,0,0.4671969771010797,3,0,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_00211,Stockholm Syndrome / People Should Be More Aware - Bird Names,0,0.09374074193892046,3,0,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_00215,Sturgeon's Law - Nihilore,0,0.2185623592325391,3,0,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_00242,The Stairway - WarpToken,0,0.5471066227702304,3,0,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_00243,The girl just faded - Los Llamarada,0,0.08241479203168268,3,0,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_00245,Three Bird - My brother Daniel,0,0.6137157229376294,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_00246,Time Is Love - Silence is full of birds,0,0.08356654825648958,3,0,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_00248,Timen Passing By - Jason Shaw,0,0.38318334471883614,3,0,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_00255,Understand That This Is A Dream - From the album Modulating Coil [RSVP008] - Forrest James,0,0.1496248393184587,3,0,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_00261,Voxel - Andy G. Cohen,0,0.1923216119713189,3,0,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_00267,Westside Chillers - Little Glass Men,0,0.4962078084553043,3,0,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_00273,Windows of the Skull - Sarin,0,0.10378098851245217,3,0,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_00286,mystery team 2090 - Jesse Futerman,0,0.6210331462382673,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_00290,some dextromethorphan - Jeva,0,0.03630445396750291,3,0,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_00292,В Наших Сердцах - Чокнутый Пропеллер,0,0.11249990647974589,3,0,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_00295,Новый Нью-Йорк 2 - Чокнутый Пропеллер,0,0.06722222529357023,3,0,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_00299,2 (Wasn't There) - Isle of Pine,1,0.5553667617776453,3,0,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_00306,Agora - Malaventura,1,0.9631808671435783,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_00323,Beyond Luxury - Mors Ontologica,1,0.882834041406838,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_00338,CopperNickle - UncleBibby,1,0.8019764554591569,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_00343,Daylight Savings - My brother Daniel,1,0.9177542942088479,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_00355,Empty Pockets - Pete Prodoehl,1,0.8789378789712794,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_00361,Evil Cannot Create - Caleb Lemond,1,0.8946657707272543,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_00363,Fear - Los Fancy Free,1,0.9171276675098939,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_00364,Fifth Ramble - From the album Keith [RSVP007] - My brother Daniel,1,0.870380314979287,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_00376,Gila Monster Flop/Music History Lesson:The Sonics - The Crypts!,1,0.5256443676906445,3,0,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_00387,If You're Ther - Nicola Ratti,1,0.9543001061471891,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_00397,I Fell - Mod Fun,1,0.9878834565125834,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_00413,Kumorizoranohajimarutokoro - Hosomi,1,0.9724122601354397,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_00425,Lights Up - Pipe Choir,1,0.675761400847828,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_00431,Loved Ones - Rowan Box,1,0.982880818070594,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_00435,March of the GPA Mechanics - [t]ghost,1,0.8386934039045357,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_00442,Morning Bell - Nihilore,1,0.8756064645815846,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_00447,mystery team 2090 - Jesse Futerman,1,0.8725408944081444,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_00448,My Body Is A Weapon (Compromise Edit) - Silence is full of birds,1,0.8945434758535029,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_00452,New Life (take 1) - Bird Names,1,0.9778105903005682,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_00454,Night Drive - Decktonic,1,0.9918910466382518,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_00457,Norweigian Wood II - Bird Names,1,0.943899158820899,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_00461,Nuo Maisemat - Paavoharju,1,0.9522339891256658,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_00482,Redlight - Room For A Ghost,1,0.7577048693996759,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_00488,Roller Star - Monroeville Music Center,1,0.983976601501875,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_00490,"Roundtrip - Oh Yeah, the Future",1,0.6289605637330992,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_00494,Scramby Eggs - Andy G. Cohen,1,0.6043387794494718,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_00495,SD (Ill Mix) - H-LR,1,0.7312381627587815,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_00503,Shipwrecked Crew - Pete Prodoehl,1,0.8148936622210449,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_00509,Soleares&beats - Malaventura,1,0.6763361881009926,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_00511,some dextromethorphan - Jeva,1,0.9602378803673476,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_00516,Stockholm Syndrome / People Should Be More Aware - Bird Names,1,0.7767967943929769,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_00520,Sturgeon's Law - Nihilore,1,0.8572173794371265,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_00539,The girl just faded - Los Llamarada,1,0.9554861600407709,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_00548,The Stairway - WarpToken,1,0.947851084289746,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_00549,Three Bird - My brother Daniel,1,0.9127331307332488,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_00550,Timen Passing By - Jason Shaw,1,0.8532121692966506,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_00551,Time Is Love - Silence is full of birds,1,0.846149799133956,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_00560,Understand That This Is A Dream - From the album Modulating Coil [RSVP008] - Forrest James,1,0.9361584088283598,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_00565,Voxel - Andy G. Cohen,1,0.8329700430558029,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_00567,Westside Chillers - Little Glass Men,1,0.8536602628526544,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_00586,В Наших Сердцах - Чокнутый Пропеллер,1,0.4269368783227477,3,0,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_00589,Новый Нью-Йорк 2 - Чокнутый Пропеллер,1,0.8324305702754078,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_00595,Daylight Savings - My brother Daniel,1,0.9942217201551525,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_00596,Three Bird - My brother Daniel,1,0.9908976754091863,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_00609,Timen Passing By - Jason Shaw,1,0.9892021806776677,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_00610,Night Drive - Decktonic,1,0.9577201229680571,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_00615,Sturgeon's Law - Nihilore,1,0.9494088361080913,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_00617,mystery team 2090 - Jesse Futerman,1,0.9738820594742665,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_00625,Loved Ones - Rowan Box,1,0.9286241746436308,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_00639,CopperNickle - UncleBibby,1,0.9730589529490952,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_00651,Nuo Maisemat - Paavoharju,1,0.9878004332346405,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_00662,SD (Ill Mix) - H-LR,1,0.9439418532220681,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_00666,Kumorizoranohajimarutokoro - Hosomi,1,0.9007294153141152,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_00673,some dextromethorphan - Jeva,1,0.9324618255563291,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_00676,Fifth Ramble - From the album Keith [RSVP007] - My brother Daniel,1,0.99211788772485,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_00681,Westside Chillers - Little Glass Men,1,0.8220900714546205,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_00692,If You're Ther - Nicola Ratti,1,0.9960406715673996,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_00693,Understand That This Is A Dream - From the album Modulating Coil [RSVP008] - Forrest James,1,0.8929451389555028,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_00700,The Stairway - WarpToken,1,0.9937855634821787,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_00704,Soleares&beats - Malaventura,1,0.9789916055862947,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_00728,Evil Cannot Create - Caleb Lemond,1,0.9651779500868244,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_00732,Norweigian Wood II - Bird Names,1,0.9906477903370846,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_00738,Roller Star - Monroeville Music Center,1,0.9965233331326524,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_00743,Time Is Love - Silence is full of birds,1,0.9942705867725182,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_00744,Stockholm Syndrome / People Should Be More Aware - Bird Names,1,0.8694612710147136,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_00748,"Roundtrip - Oh Yeah, the Future",1,0.994376114437226,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_00749,New Life (take 1) - Bird Names,1,0.99583832889413,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_00751,My Body Is A Weapon (Compromise Edit) - Silence is full of birds,1,0.9707060280427936,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_00760,Agora - Malaventura,1,0.982886638671418,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_00768,Empty Pockets - Pete Prodoehl,1,0.9927049601426177,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_00770,Windows of the Skull - Sarin,1,0.9634165920913111,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_00773,Gila Monster Flop/Music History Lesson:The Sonics - The Crypts!,1,0.9851984491746935,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_00781,Voxel - Andy G. Cohen,1,0.9923783802123491,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_00788,Scramby Eggs - Andy G. Cohen,1,0.9886147692600415,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_00802,I Fell - Mod Fun,1,0.9838384404444719,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_00803,Новый Нью-Йорк 2 - Чокнутый Пропеллер,1,0.9924872990838115,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_00807,March of the GPA Mechanics - [t]ghost,1,0.9691572104020576,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_00812,2 (Wasn't There) - Isle of Pine,1,0.9954072238664553,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_00813,The girl just faded - Los Llamarada,1,0.8301865258697506,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_00819,В Наших Сердцах - Чокнутый Пропеллер,1,0.9944329836625977,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_00820,Lights Up - Pipe Choir,1,0.9951624606587003,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_00822,Beyond Luxury - Mors Ontologica,1,0.9950528267049426,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_00843,Fear - Los Fancy Free,1,0.9893050752529495,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_00874,Redlight - Room For A Ghost,1,0.924406138679814,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_00875,Shipwrecked Crew - Pete Prodoehl,1,0.9943460867466355,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_00880,Morning Bell - Nihilore,1,0.9764509544495645,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_00898,CopperNickle - UncleBibby,1,0.8409437372144167,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_00899,CopperNickle - UncleBibby,1,0.6654942887056046,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_00922,mystery team 2090 - Jesse Futerman,1,0.9360102016915691,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_00923,mystery team 2090 - Jesse Futerman,1,0.8372487622456785,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_00924,Night Drive - Decktonic,1,0.8709763455461285,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_00925,Night Drive - Decktonic,1,0.8338907328814735,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_00930,Nuo Maisemat - Paavoharju,1,0.9724615693326707,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_00931,Nuo Maisemat - Paavoharju,1,0.9775929451517581,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_00958,SD (Ill Mix) - H-LR,1,0.8622469084220331,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_00959,SD (Ill Mix) - H-LR,1,0.9074023027903136,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_00994,Evil Cannot Create - Caleb Lemond,1,0.9828085407732755,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_00995,Evil Cannot Create - Caleb Lemond,1,0.9800371197410733,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_01030,New Life (take 1) - Bird Names,1,0.881840707254575,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_01031,New Life (take 1) - Bird Names,1,0.7851194198066174,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_01032,Norweigian Wood II - Bird Names,1,0.6935171814409441,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_01033,Norweigian Wood II - Bird Names,1,0.8792529939346623,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_01040,Roller Star - Monroeville Music Center,1,0.9178449862671089,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_01041,Roller Star - Monroeville Music Center,1,0.9133517825421955,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_01042,"Roundtrip - Oh Yeah, the Future",1,0.8284336627430665,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_01043,"Roundtrip - Oh Yeah, the Future",1,0.6892441538874893,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_01048,Soleares&beats - Malaventura,1,0.9335117837095405,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_01049,Soleares&beats - Malaventura,1,0.6119084053372834,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_01054,Stockholm Syndrome / People Should Be More Aware - Bird Names,1,0.5753411338115,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_01055,Stockholm Syndrome / People Should Be More Aware - Bird Names,1,0.8503155943464202,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_01068,Time Is Love - Silence is full of birds,1,0.8638008100226634,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_01069,Time Is Love - Silence is full of birds,1,0.9059848620839196,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_01082,2 (Wasn't There) - Isle of Pine,1,0.7301035635735208,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_01083,2 (Wasn't There) - Isle of Pine,1,0.917382833486953,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_01092,Empty Pockets - Pete Prodoehl,1,0.7695520064497487,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_01093,Empty Pockets - Pete Prodoehl,1,0.8276649290006516,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_01098,Gila Monster Flop/Music History Lesson:The Sonics - The Crypts!,1,0.7866119154780983,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_01099,Gila Monster Flop/Music History Lesson:The Sonics - The Crypts!,1,0.7611364531156198,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_01104,I Fell - Mod Fun,1,0.8412059867546077,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_01105,I Fell - Mod Fun,1,0.8432688448857193,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_01120,March of the GPA Mechanics - [t]ghost,1,0.6790168414026999,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_01121,March of the GPA Mechanics - [t]ghost,1,0.806818630380041,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_01140,Scramby Eggs - Andy G. Cohen,1,0.6130773255052121,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_01141,Scramby Eggs - Andy G. Cohen,1,0.698149553321902,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_01158,The girl just faded - Los Llamarada,1,0.7703547672620105,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_01159,The girl just faded - Los Llamarada,1,0.8006783054123874,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_01164,Voxel - Andy G. Cohen,1,0.4775701484015283,3,0,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_01165,Voxel - Andy G. Cohen,1,0.5262798581863766,3,0,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_01172,Windows of the Skull - Sarin,1,0.9244939104794704,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_01173,Windows of the Skull - Sarin,1,0.8901728217690632,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_01178,Новый Нью-Йорк 2 - Чокнутый Пропеллер,1,0.6207962965414046,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_01179,Новый Нью-Йорк 2 - Чокнутый Пропеллер,1,0.5037550547903632,3,0,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_01199,CopperNickle - UncleBibby,1,0.5369743002300482,3,0,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_01202,Daylight Savings - My brother Daniel,1,0.6919839744280609,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_01211,Fifth Ramble - From the album Keith [RSVP007] - My brother Daniel,1,0.7974213745717221,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_01219,If You're Ther - Nicola Ratti,1,0.9686404517708104,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_01227,Kumorizoranohajimarutokoro - Hosomi,1,0.9037538057899348,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_01236,Loved Ones - Rowan Box,1,0.8220314279238403,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_01237,Morning Bell - Nihilore,1,0.6504120945950548,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_01238,mystery team 2090 - Jesse Futerman,1,0.9134390016199223,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_01239,Night Drive - Decktonic,1,0.9717611616044429,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_01243,Nuo Maisemat - Paavoharju,1,0.992409764728634,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_01260,SD (Ill Mix) - H-LR,1,0.9178393866648462,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_01265,some dextromethorphan - Jeva,1,0.8149976929904685,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_01268,Sturgeon's Law - Nihilore,1,0.7647226778027587,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_01280,The Stairway - WarpToken,1,0.824095373996232,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_01281,Three Bird - My brother Daniel,1,0.8979463117005112,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_01282,Timen Passing By - Jason Shaw,1,0.8224686326744278,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_01288,Understand That This Is A Dream - From the album Modulating Coil [RSVP008] - Forrest James,1,0.8676490894919913,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_01291,Westside Chillers - Little Glass Men,1,0.8505358130999768,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_01295,Agora - Malaventura,1,0.7053132740857314,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_01304,Evil Cannot Create - Caleb Lemond,1,0.8563694554165603,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_01324,My Body Is A Weapon (Compromise Edit) - Silence is full of birds,1,0.9917156560130757,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_01325,My Body Is A Weapon (Compromise Edit) - Silence is full of birds,1,0.9794444465539138,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_01329,New Life (take 1) - Bird Names,1,0.8111327821375918,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_01330,New Life (take 1) - Bird Names,1,0.9396095566749437,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_01331,Norweigian Wood II - Bird Names,1,0.6001766514782675,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_01340,Roller Star - Monroeville Music Center,1,0.8250127154225572,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_01341,"Roundtrip - Oh Yeah, the Future",1,0.9313916330004878,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_01347,Soleares&beats - Malaventura,1,0.6086958796944151,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_01351,Stockholm Syndrome / People Should Be More Aware - Bird Names,1,0.8456653109867626,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_01352,Stockholm Syndrome / People Should Be More Aware - Bird Names,1,0.7502918336398899,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_01362,Time Is Love - Silence is full of birds,1,0.8191300055025105,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_01372,2 (Wasn't There) - Isle of Pine,1,0.70400591519395,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_01382,Beyond Luxury - Mors Ontologica,1,0.7073385176288739,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_01394,Empty Pockets - Pete Prodoehl,1,0.6565536486776863,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_01397,Fear - Los Fancy Free,1,0.8855761849477467,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_01402,Gila Monster Flop/Music History Lesson:The Sonics - The Crypts!,1,0.8719776300939565,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_01415,I Fell - Mod Fun,1,0.867569571338295,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_01425,Lights Up - Pipe Choir,1,0.971638782618562,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_01429,March of the GPA Mechanics - [t]ghost,1,0.941046679658459,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_01442,Redlight - Room For A Ghost,1,0.7541012821792563,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_01447,Scramby Eggs - Andy G. Cohen,1,0.9006176872234857,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_01451,Shipwrecked Crew - Pete Prodoehl,1,0.5885759911127079,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_01461,The girl just faded - Los Llamarada,1,0.6010902174201552,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_01467,Voxel - Andy G. Cohen,1,0.8859378319916464,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_01475,Windows of the Skull - Sarin,1,0.6593134620226441,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_01488,Night Drive - Decktonic,1,0.6110690684721475,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_01507,Nuo Maisemat - Paavoharju,1,0.6042436204461474,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_01512,CopperNickle - UncleBibby,1,0.2558188182004675,3,0,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_01513,Daylight Savings - My brother Daniel,1,0.6979430550356165,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_01514,mystery team 2090 - Jesse Futerman,1,0.7577605104923095,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_01525,SD (Ill Mix) - H-LR,1,0.5174229546588446,3,0,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_01530,Stockholm Syndrome / People Should Be More Aware - Bird Names,1,0.7163287196707935,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_01532,Time Is Love - Silence is full of birds,1,0.11892465299593251,3,0,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_01534,Roller Star - Monroeville Music Center,1,0.664131001395925,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_01537,Soleares&beats - Malaventura,1,0.3121128395177318,3,0,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_01543,Evil Cannot Create - Caleb Lemond,1,0.7822542724630485,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_01549,"Roundtrip - Oh Yeah, the Future",1,0.9106563729461152,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_01564,Norweigian Wood II - Bird Names,1,0.5691647642286372,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_01565,New Life (take 1) - Bird Names,1,0.9082117292353752,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_01566,New Life (take 1) - Bird Names,1,0.4021501051262321,3,0,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_01593,Gila Monster Flop/Music History Lesson:The Sonics - The Crypts!,1,0.7124089167600133,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_01607,March of the GPA Mechanics - [t]ghost,1,0.4362690700363379,3,0,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_01608,Windows of the Skull - Sarin,1,0.5058639107653538,3,0,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_01610,Empty Pockets - Pete Prodoehl,1,0.544274992323985,3,0,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_01612,Scramby Eggs - Andy G. Cohen,1,0.2912831380434128,3,0,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_01613,Voxel - Andy G. Cohen,1,0.2362657529951402,3,0,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_01615,The girl just faded - Los Llamarada,1,0.8067883233155566,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_01620,2 (Wasn't There) - Isle of Pine,1,0.6363261084128365,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_01622,I Fell - Mod Fun,1,0.47854097167733256,3,0,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_01624,Новый Нью-Йорк 2 - Чокнутый Пропеллер,1,0.3457389457103595,3,0,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_01636,CopperNickle - UncleBibby,1,0.8300038846180531,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_01638,Daylight Savings - My brother Daniel,1,0.842449868736742,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_01649,mystery team 2090 - Jesse Futerman,1,0.8868378982306907,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_01650,Night Drive - Decktonic,1,0.6953192820363304,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_01653,Nuo Maisemat - Paavoharju,1,0.9859157346402636,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_01667,SD (Ill Mix) - H-LR,1,0.9198131086365563,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_01685,Evil Cannot Create - Caleb Lemond,1,0.65497307033693,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_01704,New Life (take 1) - Bird Names,1,0.7670325854487375,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_01705,Norweigian Wood II - Bird Names,1,0.8604391523577196,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_01709,Roller Star - Monroeville Music Center,1,0.8956204536885296,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_01710,"Roundtrip - Oh Yeah, the Future",1,0.8010343624663978,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_01713,Soleares&beats - Malaventura,1,0.8373587768682108,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_01716,Stockholm Syndrome / People Should Be More Aware - Bird Names,1,0.9830039424452087,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_01723,Time Is Love - Silence is full of birds,1,0.937128225343813,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_01730,2 (Wasn't There) - Isle of Pine,1,0.8969121728925864,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_01735,Empty Pockets - Pete Prodoehl,1,0.7684529906359446,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_01738,Gila Monster Flop/Music History Lesson:The Sonics - The Crypts!,1,0.8762212824599208,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_01741,I Fell - Mod Fun,1,0.9210743778958633,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_01749,March of the GPA Mechanics - [t]ghost,1,0.9081189381764464,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_01759,Scramby Eggs - Andy G. Cohen,1,0.7250986939696106,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_01768,The girl just faded - Los Llamarada,1,0.9427490161675464,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_01771,Voxel - Andy G. Cohen,1,0.8674608234162177,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_01775,Windows of the Skull - Sarin,1,0.9500270484752614,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_01778,Новый Нью-Йорк 2 - Чокнутый Пропеллер,1,0.6623603116232913,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_01798,CopperNickle - UncleBibby,1,0.9584833301633979,2,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_01801,Daylight Savings - My brother Daniel,1,0.9965594147387115,2,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_01810,Fifth Ramble - From the album Keith [RSVP007] - My brother Daniel,1,0.9266651296128936,2,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_01818,If You're Ther - Nicola Ratti,1,0.7945670021374627,2,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_01826,Kumorizoranohajimarutokoro - Hosomi,1,0.9635471788494558,2,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_01835,Loved Ones - Rowan Box,1,0.9951499966612465,2,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_01836,Morning Bell - Nihilore,1,0.8020983201823692,2,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_01837,mystery team 2090 - Jesse Futerman,1,0.8490859957320085,2,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_01838,Night Drive - Decktonic,1,0.8958244164109873,2,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_01842,Nuo Maisemat - Paavoharju,1,0.7415347073016635,2,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_01859,SD (Ill Mix) - H-LR,1,0.9376963709441115,2,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_01864,some dextromethorphan - Jeva,1,0.8890500652585418,2,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_01867,Sturgeon's Law - Nihilore,1,0.8962960580479409,2,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_01879,The Stairway - WarpToken,1,0.981343104980706,2,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_01880,Three Bird - My brother Daniel,1,0.8962968090446737,2,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_01881,Timen Passing By - Jason Shaw,1,0.9634742136292773,2,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_01887,Understand That This Is A Dream - From the album Modulating Coil [RSVP008] - Forrest James,1,0.9828868431030915,2,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_01890,Westside Chillers - Little Glass Men,1,0.6885912558549989,2,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_01895,Agora - Malaventura,1,0.9859495929286994,2,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_01904,Evil Cannot Create - Caleb Lemond,1,0.9896584380432459,2,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_01923,My Body Is A Weapon (Compromise Edit) - Silence is full of birds,1,0.999010384089747,2,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_01926,New Life (take 1) - Bird Names,1,0.9337434941697563,2,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_01927,Norweigian Wood II - Bird Names,1,0.9709950013537119,2,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_01935,Roller Star - Monroeville Music Center,1,0.9964215087815502,2,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_01936,"Roundtrip - Oh Yeah, the Future",1,0.9959039715592095,2,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_01941,Soleares&beats - Malaventura,1,0.9877920988175735,2,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_01945,Stockholm Syndrome / People Should Be More Aware - Bird Names,1,0.9053033740058118,2,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_01955,Time Is Love - Silence is full of birds,1,0.989585566905596,2,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_01964,2 (Wasn't There) - Isle of Pine,1,0.9446930195595484,2,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_01974,Beyond Luxury - Mors Ontologica,1,0.9118601708033478,2,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_01986,Empty Pockets - Pete Prodoehl,1,0.7440794131835109,2,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_01989,Fear - Los Fancy Free,1,0.9938853636301972,2,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_01994,Gila Monster Flop/Music History Lesson:The Sonics - The Crypts!,1,0.7858523539183897,1,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_02007,I Fell - Mod Fun,1,0.9290665202704215,2,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_02017,Lights Up - Pipe Choir,1,0.9358962334327865,2,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_02021,March of the GPA Mechanics - [t]ghost,1,0.9919513664238438,2,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_02034,Redlight - Room For A Ghost,1,0.9687347455291612,2,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_02039,Scramby Eggs - Andy G. Cohen,1,0.9968535254635551,2,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_02043,Shipwrecked Crew - Pete Prodoehl,1,0.9455930896531868,2,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_02053,The girl just faded - Los Llamarada,1,0.9543056187872963,2,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_02059,Voxel - Andy G. Cohen,1,0.9931423347204853,2,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_02067,Windows of the Skull - Sarin,1,0.9800827973235479,2,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_02087,CopperNickle - UncleBibby,1,0.8573076491516568,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_02088,CopperNickle - UncleBibby,1,0.504621487261484,3,0,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_02091,Daylight Savings - My brother Daniel,1,0.8444250605901708,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_02092,Daylight Savings - My brother Daniel,1,0.7973658506725528,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_02113,mystery team 2090 - Jesse Futerman,1,0.8189250892269505,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_02114,mystery team 2090 - Jesse Futerman,1,0.7886692680672068,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_02115,Night Drive - Decktonic,1,0.8354331555740404,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_02116,Night Drive - Decktonic,1,0.8059948982728679,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_02121,Nuo Maisemat - Paavoharju,1,0.9013547985295326,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_02122,Nuo Maisemat - Paavoharju,1,0.9574633410986239,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_02149,SD (Ill Mix) - H-LR,1,0.8301125571261944,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_02150,SD (Ill Mix) - H-LR,1,0.5589156548108128,3,0,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_02185,Evil Cannot Create - Caleb Lemond,1,0.8642887775368199,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_02186,Evil Cannot Create - Caleb Lemond,1,0.8986397757632835,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_02221,New Life (take 1) - Bird Names,1,0.7724394830675312,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_02222,New Life (take 1) - Bird Names,1,0.8805528645046533,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_02223,Norweigian Wood II - Bird Names,1,0.7026227162145787,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_02224,Norweigian Wood II - Bird Names,1,0.8587684206376087,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_02231,Roller Star - Monroeville Music Center,1,0.7936150591739275,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_02232,Roller Star - Monroeville Music Center,1,0.9410244272556482,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_02233,"Roundtrip - Oh Yeah, the Future",1,0.8657704727353744,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_02234,"Roundtrip - Oh Yeah, the Future",1,0.8063587206261772,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_02239,Soleares&beats - Malaventura,1,0.8434193906638524,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_02240,Soleares&beats - Malaventura,1,0.7718681224522848,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_02245,Stockholm Syndrome / People Should Be More Aware - Bird Names,1,0.6860744877212858,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_02246,Stockholm Syndrome / People Should Be More Aware - Bird Names,1,0.9156364771831859,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_02259,Time Is Love - Silence is full of birds,1,0.9795921621699678,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_02260,Time Is Love - Silence is full of birds,1,0.8045588893134802,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_02273,2 (Wasn't There) - Isle of Pine,1,0.8102657572435188,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_02274,2 (Wasn't There) - Isle of Pine,1,0.903781506701543,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_02283,Empty Pockets - Pete Prodoehl,1,0.8292489040202146,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_02284,Empty Pockets - Pete Prodoehl,1,0.8587312882615746,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_02289,Gila Monster Flop/Music History Lesson:The Sonics - The Crypts!,1,0.8025857931965166,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_02290,Gila Monster Flop/Music History Lesson:The Sonics - The Crypts!,1,0.7699030241604784,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_02295,I Fell - Mod Fun,1,0.856038621755757,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_02296,I Fell - Mod Fun,1,0.8056452990324491,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_02311,March of the GPA Mechanics - [t]ghost,1,0.8049166550390167,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_02312,March of the GPA Mechanics - [t]ghost,1,0.9666074482396715,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_02331,Scramby Eggs - Andy G. Cohen,1,0.8400655912006293,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_02332,Scramby Eggs - Andy G. Cohen,1,0.7972214480060243,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_02349,The girl just faded - Los Llamarada,1,0.9644180520520501,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_02350,The girl just faded - Los Llamarada,1,0.7739903400185448,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_02355,Voxel - Andy G. Cohen,1,0.9152768646592043,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_02356,Voxel - Andy G. Cohen,1,0.6873764288294382,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_02363,Windows of the Skull - Sarin,1,0.7507474992054378,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_02364,Windows of the Skull - Sarin,1,0.8597957915823845,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_02369,Новый Нью-Йорк 2 - Чокнутый Пропеллер,1,0.7719813183998444,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_02370,Новый Нью-Йорк 2 - Чокнутый Пропеллер,1,0.8034498675425898,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_02387,CopperNickle - UncleBibby,1,0.910960766896587,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_02388,CopperNickle - UncleBibby,1,0.7336322760819818,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_02391,Daylight Savings - My brother Daniel,1,0.6999327902455965,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_02392,Daylight Savings - My brother Daniel,1,0.6632112034925426,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_02413,mystery team 2090 - Jesse Futerman,1,0.8143102032341569,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_02414,mystery team 2090 - Jesse Futerman,1,0.8771500366439365,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_02415,Night Drive - Decktonic,1,0.5574641321812218,3,0,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_02416,Night Drive - Decktonic,1,0.6357892912993549,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_02421,Nuo Maisemat - Paavoharju,1,0.8840099044536425,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_02422,Nuo Maisemat - Paavoharju,1,0.9602479591681646,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_02449,SD (Ill Mix) - H-LR,1,0.9541976948519988,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_02450,SD (Ill Mix) - H-LR,1,0.745584503835334,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_02485,Evil Cannot Create - Caleb Lemond,1,0.8328394869772983,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_02486,Evil Cannot Create - Caleb Lemond,1,0.6907573242192551,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_02521,New Life (take 1) - Bird Names,1,0.8993950343285132,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_02522,New Life (take 1) - Bird Names,1,0.6506876594786039,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_02523,Norweigian Wood II - Bird Names,1,0.9588803871790956,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_02524,Norweigian Wood II - Bird Names,1,0.6784195815032826,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_02531,Roller Star - Monroeville Music Center,1,0.9065862303383506,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_02532,Roller Star - Monroeville Music Center,1,0.9464763479732751,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_02533,"Roundtrip - Oh Yeah, the Future",1,0.5671611451638382,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_02534,"Roundtrip - Oh Yeah, the Future",1,0.5897843651586164,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_02539,Soleares&beats - Malaventura,1,0.8079637520043202,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_02540,Soleares&beats - Malaventura,1,0.7962766726955515,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_02545,Stockholm Syndrome / People Should Be More Aware - Bird Names,1,0.4988573129825218,3,0,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_02546,Stockholm Syndrome / People Should Be More Aware - Bird Names,1,0.11754838149518636,3,0,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_02559,Time Is Love - Silence is full of birds,1,0.4837070868535376,3,0,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_02560,Time Is Love - Silence is full of birds,1,0.7879869787469586,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_02573,2 (Wasn't There) - Isle of Pine,1,0.98313191765941,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_02574,2 (Wasn't There) - Isle of Pine,1,0.5664316810637042,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_02583,Empty Pockets - Pete Prodoehl,1,0.7011832147705102,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_02584,Empty Pockets - Pete Prodoehl,1,0.5077984596895512,3,0,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_02589,Gila Monster Flop/Music History Lesson:The Sonics - The Crypts!,1,0.8020738676376223,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_02590,Gila Monster Flop/Music History Lesson:The Sonics - The Crypts!,1,0.501500382120105,3,0,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_02595,I Fell - Mod Fun,1,0.8518670497319704,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_02596,I Fell - Mod Fun,1,0.4274327973094994,3,0,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_02611,March of the GPA Mechanics - [t]ghost,1,0.7003538084088211,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_02612,March of the GPA Mechanics - [t]ghost,1,0.4154086085512298,3,0,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_02631,Scramby Eggs - Andy G. Cohen,1,0.754497618312962,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_02632,Scramby Eggs - Andy G. Cohen,1,0.5169797008125602,3,0,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_02649,The girl just faded - Los Llamarada,1,0.9589674885811986,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_02650,The girl just faded - Los Llamarada,1,0.9444066823488552,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_02655,Voxel - Andy G. Cohen,1,0.30671936267487804,3,0,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_02656,Voxel - Andy G. Cohen,1,0.8393067633700632,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_02663,Windows of the Skull - Sarin,1,0.8454508870949488,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_02664,Windows of the Skull - Sarin,1,0.9088977947106825,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_02669,Новый Нью-Йорк 2 - Чокнутый Пропеллер,1,0.7301200341575301,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_02670,Новый Нью-Йорк 2 - Чокнутый Пропеллер,1,0.8216473527367181,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_02678,CopperNickle - UncleBibby,1,0.8022674801041347,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_02680,Daylight Savings - My brother Daniel,1,0.7087914446694971,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_02689,mystery team 2090 - Jesse Futerman,1,0.5083297617261288,3,0,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_02690,Night Drive - Decktonic,1,0.7313820870553459,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_02717,Agora - Malaventura,1,0.8823969966140878,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_02725,Evil Cannot Create - Caleb Lemond,1,0.8104741483707757,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_02743,My Body Is A Weapon (Compromise Edit) - Silence is full of birds,1,0.852498109555412,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_02745,New Life (take 1) - Bird Names,1,0.7327601273935148,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_02746,Norweigian Wood II - Bird Names,1,0.8511648440298885,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_02754,Roller Star - Monroeville Music Center,1,0.8418783604737884,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_02758,Soleares&beats - Malaventura,1,0.6782547883525677,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_02762,Stockholm Syndrome / People Should Be More Aware - Bird Names,1,0.8702564787648969,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_02772,Time Is Love - Silence is full of birds,1,0.6174981180199642,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_02780,2 (Wasn't There) - Isle of Pine,1,0.8915790191160128,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_02790,Beyond Luxury - Mors Ontologica,1,0.9497298779184953,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_02801,Empty Pockets - Pete Prodoehl,1,0.9708628297981571,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_02806,Gila Monster Flop/Music History Lesson:The Sonics - The Crypts!,1,0.721826616417145,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_02821,Lights Up - Pipe Choir,1,0.8419006302473296,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_02825,March of the GPA Mechanics - [t]ghost,1,0.8422550578752945,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_02834,Redlight - Room For A Ghost,1,0.6333473413210834,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_02838,Scramby Eggs - Andy G. Cohen,1,0.8301534112212076,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_02841,Shipwrecked Crew - Pete Prodoehl,1,0.985583599205047,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_02847,В Наших Сердцах - Чокнутый Пропеллер,1,0.6233172133341434,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_02850,The girl just faded - Los Llamarada,1,0.8963881432137194,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_02854,Voxel - Andy G. Cohen,1,0.850911686272986,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_02862,В Наших Сердцах - Чокнутый Пропеллер,1,0.7722033538383076,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_02864,В Наших Сердцах - Чокнутый Пропеллер,1,0.7372766327700774,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_02867,2 (Wasn't There) - Isle of Pine,1,0.6449312518743331,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_02868,2 (Wasn't There) - Isle of Pine,1,0.7772325543327049,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_02899,CopperNickle - UncleBibby,1,0.5471213185115831,3,0,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_02900,CopperNickle - UncleBibby,1,0.5824586133696908,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_02905,Daylight Savings - My brother Daniel,1,0.5731536444377551,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_02906,Daylight Savings - My brother Daniel,1,0.4635321571569253,3,0,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_02915,Empty Pockets - Pete Prodoehl,1,0.8979504592645396,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_02916,Empty Pockets - Pete Prodoehl,1,0.7996009050881359,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_02919,Evil Cannot Create - Caleb Lemond,1,0.7885554807559995,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_02920,Evil Cannot Create - Caleb Lemond,1,0.8402342979775943,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_02933,Gila Monster Flop/Music History Lesson:The Sonics - The Crypts!,1,0.3402865820225219,3,0,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_02934,Gila Monster Flop/Music History Lesson:The Sonics - The Crypts!,1,0.2247666565139239,3,0,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_02945,I Fell - Mod Fun,1,0.6514676101564506,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_02946,I Fell - Mod Fun,1,0.610131173918894,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_02983,March of the GPA Mechanics - [t]ghost,1,0.6228124711926278,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_02984,March of the GPA Mechanics - [t]ghost,1,0.4757559009588525,3,0,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_02999,New Life (take 1) - Bird Names,1,0.6806241848275713,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_03000,New Life (take 1) - Bird Names,1,0.6688492517482251,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_03001,Night Drive - Decktonic,1,0.5053379264111174,3,0,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_03002,Night Drive - Decktonic,1,0.5559724705385607,3,0,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_03007,Norweigian Wood II - Bird Names,1,0.6636477371717091,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_03008,Norweigian Wood II - Bird Names,1,0.8189583773136381,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_03011,Nuo Maisemat - Paavoharju,1,0.6562457702924447,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_03012,Nuo Maisemat - Paavoharju,1,0.7931796281519815,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_03047,Roller Star - Monroeville Music Center,1,0.6091146658082041,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_03048,Roller Star - Monroeville Music Center,1,0.5528226219868589,3,0,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_03049,"Roundtrip - Oh Yeah, the Future",1,0.6971834455295708,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_03050,"Roundtrip - Oh Yeah, the Future",1,0.7532570837122131,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_03053,SD (Ill Mix) - H-LR,1,0.3882610276595016,3,0,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_03054,SD (Ill Mix) - H-LR,1,0.8669247558444534,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_03055,Scramby Eggs - Andy G. Cohen,1,0.6133062216739608,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_03056,Scramby Eggs - Andy G. Cohen,1,0.4349375983719592,3,0,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_03069,Soleares&beats - Malaventura,1,0.6335719548836112,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_03070,Soleares&beats - Malaventura,1,0.7766712069720071,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_03077,Stockholm Syndrome / People Should Be More Aware - Bird Names,1,0.7947967163409135,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_03078,Stockholm Syndrome / People Should Be More Aware - Bird Names,1,0.526583710578988,3,0,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_03109,The girl just faded - Los Llamarada,1,0.5464176937222325,3,0,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_03110,The girl just faded - Los Llamarada,1,0.6152849351631887,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_03113,Time Is Love - Silence is full of birds,1,0.6655036149764575,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_03114,Time Is Love - Silence is full of birds,1,0.5961947528908015,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_03125,Voxel - Andy G. Cohen,1,0.6011722051718978,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_03126,Voxel - Andy G. Cohen,1,0.7390967220401827,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_03137,Windows of the Skull - Sarin,1,0.6849493690521777,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_03138,Windows of the Skull - Sarin,1,0.41371464152687354,3,0,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_03155,mystery team 2090 - Jesse Futerman,1,0.8343386183991347,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_03156,mystery team 2090 - Jesse Futerman,1,0.7266947605830815,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_03163,Новый Нью-Йорк 2 - Чокнутый Пропеллер,1,0.17723715114784552,3,0,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_03164,Новый Нью-Йорк 2 - Чокнутый Пропеллер,1,0.45833718830206954,3,0,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_03168,2 (Wasn't There) - Isle of Pine,1,0.6680486995102761,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_03175,Agora - Malaventura,1,0.6795339144428132,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_03192,Beyond Luxury - Mors Ontologica,1,0.7848836584873052,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_03207,CopperNickle - UncleBibby,1,0.6784524172213474,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_03212,Daylight Savings - My brother Daniel,1,0.769249294788202,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_03224,Empty Pockets - Pete Prodoehl,1,0.5960551207308558,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_03230,Evil Cannot Create - Caleb Lemond,1,0.9798767370888664,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_03232,Fear - Los Fancy Free,1,0.9587089102625649,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_03233,Fifth Ramble - From the album Keith [RSVP007] - My brother Daniel,1,0.8108757574459086,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_03245,Gila Monster Flop/Music History Lesson:The Sonics - The Crypts!,1,0.49969455259020396,3,0,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_03256,If You're Ther - Nicola Ratti,1,0.8098884913742058,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_03266,I Fell - Mod Fun,1,0.8925530227843285,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_03282,Kumorizoranohajimarutokoro - Hosomi,1,0.8897644136679462,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_03294,Lights Up - Pipe Choir,1,0.8562997445105358,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_03300,Loved Ones - Rowan Box,1,0.7545118483194672,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_03304,March of the GPA Mechanics - [t]ghost,1,0.7962846521393635,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_03311,Morning Bell - Nihilore,1,0.9472388713208141,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_03316,mystery team 2090 - Jesse Futerman,1,0.8787421107078695,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_03317,My Body Is A Weapon (Compromise Edit) - Silence is full of birds,1,0.8167572548838556,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_03321,New Life (take 1) - Bird Names,1,0.9253647985234285,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_03323,Night Drive - Decktonic,1,0.8543483341636966,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_03326,Norweigian Wood II - Bird Names,1,0.6959991606159415,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_03330,Nuo Maisemat - Paavoharju,1,0.7703201525465945,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_03351,Redlight - Room For A Ghost,1,0.945798958703624,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_03357,Roller Star - Monroeville Music Center,1,0.9855592394914199,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_03359,"Roundtrip - Oh Yeah, the Future",1,0.8728583055377773,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_03363,Scramby Eggs - Andy G. Cohen,1,0.7642098409123942,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_03364,SD (Ill Mix) - H-LR,1,0.923340268860855,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_03372,Shipwrecked Crew - Pete Prodoehl,1,0.7791386980883795,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_03378,Soleares&beats - Malaventura,1,0.7517045630308866,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_03380,some dextromethorphan - Jeva,1,0.8922072890475322,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_03385,Stockholm Syndrome / People Should Be More Aware - Bird Names,1,0.9242462183057273,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_03389,Sturgeon's Law - Nihilore,1,0.6515623847217061,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_03408,The girl just faded - Los Llamarada,1,0.8581395775641617,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_03417,The Stairway - WarpToken,1,0.8379491776199446,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_03418,Three Bird - My brother Daniel,1,0.5247608770733091,3,0,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_03419,Timen Passing By - Jason Shaw,1,0.7584061010755164,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_03420,Time Is Love - Silence is full of birds,1,0.7841726104550945,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_03429,Understand That This Is A Dream - From the album Modulating Coil [RSVP008] - Forrest James,1,0.8546970502382755,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_03434,Voxel - Andy G. Cohen,1,0.8230375931897832,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_03436,Westside Chillers - Little Glass Men,1,0.8513004856638183,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_03454,Новый Нью-Йорк 2 - Чокнутый Пропеллер,1,0.5334577706416418,3,0,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823
+sample_03456,Windows of the Skull - Sarin,1,0.8699976786846237,3,1,classical_20260919T110356Z,LogisticRegression,optimized,val,0.5634561570614823

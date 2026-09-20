@@ -1,0 +1,26 @@
+{
+  "run_id": "classical_20260919T110356Z",
+  "split_manifest_sha256": "9023dcb21bef5d7163c63ea93258195e53c9fde3ecb7fee5920bf6ff94bbc2b3",
+  "models": {
+    "LogisticRegression": {
+      "baseline": {
+        "segment": 0.6663391213946953,
+        "track": 0.6343298786547279
+      },
+      "optimized": {
+        "segment": 0.5676900245181252,
+        "track": 0.5634561570614823
+      }
+    },
+    "RBF-SVM": {
+      "baseline": {
+        "segment": 0.5196503294173163,
+        "track": 0.5926040940819256
+      },
+      "optimized": {
+        "segment": 0.5847561880627183,
+        "track": 0.6615054850320587
+      }
+    }
+  }
+}

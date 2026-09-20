@@ -1,0 +1,18 @@
+{
+  "run_id": "cnn_unseen_strict_20260919T171232Z",
+  "status": "aborted_search",
+  "reason": "User changed unseen primary protocol to fixed main hyperparameter transfer",
+  "trial_id": "musicgen_baseline",
+  "trial_status": "interrupted_before_completion",
+  "logged_epochs": 11,
+  "interrupted_during_epoch": 12,
+  "checkpoint_saved_best_epoch": 10,
+  "checkpoint_val_track_eer": 0.11136363636363633,
+  "checkpoint_val_track_roc_auc": 0.9710227272727273,
+  "checkpoint_path": "/Users/seungjae/Desktop/SNU/기계학습 & 딥러닝/project/checkpoints/cnn_unseen_revised/cnn_unseen_strict_20260919T171232Z/musicgen_baseline.pt",
+  "checkpoint_sha256": "871675884e7b46aa9ca05a0e539b958f2f845b415598760f5fedaf26d390c7f6",
+  "console_log_precision": "Rounded to four decimals as emitted by process; exact intermediate epoch history was not persisted before SIGINT.",
+  "completed_trial_csv_present": false,
+  "test_scored": false,
+  "old_protocol_sha256": "95f1546ce8e3fcedb66e5ef52488c9255e414965514b5163e1a62b9052e4941e"
+}

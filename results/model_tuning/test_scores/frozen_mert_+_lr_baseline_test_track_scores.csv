@@ -1,0 +1,540 @@
+﻿run_id,model,variant,split,level,track_id,original_audio_id,label,score,n_segments,prediction,threshold
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_00003,2Much (Andy Spinelli & Alex Sánchez House Edit) - Tentacles,0,0.9983019039573433,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_00004,3 am West End - statusq,0,0.0010584102006380234,3,0,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_00005,5 (Lexington) - Isle of Pine,0,0.05823278433311132,3,0,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_00021,Attention - Pete Prodoehl,0,0.22035590294697796,3,0,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_00028,Bizzy - The Tleilaxu Music Machine,0,0.5604095636121709,3,0,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_00045,Dance Harder - Three Chain Links,0,0.00043922582283123296,3,0,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_00049,Different Day - First,0,0.9061423152374015,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_00056,El Burrito - Malaventura,0,0.08092376768475813,3,0,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_00061,End titles - Itsensäsyöjät,0,0.5106135576098677,3,0,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_00079,Fuckaboing - RoccoW,0,0.0006460718366332525,3,0,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_00087,"Head of Ancante, Talking Tree - Ak'chamel, The Giver of Illness",0,0.02435985361352749,3,0,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_00089,"Hungry - Oh Yeah, the Future",0,0.44568437931814775,3,0,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_00090,I - Inflammator,0,0.0006579226287282183,3,0,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_00115,L'arbre - Salmo,0,0.05003986096933899,3,0,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_00116,LIQUID SKULLS - voyageurs,0,0.41107696572729163,3,0,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_00121,Leaving Here - Mod Fun,0,0.05773975766272982,3,0,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_00122,Let You're Body Move - D SMILEZ,0,0.17273882610216276,3,0,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_00123,Let's Start Out Slow - RoccoW,0,0.04444126325905062,3,0,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_00132,Love Dream - The Zombie Dandies,0,0.00013834175139566826,3,0,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_00139,Moja Krypta - AmortE,0,0.9996144160085528,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_00144,Motocross Mania - Monroeville Music Center,0,0.3442947031144077,3,0,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_00146,Music For an Underground Circu - Ergo Phizmiz,0,0.004744836260514022,3,0,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_00154,Night Owl - Broke For Free,0,0.3171915010661585,3,0,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_00171,Pista Afuera - Epstein,0,1.1240832881687316e-06,3,0,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_00174,Production - Bird Names,0,0.010677333777013303,3,0,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_00176,Puertas de Fuego - Guerra de Cerdos,0,0.6064849257739119,3,0,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_00178,Realize Me - Jim Rooster,0,0.6667718657796656,3,0,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_00180,Resistentialism - Nihilore,0,0.0011621560274100383,3,0,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_00195,Set Fire to Creation - Nihilore,0,0.004588442460544893,3,0,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_00196,Sfogare Il Dissenso - Deiezione HC,0,0.027546454898781294,3,0,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_00198,She Works / Tepid Waters - Bird Names,0,0.6914329588956368,3,0,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_00206,Something Dirty - Ergo Phizmiz,0,0.003379282054462088,3,0,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_00207,Sonzis FM - Pipe Choir,0,2.6913217684071338e-05,3,0,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_00216,Stuttgart - Portrayal,0,0.9967444228359638,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_00217,Support Me in This Moment That I'm About To Lose Heart - Nihilore,0,4.237024909517967e-05,3,0,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_00223,Terve Teille - Чокнутый Пропеллер,0,0.0002944112942601217,3,0,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_00224,The Adventures Of Roderick Random - Maps And Diagrams,0,0.0010772324444519885,3,0,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_00236,"The Pursuit of Unintentional Humor - Oh Yeah, the Future",0,0.08874567820714051,3,0,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_00241,The Secret Garden - Barbarix,0,0.23126792282622324,3,0,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_00252,Troubles I've seen - Malaventura,0,0.0008532419757288382,3,0,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_00253,Ugh! Humans Can Join - Mystery Mammal,0,6.120972262015945e-05,3,0,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_00257,Untitled - Fatal Injection,0,0.00036916221311122786,3,0,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_00270,Where Is Everything - The Moi Non Plus,0,0.028810512750531276,3,0,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_00271,Who Loves You Dear - Mink Lungs,0,0.5426481185124027,3,0,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_00279,Yurtology - Michett,0,0.12655945604401814,3,0,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_00298,2Much (Andy Spinelli & Alex Sánchez House Edit) - Tentacles,1,0.9999969977170728,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_00300,3 am West End - statusq,1,0.9999992490419939,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_00302,5 (Lexington) - Isle of Pine,1,0.9043440598352767,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_00314,Attention - Pete Prodoehl,1,0.9034513416164541,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_00324,Bizzy - The Tleilaxu Music Machine,1,0.9936234083361852,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_00340,Dance Harder - Three Chain Links,1,0.7173703950336687,3,0,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_00345,Different Day - First,1,0.9999999333664938,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_00353,El Burrito - Malaventura,1,0.9989016667568352,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_00358,End titles - Itsensäsyöjät,1,0.999999105969477,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_00375,Fuckaboing - RoccoW,1,0.9999175778247817,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_00384,"Head of Ancante, Talking Tree - Ak'chamel, The Giver of Illness",1,0.9993624749196922,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_00386,"Hungry - Oh Yeah, the Future",1,0.9981694953201284,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_00398,I - Inflammator,1,0.9006988878718148,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_00418,Leaving Here - Mod Fun,1,0.998650573584286,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_00419,Let's Start Out Slow - RoccoW,1,0.9999974615085229,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_00421,Let You're Body Move - D SMILEZ,1,0.9972823917802393,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_00426,LIQUID SKULLS - voyageurs,1,0.9999922564973104,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_00432,Love Dream - The Zombie Dandies,1,0.9999674713304131,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_00433,L'arbre - Salmo,1,0.6263211581635026,3,0,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_00439,Moja Krypta - AmortE,1,0.999999904980107,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_00444,Motocross Mania - Monroeville Music Center,1,0.9998205333488702,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_00446,Music For an Underground Circu - Ergo Phizmiz,1,0.9999992588139998,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_00455,Night Owl - Broke For Free,1,0.9999999979780889,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_00473,Pista Afuera - Epstein,1,0.9999557139843743,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_00476,Production - Bird Names,1,0.999999664721877,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_00478,Puertas de Fuego - Guerra de Cerdos,1,0.9962536517691775,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_00481,Realize Me - Jim Rooster,1,0.9988552038457176,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_00483,Resistentialism - Nihilore,1,0.9999997015815844,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_00498,Set Fire to Creation - Nihilore,1,0.9999959772821216,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_00499,Sfogare Il Dissenso - Deiezione HC,1,0.9999064811162324,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_00502,She Works / Tepid Waters - Bird Names,1,0.9999998763580725,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_00510,Something Dirty - Ergo Phizmiz,1,0.9999892393585522,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_00512,Sonzis FM - Pipe Choir,1,0.9999329229984987,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_00521,Stuttgart - Portrayal,1,0.9999884167862287,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_00522,Support Me in This Moment That I'm About To Lose Heart - Nihilore,1,0.9999388270167172,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_00527,Terve Teille - Чокнутый Пропеллер,1,0.9990032500896536,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_00528,The Adventures Of Roderick Random - Maps And Diagrams,1,0.7459988579841186,3,0,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_00542,"The Pursuit of Unintentional Humor - Oh Yeah, the Future",1,0.8783730279283141,3,0,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_00547,The Secret Garden - Barbarix,1,0.999998713557777,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_00556,Troubles I've seen - Malaventura,1,0.9999995717963595,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_00558,Ugh! Humans Can Join - Mystery Mammal,1,0.9939983249617091,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_00562,Untitled - Fatal Injection,1,0.9999982370504338,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_00574,Where Is Everything - The Moi Non Plus,1,0.9999817966516199,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_00575,Who Loves You Dear - Mink Lungs,1,0.9991757785148022,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_00583,Yurtology - Michett,1,0.9999977262334312,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_00600,Pista Afuera - Epstein,1,0.9999989639914281,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_00601,Let You're Body Move - D SMILEZ,1,0.998163427867873,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_00606,The Secret Garden - Barbarix,1,0.9954660669928627,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_00608,Resistentialism - Nihilore,1,0.999996536263747,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_00611,Fuckaboing - RoccoW,1,0.9433988192546873,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_00612,Ugh! Humans Can Join - Mystery Mammal,1,0.9999993075756125,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_00620,Realize Me - Jim Rooster,1,0.9999999975833488,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_00627,Support Me in This Moment That I'm About To Lose Heart - Nihilore,1,0.9993923430354519,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_00637,Dance Harder - Three Chain Links,1,0.9999963938371327,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_00638,Yurtology - Michett,1,0.999997461329777,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_00644,The Adventures Of Roderick Random - Maps And Diagrams,1,0.9999804664347366,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_00654,Night Owl - Broke For Free,1,0.9999996061734525,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_00672,2Much (Andy Spinelli & Alex Sánchez House Edit) - Tentacles,1,0.9999999350466121,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_00675,Let's Start Out Slow - RoccoW,1,0.9227918285511206,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_00686,Bizzy - The Tleilaxu Music Machine,1,0.9999999887804103,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_00687,3 am West End - statusq,1,0.9999999999975243,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_00690,Set Fire to Creation - Nihilore,1,0.9999999667363544,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_00697,End titles - Itsensäsyöjät,1,0.9976480699185615,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_00705,Something Dirty - Ergo Phizmiz,1,0.9998653189197424,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_00709,"Hungry - Oh Yeah, the Future",1,0.9993885629661371,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_00712,Music For an Underground Circu - Ergo Phizmiz,1,0.668101930763104,3,0,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_00715,Motocross Mania - Monroeville Music Center,1,0.9897635532862005,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_00723,Troubles I've seen - Malaventura,1,0.9999999865861281,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_00730,Different Day - First,1,0.9999980193475354,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_00746,She Works / Tepid Waters - Bird Names,1,0.9999999999994009,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_00752,Production - Bird Names,1,0.9999999996785242,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_00758,"The Pursuit of Unintentional Humor - Oh Yeah, the Future",1,0.9999999091576169,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_00763,El Burrito - Malaventura,1,0.999999999182349,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_00766,Where Is Everything - The Moi Non Plus,1,0.9982230725379999,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_00767,Terve Teille - Чокнутый Пропеллер,1,0.986639777691045,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_00780,Stuttgart - Portrayal,1,0.9999993665464193,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_00787,Love Dream - The Zombie Dandies,1,0.9999999397040154,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_00794,"Head of Ancante, Talking Tree - Ak'chamel, The Giver of Illness",1,0.99999999894289,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_00797,Who Loves You Dear - Mink Lungs,1,0.999564046638267,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_00798,LIQUID SKULLS - voyageurs,1,0.9999999491434024,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_00804,I - Inflammator,1,0.9999962814863322,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_00805,Sfogare Il Dissenso - Deiezione HC,1,0.9999589616052326,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_00809,Attention - Pete Prodoehl,1,0.9999999995958748,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_00823,L'arbre - Salmo,1,0.9999888153541523,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_00854,Leaving Here - Mod Fun,1,0.9999998165051013,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_00860,Puertas de Fuego - Guerra de Cerdos,1,0.9999999999885686,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_00861,Sonzis FM - Pipe Choir,1,0.9999105829394862,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_00863,5 (Lexington) - Isle of Pine,1,0.9998567276982232,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_00867,Moja Krypta - AmortE,1,0.9990507370693016,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_00873,Untitled - Fatal Injection,1,0.999999992060412,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_00900,Dance Harder - Three Chain Links,1,0.9934053170118364,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_00901,Dance Harder - Three Chain Links,1,0.9944956858475926,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_00910,Fuckaboing - RoccoW,1,0.9999864346275573,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_00911,Fuckaboing - RoccoW,1,0.9999996628801725,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_00926,Night Owl - Broke For Free,1,0.9999999992740541,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_00927,Night Owl - Broke For Free,1,0.9999998938801307,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_00946,Pista Afuera - Epstein,1,0.9999976449806027,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_00947,Pista Afuera - Epstein,1,0.9999968839775096,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_00950,Realize Me - Jim Rooster,1,0.9999997403954802,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_00951,Realize Me - Jim Rooster,1,0.9999998810001182,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_00952,Resistentialism - Nihilore,1,0.9985340088475089,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_00953,Resistentialism - Nihilore,1,0.9916056746079027,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_00974,Ugh! Humans Can Join - Mystery Mammal,1,0.9999999978126585,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_00975,Ugh! Humans Can Join - Mystery Mammal,1,0.9999999943781646,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_00992,Different Day - First,1,0.999882996115304,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_00993,Different Day - First,1,0.9973113895945224,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_01002,"Hungry - Oh Yeah, the Future",1,0.9619144205695048,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_01003,"Hungry - Oh Yeah, the Future",1,0.9999179663896253,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_01024,Motocross Mania - Monroeville Music Center,1,0.9994668522318738,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_01025,Motocross Mania - Monroeville Music Center,1,0.8916642487090298,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_01026,Music For an Underground Circu - Ergo Phizmiz,1,0.6430010867642643,3,0,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_01027,Music For an Underground Circu - Ergo Phizmiz,1,0.9998671136007395,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_01046,She Works / Tepid Waters - Bird Names,1,0.9999954130949708,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_01047,She Works / Tepid Waters - Bird Names,1,0.9998237089972478,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_01050,Something Dirty - Ergo Phizmiz,1,0.9971837390595969,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_01051,Something Dirty - Ergo Phizmiz,1,0.9996449620278973,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_01070,Troubles I've seen - Malaventura,1,0.9999853823208573,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_01071,Troubles I've seen - Malaventura,1,0.9900423075932158,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_01084,Attention - Pete Prodoehl,1,0.8927964910172387,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_01085,Attention - Pete Prodoehl,1,0.9996223332722791,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_01100,"Head of Ancante, Talking Tree - Ak'chamel, The Giver of Illness",1,0.99994127997196,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_01101,"Head of Ancante, Talking Tree - Ak'chamel, The Giver of Illness",1,0.9999954128351978,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_01108,I - Inflammator,1,0.9961050415740772,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_01109,I - Inflammator,1,0.9991744305485942,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_01114,LIQUID SKULLS - voyageurs,1,0.9967439479961698,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_01115,LIQUID SKULLS - voyageurs,1,0.9999995932571233,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_01118,Love Dream - The Zombie Dandies,1,0.8874670396091641,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_01119,Love Dream - The Zombie Dandies,1,0.983966795558454,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_01144,Sfogare Il Dissenso - Deiezione HC,1,0.9999914974539607,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_01145,Sfogare Il Dissenso - Deiezione HC,1,0.9997161946520099,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_01152,Stuttgart - Portrayal,1,0.9999206042942346,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_01153,Stuttgart - Portrayal,1,0.5086173575625373,3,0,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_01154,Terve Teille - Чокнутый Пропеллер,1,0.9999535182427991,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_01155,Terve Teille - Чокнутый Пропеллер,1,0.9998870652622611,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_01168,Where Is Everything - The Moi Non Plus,1,0.9999999688862995,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_01169,Where Is Everything - The Moi Non Plus,1,0.9997452683302979,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_01170,Who Loves You Dear - Mink Lungs,1,0.9985181887362108,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_01171,Who Loves You Dear - Mink Lungs,1,0.9999873578832292,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_01181,2Much (Andy Spinelli & Alex Sánchez House Edit) - Tentacles,1,0.9999995331835253,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_01182,3 am West End - statusq,1,0.8558470139831389,3,0,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_01194,Bizzy - The Tleilaxu Music Machine,1,0.998348849876777,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_01200,Dance Harder - Three Chain Links,1,0.9957818812950743,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_01209,End titles - Itsensäsyöjät,1,0.9995419219435365,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_01216,Fuckaboing - RoccoW,1,0.9999945142058418,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_01230,Let's Start Out Slow - RoccoW,1,0.9654187148218879,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_01231,Let You're Body Move - D SMILEZ,1,0.999978954032926,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_01240,Night Owl - Broke For Free,1,0.9996462449812923,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_01251,Pista Afuera - Epstein,1,0.9999942890400512,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_01254,Realize Me - Jim Rooster,1,0.9999986771058902,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_01255,Resistentialism - Nihilore,1,0.9999999850397217,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_01262,Set Fire to Creation - Nihilore,1,0.9999786736038656,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_01269,Support Me in This Moment That I'm About To Lose Heart - Nihilore,1,0.9997575448445534,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_01273,The Adventures Of Roderick Random - Maps And Diagrams,1,0.9999985313064514,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_01279,The Secret Garden - Barbarix,1,0.9999999277283121,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_01286,Ugh! Humans Can Join - Mystery Mammal,1,0.666593104136996,3,0,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_01294,Yurtology - Michett,1,0.9999772339092762,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_01302,Different Day - First,1,0.9998680055922652,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_01303,El Burrito - Malaventura,1,0.9998789677010039,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_01308,"Hungry - Oh Yeah, the Future",1,0.9929335784034722,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_01322,Motocross Mania - Monroeville Music Center,1,0.9997701120064747,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_01323,Music For an Underground Circu - Ergo Phizmiz,1,0.9995321317412761,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_01337,Production - Bird Names,1,0.9999023116102093,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_01343,She Works / Tepid Waters - Bird Names,1,0.9999594487960178,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_01344,She Works / Tepid Waters - Bird Names,1,0.9998423493190778,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_01348,Something Dirty - Ergo Phizmiz,1,0.9999245683373469,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_01357,"The Pursuit of Unintentional Humor - Oh Yeah, the Future",1,0.998841492023035,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_01363,Troubles I've seen - Malaventura,1,0.9990736709813852,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_01364,Troubles I've seen - Malaventura,1,0.9977210795849533,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_01374,5 (Lexington) - Isle of Pine,1,0.9999756761275232,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_01377,Attention - Pete Prodoehl,1,0.9999898572646622,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_01407,"Head of Ancante, Talking Tree - Ak'chamel, The Giver of Illness",1,0.9999415676797065,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_01416,I - Inflammator,1,0.999995785934846,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_01422,L'arbre - Salmo,1,0.9888578293852696,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_01423,Leaving Here - Mod Fun,1,0.9999193166377608,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_01426,LIQUID SKULLS - voyageurs,1,0.9999997888244452,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_01428,Love Dream - The Zombie Dandies,1,0.9990678562805645,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_01432,Moja Krypta - AmortE,1,0.9999912017421425,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_01440,Puertas de Fuego - Guerra de Cerdos,1,0.9984411487594594,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_01449,Sfogare Il Dissenso - Deiezione HC,1,0.9999173918173617,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_01453,Sonzis FM - Pipe Choir,1,0.9998593914754635,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_01456,Stuttgart - Portrayal,1,0.9996207243527987,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_01458,Terve Teille - Чокнутый Пропеллер,1,0.9996640194234742,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_01465,Untitled - Fatal Injection,1,0.9999997988345682,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_01472,Where Is Everything - The Moi Non Plus,1,0.9979420984530737,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_01473,Who Loves You Dear - Mink Lungs,1,0.8756686762906268,3,0,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_01481,Night Owl - Broke For Free,1,0.9999968025606293,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_01484,Fuckaboing - RoccoW,1,0.9908056604557149,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_01492,Resistentialism - Nihilore,1,0.9987188852473623,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_01495,Dance Harder - Three Chain Links,1,0.9999999316967457,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_01499,Realize Me - Jim Rooster,1,0.9998682256213218,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_01511,Pista Afuera - Epstein,1,0.7025921716768454,3,0,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_01516,Ugh! Humans Can Join - Mystery Mammal,1,0.9981397720185567,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_01531,Troubles I've seen - Malaventura,1,0.5113166696499784,3,0,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_01535,Motocross Mania - Monroeville Music Center,1,0.9998780580571779,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_01539,Different Day - First,1,0.6193698712598255,3,0,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_01546,"Hungry - Oh Yeah, the Future",1,0.999943987182525,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_01550,She Works / Tepid Waters - Bird Names,1,0.3481534063433777,3,0,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_01553,Something Dirty - Ergo Phizmiz,1,0.999763643778966,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_01559,Music For an Underground Circu - Ergo Phizmiz,1,0.9999492664005233,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_01581,Where Is Everything - The Moi Non Plus,1,0.9752800376792568,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_01586,Stuttgart - Portrayal,1,0.9935653858069844,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_01587,I - Inflammator,1,0.9839320610340043,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_01597,Sfogare Il Dissenso - Deiezione HC,1,0.6123346470736565,3,0,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_01604,Who Loves You Dear - Mink Lungs,1,0.9973119285517579,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_01609,Attention - Pete Prodoehl,1,0.6364935376409032,3,0,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_01614,Love Dream - The Zombie Dandies,1,0.21076961611950049,3,0,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_01623,"Head of Ancante, Talking Tree - Ak'chamel, The Giver of Illness",1,0.9542079311767906,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_01625,Terve Teille - Чокнутый Пропеллер,1,0.3715873313109765,3,0,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_01626,LIQUID SKULLS - voyageurs,1,0.9999633625295267,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_01637,Dance Harder - Three Chain Links,1,0.9998999434822103,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_01643,Fuckaboing - RoccoW,1,0.9976279174822761,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_01651,Night Owl - Broke For Free,1,0.9999988107704972,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_01661,Pista Afuera - Epstein,1,0.9999806246818997,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_01663,Realize Me - Jim Rooster,1,0.9996275922155954,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_01664,Resistentialism - Nihilore,1,0.9999941665689219,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_01675,Ugh! Humans Can Join - Mystery Mammal,1,0.9927565603636106,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_01684,Different Day - First,1,0.9939575600858802,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_01689,"Hungry - Oh Yeah, the Future",1,0.9999998043163991,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_01700,Motocross Mania - Monroeville Music Center,1,0.6965077534860123,3,0,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_01701,Music For an Underground Circu - Ergo Phizmiz,1,0.9958919812484849,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_01702,Music For an Underground Circu - Ergo Phizmiz,1,0.9999987427086964,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_01712,She Works / Tepid Waters - Bird Names,1,0.9357580783588553,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_01714,Something Dirty - Ergo Phizmiz,1,0.9987801249023405,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_01724,Troubles I've seen - Malaventura,1,0.9989578461998209,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_01731,Attention - Pete Prodoehl,1,0.9975372736740695,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_01739,"Head of Ancante, Talking Tree - Ak'chamel, The Giver of Illness",1,0.9999998866179368,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_01743,I - Inflammator,1,0.9985422594113104,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_01746,LIQUID SKULLS - voyageurs,1,0.9999152919233859,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_01748,Love Dream - The Zombie Dandies,1,0.9999990953470747,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_01761,Sfogare Il Dissenso - Deiezione HC,1,0.9996216684232307,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_01765,Stuttgart - Portrayal,1,0.9599202927782583,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_01766,Terve Teille - Чокнутый Пропеллер,1,0.998450211937482,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_01773,Where Is Everything - The Moi Non Plus,1,0.8823456226624665,3,0,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_01774,Who Loves You Dear - Mink Lungs,1,0.9999001092012817,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_01780,2Much (Andy Spinelli & Alex Sánchez House Edit) - Tentacles,1,0.998056099373895,2,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_01781,3 am West End - statusq,1,0.9999916637463195,2,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_01793,Bizzy - The Tleilaxu Music Machine,1,0.9988552460577311,2,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_01799,Dance Harder - Three Chain Links,1,0.999996329230064,2,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_01808,End titles - Itsensäsyöjät,1,0.999601152491104,2,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_01815,Fuckaboing - RoccoW,1,0.9997108681991856,2,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_01829,Let's Start Out Slow - RoccoW,1,0.8473655559054769,2,0,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_01830,Let You're Body Move - D SMILEZ,1,0.9999996686330972,2,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_01839,Night Owl - Broke For Free,1,0.9999717226783794,2,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_01850,Pista Afuera - Epstein,1,0.9999995227006779,2,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_01853,Realize Me - Jim Rooster,1,0.9999460574870105,2,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_01854,Resistentialism - Nihilore,1,0.9999969628496369,2,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_01861,Set Fire to Creation - Nihilore,1,0.9985083879756681,2,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_01868,Support Me in This Moment That I'm About To Lose Heart - Nihilore,1,0.9999999995249872,2,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_01872,The Adventures Of Roderick Random - Maps And Diagrams,1,0.9999173024215058,2,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_01878,The Secret Garden - Barbarix,1,0.9999809975043631,2,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_01885,Ugh! Humans Can Join - Mystery Mammal,1,0.9999999566115376,2,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_01893,Yurtology - Michett,1,0.9999950452157238,2,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_01902,Different Day - First,1,0.9995653172393311,2,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_01903,El Burrito - Malaventura,1,0.9998179067111164,2,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_01908,"Hungry - Oh Yeah, the Future",1,0.9995725572889569,2,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_01921,Motocross Mania - Monroeville Music Center,1,0.9999888169138111,2,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_01922,Music For an Underground Circu - Ergo Phizmiz,1,0.9966831711757571,2,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_01933,Production - Bird Names,1,0.9991726947590907,2,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_01938,She Works / Tepid Waters - Bird Names,1,0.9996940073982852,2,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_01942,Something Dirty - Ergo Phizmiz,1,0.9999994258391323,2,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_01950,"The Pursuit of Unintentional Humor - Oh Yeah, the Future",1,0.9999999241703839,2,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_01956,Troubles I've seen - Malaventura,1,0.9999850440501178,2,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_01966,5 (Lexington) - Isle of Pine,1,0.9999999411740519,2,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_01969,Attention - Pete Prodoehl,1,0.9999999990177435,2,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_01999,"Head of Ancante, Talking Tree - Ak'chamel, The Giver of Illness",1,0.9857034619629816,2,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_02008,I - Inflammator,1,0.9999864713244073,2,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_02014,L'arbre - Salmo,1,0.9999965412198728,2,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_02015,Leaving Here - Mod Fun,1,0.9999967133058657,2,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_02018,LIQUID SKULLS - voyageurs,1,0.999999978521497,2,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_02020,Love Dream - The Zombie Dandies,1,0.9999877163020023,2,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_02024,Moja Krypta - AmortE,1,0.9999309670879464,2,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_02032,Puertas de Fuego - Guerra de Cerdos,1,0.9999995536713053,2,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_02041,Sfogare Il Dissenso - Deiezione HC,1,0.9999974624795469,2,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_02045,Sonzis FM - Pipe Choir,1,0.9999990303790538,2,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_02048,Stuttgart - Portrayal,1,0.9183578135181187,2,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_02050,Terve Teille - Чокнутый Пропеллер,1,0.9999020498036533,2,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_02057,Untitled - Fatal Injection,1,0.9999992769544627,2,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_02064,Where Is Everything - The Moi Non Plus,1,0.9999842607230023,2,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_02065,Who Loves You Dear - Mink Lungs,1,0.9999978368904849,2,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_02089,Dance Harder - Three Chain Links,1,0.9803517397604886,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_02090,Dance Harder - Three Chain Links,1,0.9762810978393003,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_02101,Fuckaboing - RoccoW,1,0.8978539088113225,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_02102,Fuckaboing - RoccoW,1,0.9992394558532114,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_02117,Night Owl - Broke For Free,1,0.9999987292895137,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_02118,Night Owl - Broke For Free,1,0.9996341692581399,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_02137,Pista Afuera - Epstein,1,0.9872935054613668,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_02138,Pista Afuera - Epstein,1,0.9994991501250773,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_02141,Realize Me - Jim Rooster,1,0.9999969112882635,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_02142,Realize Me - Jim Rooster,1,0.9999983439780787,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_02143,Resistentialism - Nihilore,1,0.9186766969174838,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_02144,Resistentialism - Nihilore,1,0.9331719998944378,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_02165,Ugh! Humans Can Join - Mystery Mammal,1,0.9942951916694263,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_02166,Ugh! Humans Can Join - Mystery Mammal,1,0.9999522670316493,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_02183,Different Day - First,1,0.9987933717196276,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_02184,Different Day - First,1,0.9999574941501971,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_02193,"Hungry - Oh Yeah, the Future",1,0.9947643435859135,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_02194,"Hungry - Oh Yeah, the Future",1,0.9999919785510816,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_02215,Motocross Mania - Monroeville Music Center,1,0.9999910351356688,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_02216,Motocross Mania - Monroeville Music Center,1,0.9999215407849057,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_02217,Music For an Underground Circu - Ergo Phizmiz,1,0.9984018067807074,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_02218,Music For an Underground Circu - Ergo Phizmiz,1,0.7623124301356013,3,0,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_02237,She Works / Tepid Waters - Bird Names,1,0.9999929687376202,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_02238,She Works / Tepid Waters - Bird Names,1,0.999999630832037,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_02241,Something Dirty - Ergo Phizmiz,1,0.9101407567539767,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_02242,Something Dirty - Ergo Phizmiz,1,0.9909081719087608,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_02261,Troubles I've seen - Malaventura,1,0.6638415774533222,3,0,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_02262,Troubles I've seen - Malaventura,1,0.999948339534546,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_02275,Attention - Pete Prodoehl,1,0.9999240617075488,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_02276,Attention - Pete Prodoehl,1,0.9996317639689597,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_02291,"Head of Ancante, Talking Tree - Ak'chamel, The Giver of Illness",1,0.9971341514226421,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_02292,"Head of Ancante, Talking Tree - Ak'chamel, The Giver of Illness",1,0.9998711498799359,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_02299,I - Inflammator,1,0.9975465593119005,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_02300,I - Inflammator,1,0.6642199466129691,3,0,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_02305,LIQUID SKULLS - voyageurs,1,0.9999999689405454,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_02306,LIQUID SKULLS - voyageurs,1,0.9998253175072698,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_02309,Love Dream - The Zombie Dandies,1,0.836685829330869,3,0,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_02310,Love Dream - The Zombie Dandies,1,0.6844766607492744,3,0,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_02335,Sfogare Il Dissenso - Deiezione HC,1,0.6645105011723745,3,0,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_02336,Sfogare Il Dissenso - Deiezione HC,1,0.9999671065564741,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_02343,Stuttgart - Portrayal,1,0.9994863341748133,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_02344,Stuttgart - Portrayal,1,0.9999999917768762,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_02345,Terve Teille - Чокнутый Пропеллер,1,0.9999991286533253,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_02346,Terve Teille - Чокнутый Пропеллер,1,0.9908266740450831,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_02359,Where Is Everything - The Moi Non Plus,1,0.9999547052989128,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_02360,Where Is Everything - The Moi Non Plus,1,0.9361879608351567,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_02361,Who Loves You Dear - Mink Lungs,1,0.9999532088887239,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_02362,Who Loves You Dear - Mink Lungs,1,0.9865274481943579,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_02389,Dance Harder - Three Chain Links,1,0.9999992018261218,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_02390,Dance Harder - Three Chain Links,1,0.9986914928717298,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_02401,Fuckaboing - RoccoW,1,0.9999549831450255,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_02402,Fuckaboing - RoccoW,1,0.8876641113623448,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_02417,Night Owl - Broke For Free,1,0.9999902400605677,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_02418,Night Owl - Broke For Free,1,0.9995187356291324,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_02437,Pista Afuera - Epstein,1,0.9949834971268849,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_02438,Pista Afuera - Epstein,1,0.7086389689458107,3,0,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_02441,Realize Me - Jim Rooster,1,0.3333332558220326,3,0,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_02442,Realize Me - Jim Rooster,1,0.3502810896977022,3,0,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_02443,Resistentialism - Nihilore,1,0.999965474585082,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_02444,Resistentialism - Nihilore,1,0.9315765403674993,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_02465,Ugh! Humans Can Join - Mystery Mammal,1,0.9999994960671771,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_02466,Ugh! Humans Can Join - Mystery Mammal,1,0.9998361239981969,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_02483,Different Day - First,1,0.9998935177314364,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_02484,Different Day - First,1,0.9999578857377576,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_02493,"Hungry - Oh Yeah, the Future",1,0.8780169638534169,3,0,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_02494,"Hungry - Oh Yeah, the Future",1,0.3272978312442092,3,0,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_02515,Motocross Mania - Monroeville Music Center,1,0.958625281225235,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_02516,Motocross Mania - Monroeville Music Center,1,0.9983808335523386,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_02517,Music For an Underground Circu - Ergo Phizmiz,1,0.9999165218869245,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_02518,Music For an Underground Circu - Ergo Phizmiz,1,0.9999118075862178,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_02537,She Works / Tepid Waters - Bird Names,1,0.6287228231833702,3,0,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_02538,She Works / Tepid Waters - Bird Names,1,0.9948754261933604,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_02541,Something Dirty - Ergo Phizmiz,1,0.9792849161164278,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_02542,Something Dirty - Ergo Phizmiz,1,0.9933584000169712,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_02561,Troubles I've seen - Malaventura,1,0.9960491208273146,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_02562,Troubles I've seen - Malaventura,1,0.9938397436133006,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_02575,Attention - Pete Prodoehl,1,0.9451730771438823,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_02576,Attention - Pete Prodoehl,1,0.027753857377419273,3,0,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_02591,"Head of Ancante, Talking Tree - Ak'chamel, The Giver of Illness",1,0.8190044634616639,3,0,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_02592,"Head of Ancante, Talking Tree - Ak'chamel, The Giver of Illness",1,0.4654594042969919,3,0,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_02599,I - Inflammator,1,0.9998364558107093,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_02600,I - Inflammator,1,0.9999999999633747,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_02605,LIQUID SKULLS - voyageurs,1,0.9922062948479929,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_02606,LIQUID SKULLS - voyageurs,1,0.9936805199268347,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_02609,Love Dream - The Zombie Dandies,1,0.8024581298352395,3,0,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_02610,Love Dream - The Zombie Dandies,1,0.999999431559829,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_02635,Sfogare Il Dissenso - Deiezione HC,1,0.9999523172452763,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_02636,Sfogare Il Dissenso - Deiezione HC,1,0.9999999993726517,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_02643,Stuttgart - Portrayal,1,0.6096611768822912,3,0,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_02644,Stuttgart - Portrayal,1,0.9999941921711732,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_02645,Terve Teille - Чокнутый Пропеллер,1,0.9255799390815848,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_02646,Terve Teille - Чокнутый Пропеллер,1,0.6735574802993601,3,0,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_02659,Where Is Everything - The Moi Non Plus,1,0.9081487782740277,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_02660,Where Is Everything - The Moi Non Plus,1,0.9619220013591407,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_02661,Who Loves You Dear - Mink Lungs,1,0.9947303014508632,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_02662,Who Loves You Dear - Mink Lungs,1,0.8287335396240859,3,0,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_02679,Dance Harder - Three Chain Links,1,0.67198104993798,3,0,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_02683,Fuckaboing - RoccoW,1,0.8982818362760195,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_02691,Night Owl - Broke For Free,1,0.9990519717260385,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_02700,Pista Afuera - Epstein,1,0.998673504863462,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_02702,Realize Me - Jim Rooster,1,0.9999908433995691,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_02703,Resistentialism - Nihilore,1,0.9999940338908314,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_02714,Ugh! Humans Can Join - Mystery Mammal,1,0.9999999048962717,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_02724,El Burrito - Malaventura,1,0.9956714638515113,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_02741,Motocross Mania - Monroeville Music Center,1,0.9986072540859022,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_02742,Music For an Underground Circu - Ergo Phizmiz,1,0.9911239917320719,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_02752,Production - Bird Names,1,0.9999726578398925,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_02756,She Works / Tepid Waters - Bird Names,1,0.9968003115173757,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_02759,Something Dirty - Ergo Phizmiz,1,0.9999994965986693,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_02767,"The Pursuit of Unintentional Humor - Oh Yeah, the Future",1,0.9943286437000429,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_02773,Troubles I've seen - Malaventura,1,0.9997086781447742,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_02782,5 (Lexington) - Isle of Pine,1,0.9999997143243066,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_02785,Attention - Pete Prodoehl,1,0.6960641243495678,3,0,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_02808,"Head of Ancante, Talking Tree - Ak'chamel, The Giver of Illness",1,0.999907185630931,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_02822,LIQUID SKULLS - voyageurs,1,0.9859888291288185,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_02824,Love Dream - The Zombie Dandies,1,0.8028900541626127,3,0,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_02832,Puertas de Fuego - Guerra de Cerdos,1,0.8424083983465467,3,0,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_02839,Sfogare Il Dissenso - Deiezione HC,1,0.9999978726753116,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_02843,Sonzis FM - Pipe Choir,1,0.7923557968556695,3,0,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_02846,Stuttgart - Portrayal,1,0.9999985718687435,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_02852,Untitled - Fatal Injection,1,0.9999803150986168,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_02857,Who Loves You Dear - Mink Lungs,1,0.9997996714042787,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_02877,Attention - Pete Prodoehl,1,0.9999184507844117,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_02878,Attention - Pete Prodoehl,1,0.9460235263921636,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_02903,Dance Harder - Three Chain Links,1,0.9999991062192654,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_02904,Dance Harder - Three Chain Links,1,0.9986767267131059,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_02907,Different Day - First,1,0.7762041090602573,3,0,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_02908,Different Day - First,1,0.9802373696727701,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_02931,Fuckaboing - RoccoW,1,0.9999999992214033,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_02932,Fuckaboing - RoccoW,1,0.6698697308979962,3,0,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_02939,"Head of Ancante, Talking Tree - Ak'chamel, The Giver of Illness",1,0.6867254893649831,3,0,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_02940,"Head of Ancante, Talking Tree - Ak'chamel, The Giver of Illness",1,0.9963683407826339,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_02941,"Hungry - Oh Yeah, the Future",1,0.9993058396569543,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_02942,"Hungry - Oh Yeah, the Future",1,0.9595183621192479,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_02947,I - Inflammator,1,0.995394992543542,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_02948,I - Inflammator,1,0.930833255021898,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_02971,LIQUID SKULLS - voyageurs,1,0.9999586893040021,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_02972,LIQUID SKULLS - voyageurs,1,0.9999925550746186,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_02977,Love Dream - The Zombie Dandies,1,0.9787508606457908,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_02978,Love Dream - The Zombie Dandies,1,0.9997147254789848,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_02991,Motocross Mania - Monroeville Music Center,1,0.9999906045070247,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_02992,Motocross Mania - Monroeville Music Center,1,0.9999976222631165,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_02995,Music For an Underground Circu - Ergo Phizmiz,1,0.6678044584982604,3,0,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_02996,Music For an Underground Circu - Ergo Phizmiz,1,0.9999823685046861,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_03003,Night Owl - Broke For Free,1,0.9999965817610877,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_03004,Night Owl - Broke For Free,1,0.999991369561971,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_03031,Pista Afuera - Epstein,1,0.9991256589259386,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_03032,Pista Afuera - Epstein,1,0.97081459661889,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_03035,Realize Me - Jim Rooster,1,0.9999847117988848,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_03036,Realize Me - Jim Rooster,1,0.9998660333405617,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_03037,Resistentialism - Nihilore,1,0.9980376227019456,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_03038,Resistentialism - Nihilore,1,0.9990717399128539,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_03061,Sfogare Il Dissenso - Deiezione HC,1,0.8054466320052955,3,0,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_03062,Sfogare Il Dissenso - Deiezione HC,1,0.6212976808686593,3,0,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_03065,She Works / Tepid Waters - Bird Names,1,0.9776082028560634,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_03066,She Works / Tepid Waters - Bird Names,1,0.9740866318321834,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_03071,Something Dirty - Ergo Phizmiz,1,0.6934682321022176,3,0,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_03072,Something Dirty - Ergo Phizmiz,1,0.9457086212666513,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_03083,Stuttgart - Portrayal,1,0.9747804970118227,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_03084,Stuttgart - Portrayal,1,0.9989529682728892,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_03089,Terve Teille - Чокнутый Пропеллер,1,0.9980875661494616,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_03090,Terve Teille - Чокнутый Пропеллер,1,0.9995451241232542,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_03119,Troubles I've seen - Malaventura,1,0.9978240885874591,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_03120,Troubles I've seen - Malaventura,1,0.9999980042206381,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_03121,Ugh! Humans Can Join - Mystery Mammal,1,0.9839070124276899,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_03122,Ugh! Humans Can Join - Mystery Mammal,1,0.9997229598147882,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_03133,Where Is Everything - The Moi Non Plus,1,0.2388883913563049,3,0,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_03134,Where Is Everything - The Moi Non Plus,1,0.9264256384753945,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_03135,Who Loves You Dear - Mink Lungs,1,0.8272671144610069,3,0,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_03136,Who Loves You Dear - Mink Lungs,1,0.7572354556576029,3,0,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_03167,2Much (Andy Spinelli & Alex Sánchez House Edit) - Tentacles,1,0.9999998085697475,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_03169,3 am West End - statusq,1,0.9998865544315055,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_03171,5 (Lexington) - Isle of Pine,1,0.9999998050789989,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_03183,Attention - Pete Prodoehl,1,0.99993089760974,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_03193,Bizzy - The Tleilaxu Music Machine,1,0.9999948912833174,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_03209,Dance Harder - Three Chain Links,1,0.9999999973632364,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_03214,Different Day - First,1,0.9999590394301755,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_03222,El Burrito - Malaventura,1,0.9999997186500281,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_03227,End titles - Itsensäsyöjät,1,0.9999996838783471,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_03244,Fuckaboing - RoccoW,1,0.9794090372708982,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_03253,"Head of Ancante, Talking Tree - Ak'chamel, The Giver of Illness",1,0.9999998221819189,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_03255,"Hungry - Oh Yeah, the Future",1,0.9999999410357657,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_03267,I - Inflammator,1,0.9998829613846496,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_03287,Leaving Here - Mod Fun,1,0.9997824709376432,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_03288,Let's Start Out Slow - RoccoW,1,0.7867697062643275,3,0,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_03290,Let You're Body Move - D SMILEZ,1,0.8893678727505924,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_03295,LIQUID SKULLS - voyageurs,1,0.9995770442352997,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_03301,Love Dream - The Zombie Dandies,1,0.9925182068150139,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_03302,L'arbre - Salmo,1,0.9999627724150688,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_03308,Moja Krypta - AmortE,1,0.9999925261497834,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_03313,Motocross Mania - Monroeville Music Center,1,0.9999997546961311,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_03315,Music For an Underground Circu - Ergo Phizmiz,1,0.999998314953661,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_03324,Night Owl - Broke For Free,1,0.999974396462835,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_03342,Pista Afuera - Epstein,1,0.9999999533290621,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_03345,Production - Bird Names,1,0.9998263897923114,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_03347,Puertas de Fuego - Guerra de Cerdos,1,0.9998054520726717,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_03350,Realize Me - Jim Rooster,1,0.9999999658331648,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_03352,Resistentialism - Nihilore,1,0.9999999752801126,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_03367,Set Fire to Creation - Nihilore,1,0.9996985525021396,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_03368,Sfogare Il Dissenso - Deiezione HC,1,0.9999999917434191,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_03371,She Works / Tepid Waters - Bird Names,1,0.8012095296882066,3,0,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_03379,Something Dirty - Ergo Phizmiz,1,0.9999999963196126,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_03381,Sonzis FM - Pipe Choir,1,0.9999942527222876,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_03390,Stuttgart - Portrayal,1,0.9978612558112676,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_03391,Support Me in This Moment That I'm About To Lose Heart - Nihilore,1,0.9980917137684321,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_03396,Terve Teille - Чокнутый Пропеллер,1,0.9999931229537125,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_03397,The Adventures Of Roderick Random - Maps And Diagrams,1,0.9785539635388822,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_03411,"The Pursuit of Unintentional Humor - Oh Yeah, the Future",1,0.8400906865890718,3,0,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_03416,The Secret Garden - Barbarix,1,0.999999492414476,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_03425,Troubles I've seen - Malaventura,1,0.9999999350350984,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_03427,Ugh! Humans Can Join - Mystery Mammal,1,0.999999467801803,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_03431,Untitled - Fatal Injection,1,0.999999126018921,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_03443,Where Is Everything - The Moi Non Plus,1,0.9931893478784936,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_03444,Who Loves You Dear - Mink Lungs,1,0.9999739598658328,3,1,0.8847584771875533
+mert_binary_20260919T110741Z,Frozen MERT + LR,baseline,test,track,sample_03451,Yurtology - Michett,1,0.9989513837833205,3,1,0.8847584771875533

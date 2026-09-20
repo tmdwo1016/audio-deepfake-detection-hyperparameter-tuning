@@ -1,0 +1,19 @@
+{
+  "comparison": "23 offset-loaded clean inputs vs new full-decode paired clean inputs",
+  "handcrafted": {
+    "max_abs_diff": 107.93295710921393,
+    "mean_abs_diff": 0.015424948931968836,
+    "segments_with_any_diff_gt_1e_6": 1572
+  },
+  "logmel": {
+    "max_abs_diff": 0.521728515625,
+    "mean_abs_diff": 5.249706473313321e-05,
+    "segments_with_any_exact_diff": 1572
+  },
+  "mert_selected_layer": {
+    "layer": 4,
+    "max_abs_diff": 0.04296875,
+    "mean_abs_diff": 0.00047443609219044447,
+    "segments_with_any_exact_diff": 1572
+  }
+}

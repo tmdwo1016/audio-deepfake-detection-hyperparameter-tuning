@@ -1,0 +1,69 @@
+{
+  "run_id": "cnn_unseen_strict_20260919T171232Z",
+  "seed": 42,
+  "device": "mps",
+  "holdouts": [
+    "musicgen",
+    "udio"
+  ],
+  "baseline": {
+    "lr": 0.001,
+    "dropout": 0.3,
+    "weight_decay": 0.0001,
+    "batch_size": 32,
+    "max_epochs": 20,
+    "patience": 4,
+    "optimizer": "AdamW",
+    "architecture": "historical_4_conv_blocks"
+  },
+  "search": {
+    "lr": [
+      0.0001,
+      0.0003,
+      0.001
+    ],
+    "dropout": [
+      0.2,
+      0.3,
+      0.5
+    ],
+    "batch_size": [
+      16,
+      32,
+      64
+    ],
+    "weight_decay": [
+      0.0,
+      0.0001,
+      0.001
+    ],
+    "max_epochs": 30,
+    "patience": 4
+  },
+  "mel_settings": {
+    "sr": 24000,
+    "segment_sec": 10,
+    "n_fft": 1024,
+    "hop_length": 240,
+    "n_mels": 128,
+    "fmax": 12000,
+    "center": true,
+    "power": 2.0,
+    "top_db": 80,
+    "ref": "max",
+    "fixed_scale": "(dB+40)/40"
+  },
+  "manifest_sha256": "9023dcb21bef5d7163c63ea93258195e53c9fde3ecb7fee5920bf6ff94bbc2b3",
+  "cache_index_sha256": "062ef9382b6ed538acbc768d06aee64956567b4a4c7b4cd097e046eae10b0277",
+  "protocol_sha256": "95f1546ce8e3fcedb66e5ef52488c9255e414965514b5163e1a62b9052e4941e",
+  "versions": {
+    "python": "3.13.9",
+    "torch": "2.14.0",
+    "numpy": "2.3.5",
+    "pandas": "2.3.3",
+    "scikit_learn": "1.7.2"
+  },
+  "test_cohort_rule": "all original Test REAL tracks plus target-generator FAKE Test tracks",
+  "prior_exposure": "Historical notebook 14 previously reported MusicGen/Udio Test results; this is not a never-exposed blind Test.",
+  "selection_rule": "raw Validation Track EER asc, Track AUC desc, candidate order asc"
+}

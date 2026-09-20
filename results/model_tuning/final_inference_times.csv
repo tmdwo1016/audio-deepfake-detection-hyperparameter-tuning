@@ -1,0 +1,9 @@
+model,variant,seconds,reused_from
+LogisticRegression,baseline,0.0016730419592931867,
+LogisticRegression,optimized,0.001254166942089796,
+RBF-SVM,baseline,0.28838354093022645,
+RBF-SVM,optimized,0.19678741600364447,
+Log-Mel CNN,baseline,4.8802700829692185,
+Log-Mel CNN,optimized,4.0635020839981735,
+Frozen MERT + LR,baseline,0.005119416047818959,
+Frozen MERT + LR,optimized,0.008156666997820139,

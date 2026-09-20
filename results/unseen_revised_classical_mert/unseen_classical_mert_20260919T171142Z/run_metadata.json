@@ -1,0 +1,120 @@
+{
+  "run_id": "unseen_classical_mert_20260919T171142Z",
+  "manifest_sha256": "9023dcb21bef5d7163c63ea93258195e53c9fde3ecb7fee5920bf6ff94bbc2b3",
+  "protocol_sha256": "95f1546ce8e3fcedb66e5ef52488c9255e414965514b5163e1a62b9052e4941e",
+  "targets": [
+    "musicgen",
+    "udio"
+  ],
+  "seed": 42,
+  "selection_used_test": false,
+  "search_reused_full_data_hyperparameters": false,
+  "historical_test_exposure": "MusicGen/Udio and the original Test were examined in 2026-09-13 historical experiments; this is not an untouched holdout.",
+  "cohort_definition": "All original Test REAL plus target-generator Test FAKE; paired-source subset is secondary and never used for selection.",
+  "mert_train_val_cache": {
+    "model": "m-a-p/MERT-v1-95M",
+    "revision": "12af15fef9d0ac838c3f475bfbbf26d2060dd4f5",
+    "processor_sampling_rate": 24000,
+    "segment_sec": 10.0,
+    "input": "24kHz mono, original 10s boundary, no zero padding",
+    "pooling": "single-segment valid hidden frames mean",
+    "levels": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "hidden_size": 768,
+    "manifest_sha256": "9023dcb21bef5d7163c63ea93258195e53c9fde3ecb7fee5920bf6ff94bbc2b3",
+    "splits": [
+      "train",
+      "val"
+    ],
+    "segment_ids_sha256": "03e0c45bc24f65140ace04358528b9792e29fe3fcc2566fa59eb8782a94379b9"
+  },
+  "mert_test_cache": {
+    "model": "m-a-p/MERT-v1-95M",
+    "revision": "12af15fef9d0ac838c3f475bfbbf26d2060dd4f5",
+    "processor_sampling_rate": 24000,
+    "segment_sec": 10.0,
+    "input": "24kHz mono, original 10s boundary, no zero padding",
+    "pooling": "single-segment valid hidden frames mean",
+    "levels": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "hidden_size": 768,
+    "manifest_sha256": "9023dcb21bef5d7163c63ea93258195e53c9fde3ecb7fee5920bf6ff94bbc2b3",
+    "splits": [
+      "test"
+    ],
+    "segment_ids_sha256": "e3064b161f399b04ccae85225781c1f49b97d8da6a5326eb4725d55eb65afc1d"
+  },
+  "feature_columns_sha256": "1af96b3b74fcc511900d78840ca6800f6b488d399f5b5001294936e8c6ae21b1",
+  "versions": {
+    "python": "3.13.9",
+    "numpy": "2.3.5",
+    "pandas": "2.3.3",
+    "scikit_learn": "1.7.2"
+  },
+  "device": "CPU",
+  "elapsed_seconds": 317.05546974996105,
+  "frozen_selection_artifacts": {
+    "tuning_sha256": "2f00af550c79dc5c21e330fb482921ae480ecc2aa3bc6975485b923099591b43",
+    "selected_configs_sha256": "9966764ed0cc4cf89804308ef7ffc3145325cbdca8cc7e03451e49287e617d16",
+    "checkpoint_sha256": {
+      "musicgen": {
+        "LogisticRegression": "fc94ca043203703babf80b0e2f1cc515939c6b4cf874a1deebb0d91766c781b8",
+        "RBF-SVM": "92772a76cf6dd5ff029bf5f70be66814b4ef7e40e577f9ca387b9a3c6bb6a832",
+        "Frozen MERT + LR": "f46bb0dc05c294925ec65c65549daf6182560d92b693f2e35109e7d6640aa443"
+      },
+      "udio": {
+        "LogisticRegression": "59967cc3899461a550988e6e82192629e02ff0451fa3ec59dcbb26ae8cb882a1",
+        "RBF-SVM": "f50fe65a92a87b5633e883bb6aef1256fc224d82d837e349be46df6a9c6cb900",
+        "Frozen MERT + LR": "2488beae09e0c0e2c765a4c696722a5d7ea44ef5434d7d3bd52990006dea9ccd"
+      }
+    }
+  },
+  "test_cohorts": [
+    {
+      "run_id": "unseen_classical_mert_20260919T171142Z",
+      "holdout_generator": "musicgen",
+      "primary_real_tracks": 45,
+      "primary_fake_tracks": 45,
+      "primary_fake_original_audio": 45,
+      "primary_segments": 270,
+      "paired_real_tracks": 45,
+      "paired_fake_tracks": 45
+    },
+    {
+      "run_id": "unseen_classical_mert_20260919T171142Z",
+      "holdout_generator": "udio",
+      "primary_real_tracks": 45,
+      "primary_fake_tracks": 48,
+      "primary_fake_original_audio": 24,
+      "primary_segments": 279,
+      "paired_real_tracks": 24,
+      "paired_fake_tracks": 48
+    }
+  ]
+}

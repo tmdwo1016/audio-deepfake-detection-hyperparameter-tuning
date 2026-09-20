@@ -1,0 +1,485 @@
+﻿run_id,holdout_generator,model,split,level,threshold,track_id,original_audio_id,label,score,n_segments,prediction
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_00002,2 (Wasn't There) - Isle of Pine,0,0.4665812053560086,3,0
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_00013,Agora - Malaventura,0,0.33054253405828626,3,0
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_00027,Beyond Luxury - Mors Ontologica,0,0.005850473040033496,3,0
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_00043,CopperNickle - UncleBibby,0,0.11538028185631978,3,0
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_00047,Daylight Savings - My brother Daniel,0,0.353597217224503,3,0
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_00059,Empty Pockets - Pete Prodoehl,0,0.32044405756379885,3,0
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_00065,Evil Cannot Create - Caleb Lemond,0,0.4287137559751219,3,0
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_00067,Fear - Los Fancy Free,0,0.011877449584104985,3,0
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_00068,Fifth Ramble - From the album Keith [RSVP007] - My brother Daniel,0,0.9878580317281735,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_00080,Gila Monster Flop/Music History Lesson:The Sonics - The Crypts!,0,0.12569635934197637,3,0
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_00095,I Fell - Mod Fun,0,0.021775950928651644,3,0
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_00099,If You're Ther - Nicola Ratti,0,0.3001259243948397,3,0
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_00114,Kumorizoranohajimarutokoro - Hosomi,0,0.824324567556257,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_00128,Lights Up - Pipe Choir,0,0.3054339976818725,3,0
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_00133,Loved Ones - Rowan Box,0,0.07114189468296912,3,0
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_00136,March of the GPA Mechanics - [t]ghost,0,0.0354564143265604,3,0
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_00142,Morning Bell - Nihilore,0,0.03248811417295574,3,0
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_00147,My Body Is A Weapon (Compromise Edit) - Silence is full of birds,0,0.11391144124620987,3,0
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_00151,New Life (take 1) - Bird Names,0,0.005400658234483068,3,0
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_00153,Night Drive - Decktonic,0,0.27364771741968874,3,0
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_00156,Norweigian Wood II - Bird Names,0,0.0039737468553893126,3,0
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_00160,Nuo Maisemat - Paavoharju,0,0.13941307705935604,3,0
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_00179,Redlight - Room For A Ghost,0,0.02651198139137941,3,0
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_00185,Roller Star - Monroeville Music Center,0,0.08063107392312442,3,0
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_00187,"Roundtrip - Oh Yeah, the Future",0,0.01755360000612889,3,0
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_00190,SD (Ill Mix) - H-LR,0,0.031522971702207886,3,0
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_00192,Scramby Eggs - Andy G. Cohen,0,0.2606220600000227,3,0
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_00200,Shipwrecked Crew - Pete Prodoehl,0,0.010077430013725047,3,0
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_00205,Soleares&beats - Malaventura,0,0.13448734770755863,3,0
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_00211,Stockholm Syndrome / People Should Be More Aware - Bird Names,0,0.0055883476286220585,3,0
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_00215,Sturgeon's Law - Nihilore,0,0.1494114105785949,3,0
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_00242,The Stairway - WarpToken,0,0.4356258766665968,3,0
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_00243,The girl just faded - Los Llamarada,0,0.1745056736076284,3,0
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_00245,Three Bird - My brother Daniel,0,0.5050253584752741,3,0
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_00246,Time Is Love - Silence is full of birds,0,0.2832194145983325,3,0
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_00248,Timen Passing By - Jason Shaw,0,0.5387174747009414,3,0
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_00255,Understand That This Is A Dream - From the album Modulating Coil [RSVP008] - Forrest James,0,0.025677619085238624,3,0
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_00261,Voxel - Andy G. Cohen,0,0.18050453145209186,3,0
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_00267,Westside Chillers - Little Glass Men,0,0.3575239593148755,3,0
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_00273,Windows of the Skull - Sarin,0,0.10928475858341963,3,0
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_00286,mystery team 2090 - Jesse Futerman,0,0.3806657826284723,3,0
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_00290,some dextromethorphan - Jeva,0,0.025447266968589264,3,0
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_00292,В Наших Сердцах - Чокнутый Пропеллер,0,0.5813441866831225,3,0
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_00295,Новый Нью-Йорк 2 - Чокнутый Пропеллер,0,0.4608839997010585,3,0
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_00299,2 (Wasn't There) - Isle of Pine,1,0.9513420256049051,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_00306,Agora - Malaventura,1,0.9932023045447474,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_00323,Beyond Luxury - Mors Ontologica,1,0.979781865126493,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_00338,CopperNickle - UncleBibby,1,0.9321162953317526,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_00343,Daylight Savings - My brother Daniel,1,0.886111356885503,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_00355,Empty Pockets - Pete Prodoehl,1,0.9853870841810969,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_00361,Evil Cannot Create - Caleb Lemond,1,0.9712454971258803,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_00363,Fear - Los Fancy Free,1,0.9342331112375101,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_00364,Fifth Ramble - From the album Keith [RSVP007] - My brother Daniel,1,0.9947811407280521,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_00376,Gila Monster Flop/Music History Lesson:The Sonics - The Crypts!,1,0.6812651570907023,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_00387,If You're Ther - Nicola Ratti,1,0.9841354597021237,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_00397,I Fell - Mod Fun,1,0.9394204051636668,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_00413,Kumorizoranohajimarutokoro - Hosomi,1,0.9935742419958086,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_00425,Lights Up - Pipe Choir,1,0.9337222993953489,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_00431,Loved Ones - Rowan Box,1,0.9608498946831686,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_00435,March of the GPA Mechanics - [t]ghost,1,0.9267857357271976,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_00442,Morning Bell - Nihilore,1,0.8813989703415483,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_00447,mystery team 2090 - Jesse Futerman,1,0.8765546010304792,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_00448,My Body Is A Weapon (Compromise Edit) - Silence is full of birds,1,0.7338003998636684,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_00452,New Life (take 1) - Bird Names,1,0.9927112001990318,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_00454,Night Drive - Decktonic,1,0.9620357525751816,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_00457,Norweigian Wood II - Bird Names,1,0.9259440955776063,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_00461,Nuo Maisemat - Paavoharju,1,0.9654027761533207,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_00482,Redlight - Room For A Ghost,1,0.7869149363025646,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_00488,Roller Star - Monroeville Music Center,1,0.9926305486016807,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_00490,"Roundtrip - Oh Yeah, the Future",1,0.962932119141141,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_00494,Scramby Eggs - Andy G. Cohen,1,0.9616086252792243,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_00495,SD (Ill Mix) - H-LR,1,0.9674618501170963,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_00503,Shipwrecked Crew - Pete Prodoehl,1,0.668786368524978,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_00509,Soleares&beats - Malaventura,1,0.9114863192758483,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_00511,some dextromethorphan - Jeva,1,0.9972360427391115,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_00516,Stockholm Syndrome / People Should Be More Aware - Bird Names,1,0.9124230022066501,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_00520,Sturgeon's Law - Nihilore,1,0.8988434790300154,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_00539,The girl just faded - Los Llamarada,1,0.902646437904329,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_00548,The Stairway - WarpToken,1,0.9845584436895815,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_00549,Three Bird - My brother Daniel,1,0.9355722287705275,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_00550,Timen Passing By - Jason Shaw,1,0.9770374655025709,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_00551,Time Is Love - Silence is full of birds,1,0.8238055440598422,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_00560,Understand That This Is A Dream - From the album Modulating Coil [RSVP008] - Forrest James,1,0.9850401480817789,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_00565,Voxel - Andy G. Cohen,1,0.9343785035444773,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_00567,Westside Chillers - Little Glass Men,1,0.9594697549027106,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_00586,В Наших Сердцах - Чокнутый Пропеллер,1,0.8565571545448535,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_00589,Новый Нью-Йорк 2 - Чокнутый Пропеллер,1,0.9406744111974251,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_00595,Daylight Savings - My brother Daniel,1,0.9945817502615206,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_00596,Three Bird - My brother Daniel,1,0.9438578747240394,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_00609,Timen Passing By - Jason Shaw,1,0.9919806860554781,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_00610,Night Drive - Decktonic,1,0.9938916201111262,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_00615,Sturgeon's Law - Nihilore,1,0.9757128753849864,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_00617,mystery team 2090 - Jesse Futerman,1,0.989061460845505,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_00625,Loved Ones - Rowan Box,1,0.6432261679905437,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_00639,CopperNickle - UncleBibby,1,0.9968563410474817,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_00651,Nuo Maisemat - Paavoharju,1,0.9970264426648375,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_00662,SD (Ill Mix) - H-LR,1,0.9852462131233728,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_00666,Kumorizoranohajimarutokoro - Hosomi,1,0.5371730138917247,3,0
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_00673,some dextromethorphan - Jeva,1,0.9954649635911604,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_00676,Fifth Ramble - From the album Keith [RSVP007] - My brother Daniel,1,0.948203186913259,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_00681,Westside Chillers - Little Glass Men,1,0.9921384563393895,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_00692,If You're Ther - Nicola Ratti,1,0.9477145939291756,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_00693,Understand That This Is A Dream - From the album Modulating Coil [RSVP008] - Forrest James,1,0.9823446307633049,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_00700,The Stairway - WarpToken,1,0.9925444182856805,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_00704,Soleares&beats - Malaventura,1,0.9797824326501544,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_00728,Evil Cannot Create - Caleb Lemond,1,0.9994558838466941,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_00732,Norweigian Wood II - Bird Names,1,0.9947330117873485,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_00738,Roller Star - Monroeville Music Center,1,0.976173875177115,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_00743,Time Is Love - Silence is full of birds,1,0.9885300624264985,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_00744,Stockholm Syndrome / People Should Be More Aware - Bird Names,1,0.9695326669998345,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_00748,"Roundtrip - Oh Yeah, the Future",1,0.9993199156585567,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_00749,New Life (take 1) - Bird Names,1,0.9883960425128578,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_00751,My Body Is A Weapon (Compromise Edit) - Silence is full of birds,1,0.989214729779853,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_00760,Agora - Malaventura,1,0.9983554250564713,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_00768,Empty Pockets - Pete Prodoehl,1,0.9988408301697556,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_00770,Windows of the Skull - Sarin,1,0.9225548642675078,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_00773,Gila Monster Flop/Music History Lesson:The Sonics - The Crypts!,1,0.9845649558884508,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_00781,Voxel - Andy G. Cohen,1,0.9936610099190243,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_00788,Scramby Eggs - Andy G. Cohen,1,0.9881740812764549,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_00802,I Fell - Mod Fun,1,0.9864335310937339,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_00803,Новый Нью-Йорк 2 - Чокнутый Пропеллер,1,0.9625123492550888,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_00807,March of the GPA Mechanics - [t]ghost,1,0.9977082456521406,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_00812,2 (Wasn't There) - Isle of Pine,1,0.9972244380166213,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_00813,The girl just faded - Los Llamarada,1,0.986855698980235,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_00819,В Наших Сердцах - Чокнутый Пропеллер,1,0.985088553279697,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_00820,Lights Up - Pipe Choir,1,0.9996075262971562,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_00822,Beyond Luxury - Mors Ontologica,1,0.9779488132503618,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_00843,Fear - Los Fancy Free,1,0.9578832582640718,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_00874,Redlight - Room For A Ghost,1,0.97458511144833,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_00875,Shipwrecked Crew - Pete Prodoehl,1,0.9790424487227337,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_00880,Morning Bell - Nihilore,1,0.9971123855295881,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_00898,CopperNickle - UncleBibby,1,0.8616795080398093,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_00899,CopperNickle - UncleBibby,1,0.9653378759085762,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_00922,mystery team 2090 - Jesse Futerman,1,0.9702631290228982,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_00923,mystery team 2090 - Jesse Futerman,1,0.9677676795074471,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_00924,Night Drive - Decktonic,1,0.8594757837760724,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_00925,Night Drive - Decktonic,1,0.9468975282468607,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_00930,Nuo Maisemat - Paavoharju,1,0.8857416072577894,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_00931,Nuo Maisemat - Paavoharju,1,0.9936723549433691,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_00958,SD (Ill Mix) - H-LR,1,0.9529177201741602,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_00959,SD (Ill Mix) - H-LR,1,0.7743598630101981,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_00994,Evil Cannot Create - Caleb Lemond,1,0.9771295420369888,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_00995,Evil Cannot Create - Caleb Lemond,1,0.9697636900059433,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_01030,New Life (take 1) - Bird Names,1,0.9875340311518531,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_01031,New Life (take 1) - Bird Names,1,0.9965355824282534,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_01032,Norweigian Wood II - Bird Names,1,0.9404097809605604,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_01033,Norweigian Wood II - Bird Names,1,0.9682618824026775,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_01040,Roller Star - Monroeville Music Center,1,0.9463597800411868,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_01041,Roller Star - Monroeville Music Center,1,0.9593300627603402,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_01042,"Roundtrip - Oh Yeah, the Future",1,0.9435067975631387,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_01043,"Roundtrip - Oh Yeah, the Future",1,0.8883723509394139,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_01048,Soleares&beats - Malaventura,1,0.9638417209680652,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_01049,Soleares&beats - Malaventura,1,0.9479066116246226,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_01054,Stockholm Syndrome / People Should Be More Aware - Bird Names,1,0.9208421289085015,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_01055,Stockholm Syndrome / People Should Be More Aware - Bird Names,1,0.9348823259567259,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_01068,Time Is Love - Silence is full of birds,1,0.9715447373949048,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_01069,Time Is Love - Silence is full of birds,1,0.950284750899585,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_01082,2 (Wasn't There) - Isle of Pine,1,0.9618312093150566,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_01083,2 (Wasn't There) - Isle of Pine,1,0.9583711259429039,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_01092,Empty Pockets - Pete Prodoehl,1,0.9103307747781649,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_01093,Empty Pockets - Pete Prodoehl,1,0.9353797367864362,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_01098,Gila Monster Flop/Music History Lesson:The Sonics - The Crypts!,1,0.5838492782058293,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_01099,Gila Monster Flop/Music History Lesson:The Sonics - The Crypts!,1,0.9083253965581802,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_01104,I Fell - Mod Fun,1,0.9785827665783864,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_01105,I Fell - Mod Fun,1,0.9825537340729534,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_01120,March of the GPA Mechanics - [t]ghost,1,0.8464980213312451,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_01121,March of the GPA Mechanics - [t]ghost,1,0.832165256222379,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_01140,Scramby Eggs - Andy G. Cohen,1,0.9654887444781967,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_01141,Scramby Eggs - Andy G. Cohen,1,0.8818632408132213,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_01158,The girl just faded - Los Llamarada,1,0.7398057450052175,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_01159,The girl just faded - Los Llamarada,1,0.9111722098761627,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_01164,Voxel - Andy G. Cohen,1,0.5168409075683768,3,0
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_01165,Voxel - Andy G. Cohen,1,0.9804092423932458,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_01172,Windows of the Skull - Sarin,1,0.9408321551727776,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_01173,Windows of the Skull - Sarin,1,0.8060845840144865,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_01178,Новый Нью-Йорк 2 - Чокнутый Пропеллер,1,0.8268364353632895,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_01179,Новый Нью-Йорк 2 - Чокнутый Пропеллер,1,0.8189669043960629,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_01199,CopperNickle - UncleBibby,1,0.8291134293686424,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_01202,Daylight Savings - My brother Daniel,1,0.7843543347514532,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_01211,Fifth Ramble - From the album Keith [RSVP007] - My brother Daniel,1,0.6656729665753144,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_01219,If You're Ther - Nicola Ratti,1,0.9038277389238125,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_01227,Kumorizoranohajimarutokoro - Hosomi,1,0.8464214908135003,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_01236,Loved Ones - Rowan Box,1,0.5742193459434449,3,0
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_01237,Morning Bell - Nihilore,1,0.9747225411199484,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_01238,mystery team 2090 - Jesse Futerman,1,0.6475319043850377,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_01239,Night Drive - Decktonic,1,0.9981272466435529,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_01243,Nuo Maisemat - Paavoharju,1,0.9799762868452779,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_01260,SD (Ill Mix) - H-LR,1,0.9849511482571144,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_01265,some dextromethorphan - Jeva,1,0.9923582896701447,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_01268,Sturgeon's Law - Nihilore,1,0.9586677632952423,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_01280,The Stairway - WarpToken,1,0.9951533759254513,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_01281,Three Bird - My brother Daniel,1,0.9762503697195649,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_01282,Timen Passing By - Jason Shaw,1,0.9984893870685538,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_01288,Understand That This Is A Dream - From the album Modulating Coil [RSVP008] - Forrest James,1,0.9469840851030741,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_01291,Westside Chillers - Little Glass Men,1,0.9164616473767119,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_01295,Agora - Malaventura,1,0.964174666500479,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_01304,Evil Cannot Create - Caleb Lemond,1,0.9738754765452154,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_01324,My Body Is A Weapon (Compromise Edit) - Silence is full of birds,1,0.9944595862341655,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_01325,My Body Is A Weapon (Compromise Edit) - Silence is full of birds,1,0.9951304595567544,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_01329,New Life (take 1) - Bird Names,1,0.9925969875092547,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_01330,New Life (take 1) - Bird Names,1,0.9439409907084709,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_01331,Norweigian Wood II - Bird Names,1,0.7368899004076424,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_01340,Roller Star - Monroeville Music Center,1,0.9357130867962026,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_01341,"Roundtrip - Oh Yeah, the Future",1,0.9650411760123876,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_01347,Soleares&beats - Malaventura,1,0.9877462718436485,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_01351,Stockholm Syndrome / People Should Be More Aware - Bird Names,1,0.9100833582098583,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_01352,Stockholm Syndrome / People Should Be More Aware - Bird Names,1,0.6529187669759583,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_01362,Time Is Love - Silence is full of birds,1,0.9901911863763474,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_01372,2 (Wasn't There) - Isle of Pine,1,0.9881658948555709,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_01382,Beyond Luxury - Mors Ontologica,1,0.9913654816728,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_01394,Empty Pockets - Pete Prodoehl,1,0.8219178636442767,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_01397,Fear - Los Fancy Free,1,0.96858657589708,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_01402,Gila Monster Flop/Music History Lesson:The Sonics - The Crypts!,1,0.9938751827995495,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_01415,I Fell - Mod Fun,1,0.9009179011932845,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_01425,Lights Up - Pipe Choir,1,0.9946546696172293,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_01429,March of the GPA Mechanics - [t]ghost,1,0.9932286008551688,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_01442,Redlight - Room For A Ghost,1,0.9941236252325408,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_01447,Scramby Eggs - Andy G. Cohen,1,0.9145386044992865,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_01451,Shipwrecked Crew - Pete Prodoehl,1,0.9864304532578921,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_01461,The girl just faded - Los Llamarada,1,0.9790108799981222,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_01467,Voxel - Andy G. Cohen,1,0.8372037469810323,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_01475,Windows of the Skull - Sarin,1,0.9858928513593725,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_01488,Night Drive - Decktonic,1,0.9778973548391034,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_01507,Nuo Maisemat - Paavoharju,1,0.7604513229140569,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_01512,CopperNickle - UncleBibby,1,0.25139608800971125,3,0
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_01513,Daylight Savings - My brother Daniel,1,0.35120780259734113,3,0
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_01514,mystery team 2090 - Jesse Futerman,1,0.9277039632076325,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_01525,SD (Ill Mix) - H-LR,1,0.6272379726794223,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_01530,Stockholm Syndrome / People Should Be More Aware - Bird Names,1,0.7055043064366551,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_01532,Time Is Love - Silence is full of birds,1,0.9787508579494945,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_01534,Roller Star - Monroeville Music Center,1,0.6592184826294437,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_01537,Soleares&beats - Malaventura,1,0.5650578062227745,3,0
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_01543,Evil Cannot Create - Caleb Lemond,1,0.9775621015361389,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_01549,"Roundtrip - Oh Yeah, the Future",1,0.8646183852819181,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_01564,Norweigian Wood II - Bird Names,1,0.662722917938776,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_01565,New Life (take 1) - Bird Names,1,0.8596612119934455,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_01566,New Life (take 1) - Bird Names,1,0.8601363507044587,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_01593,Gila Monster Flop/Music History Lesson:The Sonics - The Crypts!,1,0.25896707952439285,3,0
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_01607,March of the GPA Mechanics - [t]ghost,1,0.578443031174022,3,0
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_01608,Windows of the Skull - Sarin,1,0.7178045153611002,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_01610,Empty Pockets - Pete Prodoehl,1,0.6360228386115211,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_01612,Scramby Eggs - Andy G. Cohen,1,0.9147300059127489,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_01613,Voxel - Andy G. Cohen,1,0.3482492514025204,3,0
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_01615,The girl just faded - Los Llamarada,1,0.44176599315068993,3,0
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_01620,2 (Wasn't There) - Isle of Pine,1,0.9883072743485593,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_01622,I Fell - Mod Fun,1,0.750025846275305,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_01624,Новый Нью-Йорк 2 - Чокнутый Пропеллер,1,0.28344032067700803,3,0
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_01636,CopperNickle - UncleBibby,1,0.9749601368254709,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_01638,Daylight Savings - My brother Daniel,1,0.9718030479202665,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_01649,mystery team 2090 - Jesse Futerman,1,0.9786363664347117,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_01650,Night Drive - Decktonic,1,0.9577252311922163,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_01653,Nuo Maisemat - Paavoharju,1,0.9991984204289803,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_01667,SD (Ill Mix) - H-LR,1,0.9969467805124744,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_01685,Evil Cannot Create - Caleb Lemond,1,0.9899705980743058,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_01704,New Life (take 1) - Bird Names,1,0.9930252111896861,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_01705,Norweigian Wood II - Bird Names,1,0.8496061917203398,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_01709,Roller Star - Monroeville Music Center,1,0.9632645801285747,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_01710,"Roundtrip - Oh Yeah, the Future",1,0.9476531660522339,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_01713,Soleares&beats - Malaventura,1,0.9543615200372148,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_01716,Stockholm Syndrome / People Should Be More Aware - Bird Names,1,0.9972687815480014,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_01723,Time Is Love - Silence is full of birds,1,0.9530298565515394,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_01730,2 (Wasn't There) - Isle of Pine,1,0.9846480842236205,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_01735,Empty Pockets - Pete Prodoehl,1,0.9706349309105341,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_01738,Gila Monster Flop/Music History Lesson:The Sonics - The Crypts!,1,0.6782289132856912,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_01741,I Fell - Mod Fun,1,0.9365962416149417,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_01749,March of the GPA Mechanics - [t]ghost,1,0.8424499274971593,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_01759,Scramby Eggs - Andy G. Cohen,1,0.6222870979265275,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_01768,The girl just faded - Los Llamarada,1,0.7833381495170788,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_01771,Voxel - Andy G. Cohen,1,0.8545351934306903,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_01775,Windows of the Skull - Sarin,1,0.8567344406201332,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_01778,Новый Нью-Йорк 2 - Чокнутый Пропеллер,1,0.8478785321541529,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_01798,CopperNickle - UncleBibby,1,0.9699261563775714,2,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_01801,Daylight Savings - My brother Daniel,1,0.9720823610021982,2,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_01810,Fifth Ramble - From the album Keith [RSVP007] - My brother Daniel,1,0.9295517906666276,2,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_01818,If You're Ther - Nicola Ratti,1,0.9960518605077897,2,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_01826,Kumorizoranohajimarutokoro - Hosomi,1,0.9870635623262806,2,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_01835,Loved Ones - Rowan Box,1,0.9958242606863168,2,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_01836,Morning Bell - Nihilore,1,0.9835724726766251,2,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_01837,mystery team 2090 - Jesse Futerman,1,0.9966210450528354,2,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_01838,Night Drive - Decktonic,1,0.9893409394839305,2,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_01842,Nuo Maisemat - Paavoharju,1,0.995743618278327,2,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_01859,SD (Ill Mix) - H-LR,1,0.9824726928282527,2,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_01864,some dextromethorphan - Jeva,1,0.9501278858822728,2,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_01867,Sturgeon's Law - Nihilore,1,0.97234251609652,2,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_01879,The Stairway - WarpToken,1,0.9528730995447864,2,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_01880,Three Bird - My brother Daniel,1,0.8139746723495078,2,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_01881,Timen Passing By - Jason Shaw,1,0.9907354912108777,2,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_01887,Understand That This Is A Dream - From the album Modulating Coil [RSVP008] - Forrest James,1,0.9931454544164984,2,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_01890,Westside Chillers - Little Glass Men,1,0.9777528032535311,2,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_01895,Agora - Malaventura,1,0.9985565502915527,2,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_01904,Evil Cannot Create - Caleb Lemond,1,0.9980701255217924,2,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_01923,My Body Is A Weapon (Compromise Edit) - Silence is full of birds,1,0.9966558569734776,2,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_01926,New Life (take 1) - Bird Names,1,0.9909400229889088,2,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_01927,Norweigian Wood II - Bird Names,1,0.9727382484127034,2,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_01935,Roller Star - Monroeville Music Center,1,0.9966367504450038,2,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_01936,"Roundtrip - Oh Yeah, the Future",1,0.9796162015675984,2,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_01941,Soleares&beats - Malaventura,1,0.999349680182061,2,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_01945,Stockholm Syndrome / People Should Be More Aware - Bird Names,1,0.9601493200816555,2,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_01955,Time Is Love - Silence is full of birds,1,0.9362736506893516,2,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_01964,2 (Wasn't There) - Isle of Pine,1,0.9800832240361645,2,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_01974,Beyond Luxury - Mors Ontologica,1,0.9726249728399672,2,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_01986,Empty Pockets - Pete Prodoehl,1,0.9909675929975283,2,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_01989,Fear - Los Fancy Free,1,0.9794861893392096,2,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_01994,Gila Monster Flop/Music History Lesson:The Sonics - The Crypts!,1,0.9882209142359136,1,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_02007,I Fell - Mod Fun,1,0.9796800706000084,2,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_02017,Lights Up - Pipe Choir,1,0.9959346184746312,2,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_02021,March of the GPA Mechanics - [t]ghost,1,0.9960474635264172,2,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_02034,Redlight - Room For A Ghost,1,0.991622298558019,2,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_02039,Scramby Eggs - Andy G. Cohen,1,0.9987484717160393,2,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_02043,Shipwrecked Crew - Pete Prodoehl,1,0.8547866462888849,2,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_02053,The girl just faded - Los Llamarada,1,0.998834516750536,2,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_02059,Voxel - Andy G. Cohen,1,0.9939907039534289,2,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_02067,Windows of the Skull - Sarin,1,0.9947787057243531,2,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_02087,CopperNickle - UncleBibby,1,0.9112071779690959,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_02088,CopperNickle - UncleBibby,1,0.7856274084027232,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_02091,Daylight Savings - My brother Daniel,1,0.7490173840143887,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_02092,Daylight Savings - My brother Daniel,1,0.8925858537273897,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_02113,mystery team 2090 - Jesse Futerman,1,0.8816923103974424,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_02114,mystery team 2090 - Jesse Futerman,1,0.9737017639840676,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_02115,Night Drive - Decktonic,1,0.9866689982819777,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_02116,Night Drive - Decktonic,1,0.9063666897465054,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_02121,Nuo Maisemat - Paavoharju,1,0.9673473077788537,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_02122,Nuo Maisemat - Paavoharju,1,0.9953920998900422,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_02149,SD (Ill Mix) - H-LR,1,0.8726764901805014,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_02150,SD (Ill Mix) - H-LR,1,0.5511799971156461,3,0
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_02185,Evil Cannot Create - Caleb Lemond,1,0.9310414541727131,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_02186,Evil Cannot Create - Caleb Lemond,1,0.9162515403764422,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_02221,New Life (take 1) - Bird Names,1,0.9797277262090556,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_02222,New Life (take 1) - Bird Names,1,0.9822712859411884,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_02223,Norweigian Wood II - Bird Names,1,0.8707502153164647,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_02224,Norweigian Wood II - Bird Names,1,0.9787515847045501,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_02231,Roller Star - Monroeville Music Center,1,0.9530028523426703,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_02232,Roller Star - Monroeville Music Center,1,0.9334135880714854,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_02233,"Roundtrip - Oh Yeah, the Future",1,0.9495392597459981,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_02234,"Roundtrip - Oh Yeah, the Future",1,0.9554283036712815,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_02239,Soleares&beats - Malaventura,1,0.9388949211116505,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_02240,Soleares&beats - Malaventura,1,0.9023633572930949,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_02245,Stockholm Syndrome / People Should Be More Aware - Bird Names,1,0.9887800057914257,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_02246,Stockholm Syndrome / People Should Be More Aware - Bird Names,1,0.9889084872483688,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_02259,Time Is Love - Silence is full of birds,1,0.9778522988676882,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_02260,Time Is Love - Silence is full of birds,1,0.9381700296660828,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_02273,2 (Wasn't There) - Isle of Pine,1,0.9628776129812945,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_02274,2 (Wasn't There) - Isle of Pine,1,0.9454794130671703,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_02283,Empty Pockets - Pete Prodoehl,1,0.9755227282407865,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_02284,Empty Pockets - Pete Prodoehl,1,0.811302152995181,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_02289,Gila Monster Flop/Music History Lesson:The Sonics - The Crypts!,1,0.5416289312563605,3,0
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_02290,Gila Monster Flop/Music History Lesson:The Sonics - The Crypts!,1,0.887367210386155,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_02295,I Fell - Mod Fun,1,0.9394627476248738,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_02296,I Fell - Mod Fun,1,0.9336084064740034,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_02311,March of the GPA Mechanics - [t]ghost,1,0.9439972664318987,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_02312,March of the GPA Mechanics - [t]ghost,1,0.9334399737527228,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_02331,Scramby Eggs - Andy G. Cohen,1,0.8960563146960195,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_02332,Scramby Eggs - Andy G. Cohen,1,0.9519549491894032,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_02349,The girl just faded - Los Llamarada,1,0.8508671765949841,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_02350,The girl just faded - Los Llamarada,1,0.80088531210833,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_02355,Voxel - Andy G. Cohen,1,0.7408302051733543,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_02356,Voxel - Andy G. Cohen,1,0.868799086297095,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_02363,Windows of the Skull - Sarin,1,0.6872850114771104,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_02364,Windows of the Skull - Sarin,1,0.9134329089177026,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_02369,Новый Нью-Йорк 2 - Чокнутый Пропеллер,1,0.9400713937546389,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_02370,Новый Нью-Йорк 2 - Чокнутый Пропеллер,1,0.8054939624672762,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_02387,CopperNickle - UncleBibby,1,0.9727590558094835,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_02388,CopperNickle - UncleBibby,1,0.798299065739525,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_02391,Daylight Savings - My brother Daniel,1,0.7219273375545147,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_02392,Daylight Savings - My brother Daniel,1,0.4955567898969678,3,0
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_02413,mystery team 2090 - Jesse Futerman,1,0.9938455947521693,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_02414,mystery team 2090 - Jesse Futerman,1,0.9777700976387828,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_02415,Night Drive - Decktonic,1,0.9885788492886345,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_02416,Night Drive - Decktonic,1,0.9702796183683109,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_02421,Nuo Maisemat - Paavoharju,1,0.9116490514048804,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_02422,Nuo Maisemat - Paavoharju,1,0.9940126534632352,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_02449,SD (Ill Mix) - H-LR,1,0.9798748435705696,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_02450,SD (Ill Mix) - H-LR,1,0.9892225017623334,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_02485,Evil Cannot Create - Caleb Lemond,1,0.9921716896363564,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_02486,Evil Cannot Create - Caleb Lemond,1,0.9948349092755109,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_02521,New Life (take 1) - Bird Names,1,0.9386202276039274,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_02522,New Life (take 1) - Bird Names,1,0.9201603850726423,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_02523,Norweigian Wood II - Bird Names,1,0.9844717216571802,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_02524,Norweigian Wood II - Bird Names,1,0.9724447268305908,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_02531,Roller Star - Monroeville Music Center,1,0.9780971991278635,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_02532,Roller Star - Monroeville Music Center,1,0.9022689032247174,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_02533,"Roundtrip - Oh Yeah, the Future",1,0.9769832915859601,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_02534,"Roundtrip - Oh Yeah, the Future",1,0.9125310702822641,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_02539,Soleares&beats - Malaventura,1,0.947818635366275,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_02540,Soleares&beats - Malaventura,1,0.8599435622000313,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_02545,Stockholm Syndrome / People Should Be More Aware - Bird Names,1,0.3195263729432179,3,0
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_02546,Stockholm Syndrome / People Should Be More Aware - Bird Names,1,0.47824247692270955,3,0
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_02559,Time Is Love - Silence is full of birds,1,0.9097141913606116,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_02560,Time Is Love - Silence is full of birds,1,0.9313047762778024,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_02573,2 (Wasn't There) - Isle of Pine,1,0.9977795836041682,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_02574,2 (Wasn't There) - Isle of Pine,1,0.7127677235441476,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_02583,Empty Pockets - Pete Prodoehl,1,0.7039664503691029,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_02584,Empty Pockets - Pete Prodoehl,1,0.7121462700140532,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_02589,Gila Monster Flop/Music History Lesson:The Sonics - The Crypts!,1,0.9311288455619232,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_02590,Gila Monster Flop/Music History Lesson:The Sonics - The Crypts!,1,0.6006751169818637,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_02595,I Fell - Mod Fun,1,0.9657918691853299,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_02596,I Fell - Mod Fun,1,0.7944010739522717,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_02611,March of the GPA Mechanics - [t]ghost,1,0.8214607660838759,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_02612,March of the GPA Mechanics - [t]ghost,1,0.8801666749578242,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_02631,Scramby Eggs - Andy G. Cohen,1,0.7766895767727156,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_02632,Scramby Eggs - Andy G. Cohen,1,0.5138212459494174,3,0
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_02649,The girl just faded - Los Llamarada,1,0.997258202388132,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_02650,The girl just faded - Los Llamarada,1,0.6817626718458637,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_02655,Voxel - Andy G. Cohen,1,0.4300913639994093,3,0
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_02656,Voxel - Andy G. Cohen,1,0.7275731767831494,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_02663,Windows of the Skull - Sarin,1,0.8255968189647748,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_02664,Windows of the Skull - Sarin,1,0.7064085731864008,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_02669,Новый Нью-Йорк 2 - Чокнутый Пропеллер,1,0.9687702152302377,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_02670,Новый Нью-Йорк 2 - Чокнутый Пропеллер,1,0.9663512786190477,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_02678,CopperNickle - UncleBibby,1,0.4632649113785526,3,0
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_02680,Daylight Savings - My brother Daniel,1,0.6209865549371677,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_02689,mystery team 2090 - Jesse Futerman,1,0.4186714737340454,3,0
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_02690,Night Drive - Decktonic,1,0.8447666723288069,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_02717,Agora - Malaventura,1,0.9600753176547254,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_02725,Evil Cannot Create - Caleb Lemond,1,0.7261330691050061,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_02743,My Body Is A Weapon (Compromise Edit) - Silence is full of birds,1,0.5661778486570721,3,0
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_02745,New Life (take 1) - Bird Names,1,0.9277115628853242,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_02746,Norweigian Wood II - Bird Names,1,0.7574591413367315,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_02754,Roller Star - Monroeville Music Center,1,0.817907298019005,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_02758,Soleares&beats - Malaventura,1,0.852959692320893,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_02762,Stockholm Syndrome / People Should Be More Aware - Bird Names,1,0.8936029475820999,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_02772,Time Is Love - Silence is full of birds,1,0.6651225879867977,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_02780,2 (Wasn't There) - Isle of Pine,1,0.9418251359745549,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_02790,Beyond Luxury - Mors Ontologica,1,0.7642707953539168,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_02801,Empty Pockets - Pete Prodoehl,1,0.9470143823160216,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_02806,Gila Monster Flop/Music History Lesson:The Sonics - The Crypts!,1,0.6752208200039269,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_02821,Lights Up - Pipe Choir,1,0.8675506298565437,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_02825,March of the GPA Mechanics - [t]ghost,1,0.89657924998978,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_02834,Redlight - Room For A Ghost,1,0.9158005042627142,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_02838,Scramby Eggs - Andy G. Cohen,1,0.6672805019901084,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_02841,Shipwrecked Crew - Pete Prodoehl,1,0.9642164018904538,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_02847,В Наших Сердцах - Чокнутый Пропеллер,1,0.7229399911006507,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_02850,The girl just faded - Los Llamarada,1,0.9969592596267639,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_02854,Voxel - Andy G. Cohen,1,0.8701426049173245,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_02862,В Наших Сердцах - Чокнутый Пропеллер,1,0.921952853751335,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_02864,В Наших Сердцах - Чокнутый Пропеллер,1,0.6882136560984602,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_02867,2 (Wasn't There) - Isle of Pine,1,0.7640378933900601,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_02868,2 (Wasn't There) - Isle of Pine,1,0.9627014470029475,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_02899,CopperNickle - UncleBibby,1,0.8668212441664327,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_02900,CopperNickle - UncleBibby,1,0.800251548960941,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_02905,Daylight Savings - My brother Daniel,1,0.9375208752995222,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_02906,Daylight Savings - My brother Daniel,1,0.9742632854406422,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_02915,Empty Pockets - Pete Prodoehl,1,0.9550263558793916,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_02916,Empty Pockets - Pete Prodoehl,1,0.9253867204945735,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_02919,Evil Cannot Create - Caleb Lemond,1,0.9974275332940254,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_02920,Evil Cannot Create - Caleb Lemond,1,0.9286427447980191,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_02933,Gila Monster Flop/Music History Lesson:The Sonics - The Crypts!,1,0.8274263583690322,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_02934,Gila Monster Flop/Music History Lesson:The Sonics - The Crypts!,1,0.1890922275595457,3,0
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_02945,I Fell - Mod Fun,1,0.8347207021423175,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_02946,I Fell - Mod Fun,1,0.7347323963973648,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_02983,March of the GPA Mechanics - [t]ghost,1,0.930372705666728,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_02984,March of the GPA Mechanics - [t]ghost,1,0.912028568024213,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_02999,New Life (take 1) - Bird Names,1,0.9449495372817155,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_03000,New Life (take 1) - Bird Names,1,0.907254903656245,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_03001,Night Drive - Decktonic,1,0.8883989281179034,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_03002,Night Drive - Decktonic,1,0.9531340240097697,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_03007,Norweigian Wood II - Bird Names,1,0.8981741314702619,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_03008,Norweigian Wood II - Bird Names,1,0.898387456061768,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_03011,Nuo Maisemat - Paavoharju,1,0.9495848437429952,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_03012,Nuo Maisemat - Paavoharju,1,0.934200975259967,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_03047,Roller Star - Monroeville Music Center,1,0.9559402937610283,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_03048,Roller Star - Monroeville Music Center,1,0.8922579305759433,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_03049,"Roundtrip - Oh Yeah, the Future",1,0.8882851197556745,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_03050,"Roundtrip - Oh Yeah, the Future",1,0.7584296261075744,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_03053,SD (Ill Mix) - H-LR,1,0.9564032386330327,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_03054,SD (Ill Mix) - H-LR,1,0.9458448723383898,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_03055,Scramby Eggs - Andy G. Cohen,1,0.8570081636026545,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_03056,Scramby Eggs - Andy G. Cohen,1,0.6386856245670418,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_03069,Soleares&beats - Malaventura,1,0.7494643689871895,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_03070,Soleares&beats - Malaventura,1,0.9591266492625811,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_03077,Stockholm Syndrome / People Should Be More Aware - Bird Names,1,0.9717718349839052,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_03078,Stockholm Syndrome / People Should Be More Aware - Bird Names,1,0.5533772807835073,3,0
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_03109,The girl just faded - Los Llamarada,1,0.4846625340217921,3,0
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_03110,The girl just faded - Los Llamarada,1,0.6983406971732619,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_03113,Time Is Love - Silence is full of birds,1,0.8444073614735755,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_03114,Time Is Love - Silence is full of birds,1,0.9682914497639116,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_03125,Voxel - Andy G. Cohen,1,0.5890810222259794,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_03126,Voxel - Andy G. Cohen,1,0.877076346902553,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_03137,Windows of the Skull - Sarin,1,0.9456185834033738,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_03138,Windows of the Skull - Sarin,1,0.9512608515170896,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_03155,mystery team 2090 - Jesse Futerman,1,0.9493005872534696,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_03156,mystery team 2090 - Jesse Futerman,1,0.9866695288458827,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_03163,Новый Нью-Йорк 2 - Чокнутый Пропеллер,1,0.6241062013255884,3,1
+unseen_fixed_classical_mert_20260919T173138Z,musicgen,Frozen MERT + LR,val,track,0.5838492782058293,sample_03164,Новый Нью-Йорк 2 - Чокнутый Пропеллер,1,0.7104450636412017,3,1

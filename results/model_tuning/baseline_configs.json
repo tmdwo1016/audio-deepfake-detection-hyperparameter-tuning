@@ -1,0 +1,79 @@
+{
+  "final_run_id": "final_binary_20260919T164939Z",
+  "component_runs": {
+    "classical": "classical_20260919T110356Z",
+    "cnn": "cnn_revised_20260919T110440Z",
+    "mert": "mert_binary_20260919T110741Z"
+  },
+  "split_manifest_sha256": "9023dcb21bef5d7163c63ea93258195e53c9fde3ecb7fee5920bf6ff94bbc2b3",
+  "models": {
+    "classical": {
+      "LogisticRegression": {
+        "params": {
+          "C": 1.0,
+          "solver": "lbfgs",
+          "penalty": "l2",
+          "class_weight": "balanced",
+          "max_iter": 3000
+        },
+        "checkpoint": "/Users/seungjae/Desktop/SNU/기계학습 & 딥러닝/project/checkpoints/optimized/logistic_baseline.joblib",
+        "checkpoint_sha256": "61f25b23995441cd01115cf0ae95c404d8cb013807799ac4bff4afaee24d28b2",
+        "candidate_order": 2,
+        "train_segments": 6967,
+        "val_segments": 1538
+      },
+      "RBF-SVM": {
+        "params": {
+          "kernel": "rbf",
+          "C": 1.0,
+          "gamma": "scale",
+          "class_weight": "balanced",
+          "probability": false
+        },
+        "checkpoint": "/Users/seungjae/Desktop/SNU/기계학습 & 딥러닝/project/checkpoints/optimized/svm_baseline.joblib",
+        "checkpoint_sha256": "fd06d00d79539a6d113e775bc857a75c7da054db0fed1e4b216aa4d7eea3720a",
+        "candidate_order": 4,
+        "train_segments": 6967,
+        "val_segments": 1538
+      }
+    },
+    "cnn": {
+      "run_id": "cnn_revised_20260919T110440Z",
+      "model": "Log-Mel CNN",
+      "split": "val",
+      "level": "segment+track",
+      "trial_id": "cnn_baseline",
+      "stage": "baseline",
+      "candidate_order": 0,
+      "status": "complete",
+      "lr": 0.001,
+      "dropout": 0.3,
+      "weight_decay": 0.0001,
+      "batch_size": 32,
+      "max_epochs": 20,
+      "patience": 4,
+      "optimizer": "AdamW",
+      "architecture": "historical_4_conv_blocks",
+      "best_epoch": 13,
+      "epochs_run": 17,
+      "updates": 3706,
+      "elapsed_sec": 1474.7603409999283,
+      "val_inference_sec": 4.589066292042844,
+      "device": "mps",
+      "checkpoint": "/Users/seungjae/Desktop/SNU/기계학습 & 딥러닝/project/checkpoints/optimized/cnn_trials/cnn_baseline.pt",
+      "segment_roc_auc": 0.9455472218630114,
+      "segment_eer": 0.12091038406827881,
+      "track_roc_auc": 0.9670619235836628,
+      "track_eer": 0.09090909090909091,
+      "track_macro_f1": 0.7865820734341253,
+      "segment_threshold": 0.21793727576732635,
+      "track_threshold": 0.36034177119533223,
+      "n_train_segments": 6967,
+      "n_val_segments": 1538
+    },
+    "mert": {
+      "layer": 12,
+      "C": 1.0
+    }
+  }
+}

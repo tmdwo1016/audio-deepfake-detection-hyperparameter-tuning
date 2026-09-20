@@ -1,0 +1,56 @@
+{
+  "final_run_id": "final_binary_20260919T164939Z",
+  "component_runs": {
+    "classical": "classical_20260919T110356Z",
+    "cnn": "cnn_revised_20260919T110440Z",
+    "mert": "mert_binary_20260919T110741Z"
+  },
+  "split_manifest_sha256": "9023dcb21bef5d7163c63ea93258195e53c9fde3ecb7fee5920bf6ff94bbc2b3",
+  "test_segments": 1572,
+  "mert": {
+    "device": "cpu",
+    "model_load_seconds": 0.7226876670029014,
+    "embedding_extraction_seconds": 448.2287088340381,
+    "cache_paths": {
+      "embeddings": "/Users/seungjae/Desktop/SNU/기계학습 & 딥러닝/project/data/processed/mert/mert95m_binary_test_validframe_12af15fef9d0.npy",
+      "done": "/Users/seungjae/Desktop/SNU/기계학습 & 딥러닝/project/data/processed/mert/mert95m_binary_test_validframe_12af15fef9d0_done.npy",
+      "index": "/Users/seungjae/Desktop/SNU/기계학습 & 딥러닝/project/data/processed/mert/mert95m_binary_test_validframe_12af15fef9d0_index.csv",
+      "metadata": "/Users/seungjae/Desktop/SNU/기계학습 & 딥러닝/project/data/processed/mert/mert95m_binary_test_validframe_12af15fef9d0_meta.json"
+    },
+    "cache_metadata": {
+      "model": "m-a-p/MERT-v1-95M",
+      "revision": "12af15fef9d0ac838c3f475bfbbf26d2060dd4f5",
+      "processor_sampling_rate": 24000,
+      "segment_sec": 10.0,
+      "input": "24kHz mono, original 10s boundary, no zero padding",
+      "pooling": "single-segment valid hidden frames mean",
+      "levels": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "hidden_size": 768,
+      "manifest_sha256": "9023dcb21bef5d7163c63ea93258195e53c9fde3ecb7fee5920bf6ff94bbc2b3",
+      "splits": [
+        "test"
+      ],
+      "segment_ids_sha256": "e3064b161f399b04ccae85225781c1f49b97d8da6a5326eb4725d55eb65afc1d"
+    }
+  },
+  "cnn_device": "mps",
+  "python": "3.13.9",
+  "numpy": "2.3.5",
+  "pandas": "2.3.3",
+  "sklearn": "1.7.2",
+  "torch": "2.14.0"
+}
